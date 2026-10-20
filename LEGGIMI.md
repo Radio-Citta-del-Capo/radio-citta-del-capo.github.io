@@ -1,7 +1,7 @@
 # Sito di Radio Città del Capo
 
 Archivio online di Radio Città del Capo (Bologna, 1987–2021).
-Indirizzo: https://micpompei-coder.github.io/radio-citta-del-capo/
+Indirizzo: https://radio-citta-del-capo.github.io/
 
 Sito statico: una sola pagina (`index.html`) che legge i contenuti dai file nella cartella `data/`.
 Non serve un database. Per aggiungere materiale si modificano i file di dati.
