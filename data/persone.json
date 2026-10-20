@@ -1,0 +1,6188 @@
+{
+ "persone": [
+  {
+   "id": "accardi",
+   "nome": "Accardi",
+   "chiave": "Accardi",
+   "tipo": "pseudonimo",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1997)"
+   ]
+  },
+  {
+   "id": "cristian-adamo",
+   "nome": "Cristian Adamo",
+   "chiave": "Adamo",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-pomeridiana",
+     "titolo": "Conduzione pomeridiana",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "alain",
+   "nome": "Alain",
+   "chiave": "Alain",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "international-dubbers",
+     "titolo": "International dubbers",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "andrea-albani",
+   "nome": "Andrea Albani",
+   "chiave": "Albani",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-pomeridiana",
+     "titolo": "Conduzione pomeridiana",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "linee-oblique",
+     "titolo": "Linee oblique",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "psyco",
+     "titolo": "Psyco",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "luca-alessandrini",
+   "nome": "Luca Alessandrini",
+   "chiave": "Alessandrini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa",
+     "titolo": "Rassegna stampa",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Inizio 1993",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "marzio-amadori",
+   "nome": "Marzio Amadori",
+   "chiave": "Amadori",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzioni-musicali-periodiche",
+     "titolo": "Conduzioni musicali periodiche",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "rassegna-stampa",
+     "titolo": "Rassegna stampa",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "andrea",
+   "nome": "Andrea",
+   "chiave": "Andrea",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "microphone-fien",
+     "titolo": "Microphone fién",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "microphone-fiends",
+     "titolo": "Microphone fiends",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    },
+    {
+     "id": "the-microphone-phiend",
+     "titolo": "The microphone phiend",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "marco-angelucci",
+   "nome": "Marco Angelucci",
+   "chiave": "Angelucci",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "antonella",
+   "nome": "Antonella",
+   "chiave": "Antonella",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "fino-alla-fine-del-mondo",
+     "titolo": "Fino alla fine del mondo",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "alberto-antonini",
+   "nome": "Alberto Antonini",
+   "chiave": "Antonini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale-serale",
+     "titolo": "Conduzione musicale serale",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "conduzioni-musicali-periodiche",
+     "titolo": "Conduzioni musicali periodiche",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane-e-serali",
+     "titolo": "Conduzioni pomeridiane e serali",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "kaos",
+     "titolo": "Kaos",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "la-radio-sul-cuscino",
+     "titolo": "La radio sul cuscino",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "elsa-antonioni",
+   "nome": "Elsa Antonioni",
+   "chiave": "Antonioni",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "ti-amo-ti-odio",
+     "titolo": "Ti amo, ti odio",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "massimo-antonucci",
+   "nome": "Massimo Antonucci",
+   "chiave": "Antonucci",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "fuori-moda",
+     "titolo": "Fuori moda",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "alberto-artese",
+   "nome": "Alberto Artese",
+   "chiave": "Artese",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane-e-serali",
+     "titolo": "Conduzioni pomeridiane e serali",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "newport",
+     "titolo": "Newport",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giovanni-azzoni",
+   "nome": "Giovanni Azzoni",
+   "chiave": "Azzoni",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "mondo-frido",
+     "titolo": "Mondo frido",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "van",
+     "titolo": "Van",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "luca-baldazzi",
+   "nome": "Luca Baldazzi",
+   "chiave": "Baldazzi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Patagonia",
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 6
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "michele-balduzzi",
+   "nome": "Michele Balduzzi",
+   "chiave": "Balduzzi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "il-castello-di-wyvis",
+     "titolo": "Il castello di Wyvis",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "conduzioni-musicali-periodiche",
+     "titolo": "Conduzioni musicali periodiche",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane-e-serali",
+     "titolo": "Conduzioni pomeridiane e serali",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "tempo-reale",
+     "titolo": "Tempo reale",
+     "periodi": [
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "marco-ballotta",
+   "nome": "Marco Ballotta",
+   "chiave": "Ballotta",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "mondo-groove",
+     "titolo": "Mondo groove",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "davide-bandiera",
+   "nome": "Davide Bandiera",
+   "chiave": "Bandiera",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-pomeridiana",
+     "titolo": "Conduzione pomeridiana",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giovanni-barbanti",
+   "nome": "Giovanni Barbanti",
+   "chiave": "Barbanti",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "contaminazioni-jazz",
+     "titolo": "Contaminazioni jazz",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "paolo-barnard",
+   "nome": "Paolo Barnard",
+   "chiave": "Barnard",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    },
+    {
+     "id": "non-parlano-italiano",
+     "titolo": "Non parlano italiano",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992",
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "E intanto noi dormivamo",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 4
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "basse-sfere",
+   "nome": "Basse Sfere",
+   "chiave": "Basse Sfere",
+   "tipo": "collettivo",
+   "programmi": [
+    {
+     "id": "l-orecchio-di-cemento",
+     "titolo": "L'orecchio di cemento",
+     "periodi": [
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "simone-bedetti",
+   "nome": "Simone Bedetti",
+   "chiave": "Bedetti",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale-serale",
+     "titolo": "Conduzione musicale serale",
+     "periodi": [
+      "Stagione 1995–96"
+     ]
+    },
+    {
+     "id": "l-era-del-cinghiale-bianco",
+     "titolo": "L'era del cinghiale bianco",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "isole-nella-rete",
+     "titolo": "Isole nella rete",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Isole nella rete",
+     "numero": "1995-n3-4",
+     "numero_label": "anno 4 n.3-4",
+     "pagina": 5
+    },
+    {
+     "titolo": "Isole nella rete: un aggiornamento",
+     "numero": "1996-n1-2",
+     "numero_label": "anno 5 n.1-2",
+     "pagina": 7
+    },
+    {
+     "titolo": "Giocare ad abbonarsi",
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 6
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "bibi-bellini",
+   "nome": "Bibi Bellini",
+   "chiave": "Bellini",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [
+    {
+     "titolo": "Il tempo degli abbonati",
+     "numero": "1995-n3-4",
+     "numero_label": "anno 4 n.3-4",
+     "pagina": 6
+    },
+    {
+     "titolo": "Abbonàti in banca",
+     "numero": "1996-n1-2",
+     "numero_label": "anno 5 n.1-2",
+     "pagina": 7
+    },
+    {
+     "titolo": "Sotto a chi ritocca",
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 4
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "redattore di Novantaseietre (1996), collaboratore (1997)"
+   ]
+  },
+  {
+   "id": "nevio-bencivenni",
+   "nome": "Nevio Bencivenni",
+   "chiave": "Bencivenni",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale-serale",
+     "titolo": "Conduzione musicale serale",
+     "periodi": [
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane-e-serali",
+     "titolo": "Conduzioni pomeridiane e serali",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "live",
+     "titolo": "Live",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "microphone-fiends",
+     "titolo": "Microphone fiends",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "stefano-benni",
+   "nome": "Stefano Benni",
+   "chiave": "Benni",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [
+    {
+     "titolo": "Ce l'hai un'idea?",
+     "numero": "1991-n0",
+     "numero_label": "n.0",
+     "pagina": 1
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "direttore responsabile di Novantaseietre (1992–1999)"
+   ]
+  },
+  {
+   "id": "valeria-bertoncelli",
+   "nome": "Valeria Bertoncelli",
+   "chiave": "Bertoncelli",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rcdc-informazione-internazionale",
+     "titolo": "RCdC informazione internazionale",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giancarlo-bettini",
+   "nome": "Giancarlo Bettini",
+   "chiave": "Bettini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "nowhereland",
+     "titolo": "Nowhereland",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "rcdc-arte",
+     "titolo": "RCdC Arte",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992",
+      "Inizio 1993",
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "spazio-servizi-arte",
+     "titolo": "Spazio servizi: arte",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Melodramma! Che passione...",
+     "numero": "1991-n0",
+     "numero_label": "n.0",
+     "pagina": 3
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "paolo-billi",
+   "nome": "Paolo Billi",
+   "chiave": "Billi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "rcdc-teatro",
+     "titolo": "RCdC Teatro",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992",
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "claudio-boccolari",
+   "nome": "Claudio Boccolari",
+   "chiave": "Boccolari",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "comma-22",
+     "titolo": "Comma 22",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "miscellanea",
+     "titolo": "Miscellanea",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    },
+    {
+     "id": "radio-oddities",
+     "titolo": "Radio oddities",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "massimiliano-bonini",
+   "nome": "Massimiliano Bonini",
+   "chiave": "Bonini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "speed-reaction",
+     "titolo": "Speed reaction",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    },
+    {
+     "id": "speedreaction",
+     "titolo": "Speedreaction",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "teenage-kicks",
+     "titolo": "Teenage kicks",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "luca-bottura",
+   "nome": "Luca Bottura",
+   "chiave": "Bottura",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "la-palla-al-piede",
+     "titolo": "La palla al piede",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-di-network",
+     "titolo": "Rassegna stampa di network",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "vile-vinile",
+     "titolo": "Vile vinile",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "marcella-brizzi",
+   "nome": "Marcella Brizzi",
+   "chiave": "Brizzi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "meglio-la-salute",
+     "titolo": "Meglio la salute",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "amedeo-bruni",
+   "nome": "Amedeo Bruni",
+   "chiave": "Bruni",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane",
+     "titolo": "Conduzioni pomeridiane",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane-e-serali",
+     "titolo": "Conduzioni pomeridiane e serali",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "newport",
+     "titolo": "Newport",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "panasonica",
+     "titolo": "Panasonica",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "sonica",
+     "titolo": "Sonica",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "supersonica",
+     "titolo": "Supersonica",
+     "periodi": [
+      "Stagione 1995–96"
+     ]
+    },
+    {
+     "id": "ultrasonica",
+     "titolo": "Ultrasonica",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "È ancora Kryptonight!",
+     "numero": "1991-n0",
+     "numero_label": "n.0",
+     "pagina": 3
+    },
+    {
+     "titolo": "Giorgio Gaber e le \"posse italiane\"",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 5
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "redazione di Novantaseietre (1993)"
+   ]
+  },
+  {
+   "id": "augusto-bruni",
+   "nome": "Augusto Bruni",
+   "chiave": "Bruni",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "borderline",
+     "titolo": "Borderline",
+     "periodi": [
+      "Stagione 1995–96"
+     ]
+    },
+    {
+     "id": "boyz-in-the-hood",
+     "titolo": "Boyz in the hood",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "conduzione-musicale-serale",
+     "titolo": "Conduzione musicale serale",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "conduzioni-musicali-periodiche",
+     "titolo": "Conduzioni musicali periodiche",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "la-croce-del-sud",
+     "titolo": "La croce del Sud",
+     "periodi": [
+      "Inverno 1991–92",
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "nessun-dorma",
+     "titolo": "Nessun dorma",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "oldies-but-goldies",
+     "titolo": "Oldies but goldies",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "patrizia-burnacci",
+   "nome": "Patrizia Burnacci",
+   "chiave": "Burnacci",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "pubblicità di Novantaseietre (1996–97)"
+   ]
+  },
+  {
+   "id": "giampiero-burza",
+   "nome": "Giampiero Burza",
+   "chiave": "Burza",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "borderline",
+     "titolo": "Borderline",
+     "periodi": [
+      "Stagione 1995–96"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "francesco-buttafava",
+   "nome": "Francesco Buttafava",
+   "chiave": "Buttafava",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "progetto grafico e videoimpaginazione di Novantaseietre (1994–95)"
+   ]
+  },
+  {
+   "id": "laura-cacciari",
+   "nome": "Laura Cacciari",
+   "chiave": "Cacciari",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "di-cotte-e-di-crude",
+     "titolo": "Di cotte e di crude",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "tempo-reale",
+     "titolo": "Tempo reale",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Ma non finisce qui!",
+     "numero": "1995-n3-4",
+     "numero_label": "anno 4 n.3-4",
+     "pagina": 5
+    },
+    {
+     "titolo": "Di cotte e di crude sale in cattedra",
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 4
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "collaboratrice e illustratrice di Novantaseietre (1997)"
+   ]
+  },
+  {
+   "id": "valerio-cacciari",
+   "nome": "Valerio Cacciari",
+   "chiave": "Cacciari",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale",
+     "titolo": "Conduzione musicale",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "propositivo",
+     "titolo": "Propositivo",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "vincenzo-cacosso",
+   "nome": "Vincenzo Cacosso",
+   "chiave": "Cacosso",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "last-exit",
+     "titolo": "Last Exit",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992",
+      "Inizio 1993",
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "pino-cacucci",
+   "nome": "Pino Cacucci",
+   "chiave": "Cacucci",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa",
+     "titolo": "Rassegna stampa",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Se 500 anni vi sembran pochi...",
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 4
+    },
+    {
+     "titolo": "Non rubateci le parole, manigoldi!",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 7
+    },
+    {
+     "titolo": "Voli di stracci",
+     "numero": "1993-n3-4",
+     "numero_label": "anno 2 n.3-4",
+     "pagina": 7
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "luca-calzolari",
+   "nome": "Luca Calzolari",
+   "chiave": "Calzolari",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "redazione di Novantaseietre (1993–94)"
+   ]
+  },
+  {
+   "id": "francesco-cammarota",
+   "nome": "Francesco Cammarota",
+   "chiave": "Cammarota",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gabriella-cappelletti",
+   "nome": "Gabriella Cappelletti",
+   "chiave": "Cappelletti",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "ti-amo-ti-odio",
+     "titolo": "Ti amo, ti odio",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "andrea-carrieri",
+   "nome": "Andrea Carrieri",
+   "chiave": "Carrieri",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "radiofonico-blues",
+     "titolo": "Radiofonico blues",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giovanni-cassano",
+   "nome": "Giovanni Cassano",
+   "chiave": "Cassano",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "border-radio",
+     "titolo": "Border radio",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane",
+     "titolo": "Conduzioni pomeridiane",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "roadrunner",
+     "titolo": "Roadrunner",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giovanni-cattabriga",
+   "nome": "Giovanni Cattabriga",
+   "chiave": "Cattabriga",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-pomeridiana",
+     "titolo": "Conduzione pomeridiana",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "flavour-of-the-label",
+     "titolo": "Flavour of the label",
+     "periodi": [
+      "Stagione 1995–96"
+     ]
+    },
+    {
+     "id": "giungla-d-asfalto",
+     "titolo": "Giungla d'asfalto",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    },
+    {
+     "id": "mondo-frido",
+     "titolo": "Mondo frido",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "van",
+     "titolo": "Van",
+     "periodi": [
+      "Stagione 1995–96"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "michele-cavaliere",
+   "nome": "Michele Cavaliere",
+   "chiave": "Cavaliere",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [
+    {
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 4,
+     "tipo": "disegno"
+    }
+   ],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1992, 1994)"
+   ]
+  },
+  {
+   "id": "lia-celi",
+   "nome": "Lia Celi",
+   "chiave": "Celi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "sordo-felice",
+     "titolo": "Sordo? Felice!",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "davide-celli",
+   "nome": "Davide Celli",
+   "chiave": "Celli",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1997)"
+   ]
+  },
+  {
+   "id": "valentina-cencetti",
+   "nome": "Valentina Cencetti",
+   "chiave": "Cencetti",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "dear-prudence",
+     "titolo": "Dear Prudence",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "un-ora-di-jazz",
+     "titolo": "Un'ora di jazz",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "max-cenni",
+   "nome": "Max Cenni",
+   "chiave": "Cenni",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "fotografie di Novantaseietre (1997)"
+   ]
+  },
+  {
+   "id": "gilberto-centi",
+   "nome": "Gilberto Centi",
+   "chiave": "Centi",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [
+    {
+     "titolo": "La radio del portoricano",
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 7
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "davide-cepraga",
+   "nome": "Davide Cepraga",
+   "chiave": "Cepraga",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "rcdc-cinema",
+     "titolo": "RCdC Cinema",
+     "periodi": [
+      "Primavera 1992",
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "g-cesari",
+   "nome": "G. Cesari",
+   "chiave": "Cesari",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "ancora-in-movimento",
+     "titolo": "Ancora in movimento",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "mauro-cheli",
+   "nome": "Mauro Cheli",
+   "chiave": "Cheli",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "taffy-louise",
+     "titolo": "Taffy Louise",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giovanna-chioini",
+   "nome": "Giovanna Chioini",
+   "chiave": "Chioini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "fuori-orbita",
+     "titolo": "Fuori orbita",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "non-parlano-italiano",
+     "titolo": "Non parlano italiano",
+     "periodi": [
+      "Stagione 1995–96"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "tempo-reale",
+     "titolo": "Tempo reale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "venti-di-cooperazione",
+     "titolo": "Venti di cooperazione",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Il Referendum",
+     "numero": "1994-n1-2",
+     "numero_label": "anno 3 n.1-2",
+     "pagina": 1
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "redazione di Novantaseietre (1994)"
+   ]
+  },
+  {
+   "id": "chiquino",
+   "nome": "Chiquino",
+   "chiave": "Chiquino",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "unificazione-latina",
+     "titolo": "Unificazione latina",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giovanni-cocchi",
+   "nome": "Giovanni Cocchi",
+   "chiave": "Cocchi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "le-cose-che",
+     "titolo": "Le cose che…",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "redazione di Novantaseietre (1994)"
+   ]
+  },
+  {
+   "id": "dhany-coraucci",
+   "nome": "Dhany Coraucci",
+   "chiave": "Coraucci",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "brivido-nero",
+     "titolo": "Brivido nero",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "corrispondente-x",
+     "titolo": "Corrispondente X",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "l-eterna-illusione",
+     "titolo": "L'eterna illusione",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Via etere gli itinerari della paura",
+     "numero": "1993-n3-4",
+     "numero_label": "anno 2 n.3-4",
+     "pagina": 3
+    },
+    {
+     "titolo": "L'eterna illusione",
+     "numero": "1995-n3-4",
+     "numero_label": "anno 4 n.3-4",
+     "pagina": 5
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "redazione di Novantaseietre (1993)"
+   ]
+  },
+  {
+   "id": "cristian",
+   "nome": "Cristian",
+   "chiave": "Cristian",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "il-puttanoroscopo",
+     "titolo": "Il puttanoroscopo",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "camilla-cuppini",
+   "nome": "Camilla Cuppini",
+   "chiave": "Cuppini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gianna-curti",
+   "nome": "Gianna Curti",
+   "chiave": "Curti",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gino-dal-soler",
+   "nome": "Gino Dal Soler",
+   "chiave": "Dal Soler",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale-serale",
+     "titolo": "Conduzione musicale serale",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "la-croce-del-sud",
+     "titolo": "La croce del Sud",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    },
+    {
+     "id": "psycho-navigation",
+     "titolo": "Psycho navigation",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "stella-polare",
+     "titolo": "Stella polare",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "il-tamburo-dello-sciamano",
+     "titolo": "Il tamburo dello sciamano",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "alex-dandi",
+   "nome": "Alex Dandi",
+   "chiave": "Dandi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "achtung-banditi",
+     "titolo": "Achtung banditi",
+     "periodi": [
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "alto-voltaggio",
+     "titolo": "Alto voltaggio",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane-e-serali",
+     "titolo": "Conduzioni pomeridiane e serali",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "nessun-dorma",
+     "titolo": "Nessun dorma",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "stand-by",
+     "titolo": "Stand by",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Segnalazioni",
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 6
+    },
+    {
+     "titolo": "Centofiori 97, la riscossa",
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 7
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "redattore di Novantaseietre (1997)"
+   ]
+  },
+  {
+   "id": "davide",
+   "nome": "Davide",
+   "chiave": "Davide",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "il-puttanoroscopo",
+     "titolo": "Il puttanoroscopo",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "dayle",
+   "nome": "Dayle",
+   "chiave": "Dayle",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "international-dubbers",
+     "titolo": "International dubbers",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "miran-de-almeida",
+   "nome": "Miran de Almeida",
+   "chiave": "de Almeida",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rcdc-informazione-internazionale",
+     "titolo": "RCdC informazione internazionale",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "spazio-servizi-fuori-orbita",
+     "titolo": "Spazio servizi: Fuori orbita",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "francesco-de-grande",
+   "nome": "Francesco De Grande",
+   "chiave": "De Grande",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [
+    {
+     "titolo": "Voi avete qualche idea?",
+     "numero": "1996-n1-2",
+     "numero_label": "anno 5 n.1-2",
+     "pagina": 1
+    },
+    {
+     "titolo": "Siamo in affanno, ma possiamo riprenderci",
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 1
+    },
+    {
+     "titolo": "Per qualche spot in più",
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 3
+    },
+    {
+     "titolo": "Chi è il capo qui? Cosa? Una radio?",
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 1
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "pubblicità di Novantaseietre (1996–97); fotografie (1993)"
+   ]
+  },
+  {
+   "id": "gualtiero-de-marinis",
+   "nome": "Gualtiero De Marinis",
+   "chiave": "De Marinis",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "rcdc-cinema",
+     "titolo": "RCdC Cinema",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "tanino-de-rosa",
+   "nome": "Tanino De Rosa",
+   "chiave": "De Rosa",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa",
+     "titolo": "Rassegna stampa",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "lidia-de-vido",
+   "nome": "Lidia De Vido",
+   "chiave": "De Vido",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "quinto-sbarramento",
+     "titolo": "Quinto sbarramento",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "mary-del-barba",
+   "nome": "Mary Del Barba",
+   "chiave": "Del Barba",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "dela",
+   "nome": "Dela",
+   "chiave": "Dela",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "nessun-dorma",
+     "titolo": "Nessun dorma",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "beatrice-di-pisa",
+   "nome": "Beatrice Di Pisa",
+   "chiave": "Di Pisa",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "catherine-dickehage",
+   "nome": "Catherine Dickehage",
+   "chiave": "Dickehage",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rcdc-informazione-internazionale",
+     "titolo": "RCdC informazione internazionale",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "spazio-servizi-fuori-orbita",
+     "titolo": "Spazio servizi: Fuori orbita",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gregorio-dimonopoli",
+   "nome": "Gregorio Dimonopoli",
+   "chiave": "Dimonopoli",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale-del-mattino",
+     "titolo": "Conduzione musicale del mattino",
+     "periodi": [
+      "Primavera 1992",
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992",
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "rime",
+     "titolo": "Rime",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "dj-di-rcdc",
+   "nome": "DJ di RCdC",
+   "chiave": "DJ di RCdC",
+   "tipo": "collettivo",
+   "programmi": [
+    {
+     "id": "conduzione-musicale",
+     "titolo": "Conduzione musicale",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "conduzione-musicale-e-regia-in-studio",
+     "titolo": "Conduzione musicale e regia in studio",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giovanni-dognini",
+   "nome": "Giovanni Dognini",
+   "chiave": "Dognini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "fuori-orbita",
+     "titolo": "Fuori orbita",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "rcdc-informazione-internazionale",
+     "titolo": "RCdC informazione internazionale",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "spazio-servizi-fuori-orbita",
+     "titolo": "Spazio servizi: Fuori orbita",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Glocal Radio",
+     "numero": "1999-n1-2",
+     "numero_label": "anno 8 n.1-2",
+     "pagina": 1
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "edgar",
+   "nome": "Edgar",
+   "chiave": "Edgar",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "sin-fronteiras",
+     "titolo": "Sin fronteiras",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giovanni-egidio",
+   "nome": "Giovanni Egidio",
+   "chiave": "Egidio",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "la-palla-al-piede",
+     "titolo": "La palla al piede",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "dj-fabri",
+   "nome": "DJ Fabri",
+   "chiave": "Fabri",
+   "tipo": "pseudonimo",
+   "programmi": [
+    {
+     "id": "tempi-duri",
+     "titolo": "Tempi duri",
+     "periodi": [
+      "Primavera 1992",
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "walter-fasano",
+   "nome": "Walter Fasano",
+   "chiave": "Fasano",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "the-microphone-phiend",
+     "titolo": "The microphone phiend",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "dj-feedback",
+   "nome": "DJ Feedback",
+   "chiave": "Feedback",
+   "tipo": "pseudonimo",
+   "programmi": [],
+   "articoli": [
+    {
+     "titolo": "Eppur si muove",
+     "numero": "1993-n3-4",
+     "numero_label": "anno 2 n.3-4",
+     "pagina": 4
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "federico-ferrari",
+   "nome": "Federico Ferrari",
+   "chiave": "Ferrari",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "teenage-kicks",
+     "titolo": "Teenage kicks",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "marcello-fois",
+   "nome": "Marcello Fois",
+   "chiave": "Fois",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [
+    {
+     "titolo": "Radio Barbagia",
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 6
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "chiara-fumagalli",
+   "nome": "Chiara Fumagalli",
+   "chiave": "Fumagalli",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "otto-gabos",
+   "nome": "Otto Gabos",
+   "chiave": "Gabos",
+   "tipo": "pseudonimo",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [
+    {
+     "numero": "1995-n3-4",
+     "numero_label": "anno 4 n.3-4",
+     "pagina": 3,
+     "tipo": "disegno"
+    }
+   ],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1995)"
+   ]
+  },
+  {
+   "id": "gabri",
+   "nome": "Gabri",
+   "chiave": "Gabri",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "microphone-fien",
+     "titolo": "Microphone fién",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gabriele",
+   "nome": "Gabriele",
+   "chiave": "Gabriele",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "microphone-fiends",
+     "titolo": "Microphone fiends",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    },
+    {
+     "id": "the-microphone-phiend",
+     "titolo": "The microphone phiend",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gabriellina",
+   "nome": "Gabriellina",
+   "chiave": "Gabriellina",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "keep-the-beat",
+     "titolo": "Keep the beat",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "manuela-gadani",
+   "nome": "Manuela Gadani",
+   "chiave": "Gadani",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "quarto-d-ora-accademico",
+     "titolo": "Quarto d'ora accademico",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gianluca-galletti",
+   "nome": "Gianluca Galletti",
+   "chiave": "Galletti",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane-e-serali",
+     "titolo": "Conduzioni pomeridiane e serali",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "mac-guffin",
+     "titolo": "Mac Guffin",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "mc-guffin",
+     "titolo": "Mc Guffin",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Patagonia",
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 6
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giovanni-gandolfi",
+   "nome": "Giovanni Gandolfi",
+   "chiave": "Gandolfi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "flavour-of-the-label",
+     "titolo": "Flavour of the label",
+     "periodi": [
+      "Stagione 1995–96"
+     ]
+    },
+    {
+     "id": "van",
+     "titolo": "Van",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "mauro-garagnani",
+   "nome": "Mauro Garagnani",
+   "chiave": "Garagnani",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "last-exit",
+     "titolo": "Last Exit",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992",
+      "Inizio 1993",
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "francesco-garbari",
+   "nome": "Francesco Garbari",
+   "chiave": "Garbari",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "di-cotte-e-di-crude",
+     "titolo": "Di cotte e di crude",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "vile-vinile",
+     "titolo": "Vile vinile",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gabriele-gardini",
+   "nome": "Gabriele Gardini",
+   "chiave": "Gardini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "mondo-groove",
+     "titolo": "Mondo groove",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "mondogroove",
+     "titolo": "Mondogroove",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "daniele-gasparinetti",
+   "nome": "Daniele Gasparinetti",
+   "chiave": "Gasparinetti",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "impaginazione di Novantaseietre (1992)"
+   ]
+  },
+  {
+   "id": "roberto-gerardi",
+   "nome": "Roberto Gerardi",
+   "chiave": "Gerardi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale-serale",
+     "titolo": "Conduzione musicale serale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "la-croce-del-sud",
+     "titolo": "La croce del Sud",
+     "periodi": [
+      "Inverno 1991–92",
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "stella-polare",
+     "titolo": "Stella polare",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "time-zone",
+     "titolo": "Time zone",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "le-voci-del-vento",
+     "titolo": "Le voci del vento",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giulia-gessi",
+   "nome": "Giulia Gessi",
+   "chiave": "Gessi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "ti-amo-ti-odio",
+     "titolo": "Ti amo, ti odio",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gianni-gherardi",
+   "nome": "Gianni Gherardi",
+   "chiave": "Gherardi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "che-ci-frega-del-jazz",
+     "titolo": "Che ci frega del jazz",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "francesca-ghermandi",
+   "nome": "Francesca Ghermandi",
+   "chiave": "Ghermandi",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [
+    {
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 5,
+     "tipo": "disegno"
+    },
+    {
+     "numero": "1993-n3-4",
+     "numero_label": "anno 2 n.3-4",
+     "pagina": 3,
+     "tipo": "disegno"
+    },
+    {
+     "numero": "1994-n1-2",
+     "numero_label": "anno 3 n.1-2",
+     "pagina": 5,
+     "tipo": "disegno"
+    },
+    {
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 1,
+     "tipo": "disegno"
+    }
+   ],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1993–1997)"
+   ]
+  },
+  {
+   "id": "giulio",
+   "nome": "Giulio",
+   "chiave": "Giulio",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "speed-reaction",
+     "titolo": "Speed reaction",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "roberto-grassilli",
+   "nome": "Roberto Grassilli",
+   "chiave": "Grassilli",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "sordo-felice",
+     "titolo": "Sordo? Felice!",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "silvia-grossi",
+   "nome": "Silvia Grossi",
+   "chiave": "Grossi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "khalid-harda",
+   "nome": "Khalid Harda",
+   "chiave": "Harda",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "sawt-al-mohagir",
+     "titolo": "Sawt al Mohagir",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "sawt-el-mohagir",
+     "titolo": "Sawt el Mohagir",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "mark-howeto",
+   "nome": "Mark Howeto",
+   "chiave": "Howeto",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "novita-discografiche-musica-dal-mondo-jazz",
+     "titolo": "Novità discografiche, musica dal mondo, jazz",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    },
+    {
+     "id": "tam-tam",
+     "titolo": "Tam tam",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "simona-igor",
+   "nome": "Simona Igor",
+   "chiave": "Igor",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "achtung-banditi",
+     "titolo": "Achtung banditi",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "piero-ingrosso",
+   "nome": "Piero Ingrosso",
+   "chiave": "Ingrosso",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "isola-posse",
+   "nome": "Isola Posse",
+   "chiave": "Isola Posse",
+   "tipo": "collettivo",
+   "programmi": [
+    {
+     "id": "tempi-duri",
+     "titolo": "Tempi duri",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "ivar",
+   "nome": "Ivar",
+   "chiave": "Ivar",
+   "tipo": "pseudonimo",
+   "programmi": [],
+   "articoli": [
+    {
+     "titolo": "Anche noi diamo stangate",
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 3
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "jairo",
+   "nome": "Jairo",
+   "chiave": "Jairo",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "radio-caribena",
+     "titolo": "Radio caribeña",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "paolo-klun",
+   "nome": "Paolo Klun",
+   "chiave": "Klun",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "quinto-sbarramento",
+     "titolo": "Quinto sbarramento",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "george-koulermos",
+   "nome": "George Koulermos",
+   "chiave": "Koulermos",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "lucio-lanza",
+   "nome": "Lucio Lanza",
+   "chiave": "Lanza",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [
+    {
+     "titolo": "Una banca molto speciale",
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 6
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "alessandro-leati",
+   "nome": "Alessandro Leati",
+   "chiave": "Leati",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "alex-leati",
+   "nome": "Alex Leati",
+   "chiave": "Leati",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "la-voce-del-sogno",
+     "titolo": "La voce del sogno",
+     "periodi": [
+      "Inizio 1993",
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "le-voci-del-sogno",
+     "titolo": "Le voci del sogno",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "nelsy-leidi",
+   "nome": "Nelsy Leidi",
+   "chiave": "Leidi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "rcdc-teatro",
+     "titolo": "RCdC Teatro",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "camilla-lenzi",
+   "nome": "Camilla Lenzi",
+   "chiave": "Lenzi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "un-ora-di-jazz",
+     "titolo": "Un'ora di jazz",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "angela-liberatore",
+   "nome": "Angela Liberatore",
+   "chiave": "Liberatore",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "maurizio-liguori",
+   "nome": "Maurizio Liguori",
+   "chiave": "Liguori",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane",
+     "titolo": "Conduzioni pomeridiane",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "dj-locca",
+   "nome": "DJ Locca",
+   "chiave": "Locca",
+   "tipo": "pseudonimo",
+   "programmi": [
+    {
+     "id": "tempi-duri",
+     "titolo": "Tempi duri",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "claudio-lolli",
+   "nome": "Claudio Lolli",
+   "chiave": "Lolli",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [
+    {
+     "titolo": "Cinquecento cantautori...",
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 5
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "marco-lorenzoni",
+   "nome": "Marco Lorenzoni",
+   "chiave": "Lorenzoni",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "luther-blissett",
+   "nome": "Luther Blissett",
+   "chiave": "Luther Blissett",
+   "tipo": "collettivo",
+   "programmi": [
+    {
+     "id": "radio-blissett",
+     "titolo": "Radio Blissett",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Luther, la mucca pazza e gli altri",
+     "numero": "1996-n1-2",
+     "numero_label": "anno 5 n.1-2",
+     "pagina": 6
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "ignazio-macchiarella",
+   "nome": "Ignazio Macchiarella",
+   "chiave": "Macchiarella",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "triskell",
+     "titolo": "Triskell",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "maddalena",
+   "nome": "Maddalena",
+   "chiave": "Maddalena",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "fino-alla-fine-del-mondo",
+     "titolo": "Fino alla fine del mondo",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "claudio-malaguti",
+   "nome": "Claudio Malaguti",
+   "chiave": "Malaguti",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "progetto grafico di Novantaseietre (1996)"
+   ]
+  },
+  {
+   "id": "nicoletta-maldini",
+   "nome": "Nicoletta Maldini",
+   "chiave": "Maldini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "librandovi",
+     "titolo": "Librandovi",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "rcdc-libri",
+     "titolo": "RCdC Libri",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "alessandro-mancini",
+   "nome": "Alessandro Mancini",
+   "chiave": "Mancini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "il-grande-rogo",
+     "titolo": "Il grande rogo",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giacomo-manzoli",
+   "nome": "Giacomo Manzoli",
+   "chiave": "Manzoli",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "rcdc-cinema",
+     "titolo": "RCdC Cinema",
+     "periodi": [
+      "Primavera 1992",
+      "Inizio 1993",
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "spazio-servizi-cinema",
+     "titolo": "Spazio servizi: cinema",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Parlare di cinema per vederlo meglio",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 6
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "moreno-mari",
+   "nome": "Moreno Mari",
+   "chiave": "Mari",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "after-tea",
+     "titolo": "After tea",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "massimo-marino",
+   "nome": "Massimo Marino",
+   "chiave": "Marino",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "rcdc-teatro",
+     "titolo": "RCdC Teatro",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992",
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "marzio",
+   "nome": "Marzio",
+   "chiave": "Marzio",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "il-puttanoroscopo",
+     "titolo": "Il puttanoroscopo",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "federico-mascagni",
+   "nome": "Federico Mascagni",
+   "chiave": "Mascagni",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "apertura-pomeriggio",
+     "titolo": "Apertura pomeriggio",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "conduzione-musicale",
+     "titolo": "Conduzione musicale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "conduzione-musicale-e-regia-in-studio",
+     "titolo": "Conduzione musicale e regia in studio",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "conduzione-musicale-serale",
+     "titolo": "Conduzione musicale serale",
+     "periodi": [
+      "Stagione 1995–96"
+     ]
+    },
+    {
+     "id": "isole-nella-rete",
+     "titolo": "Isole nella rete",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "le-mani-sulla-citta",
+     "titolo": "Le mani sulla città",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "speciale-monografie",
+     "titolo": "Speciale monografie",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "The sabato del villaggio theory",
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 6
+    },
+    {
+     "titolo": "\"E il bello è che è gratis!\"",
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 1
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "redattore di Novantaseietre (1997)"
+   ]
+  },
+  {
+   "id": "maso",
+   "nome": "Maso",
+   "chiave": "Maso",
+   "tipo": "pseudonimo",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "progetto grafico di Novantaseietre (1997)"
+   ]
+  },
+  {
+   "id": "gabriella-mattioli",
+   "nome": "Gabriella Mattioli",
+   "chiave": "Mattioli",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "le-cose-che",
+     "titolo": "Le cose che…",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "remo-mazzacurati",
+   "nome": "Remo Mazzacurati",
+   "chiave": "Mazzacurati",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "luca-mazzanti",
+   "nome": "Luca Mazzanti",
+   "chiave": "Mazzanti",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "che-aria-tira",
+     "titolo": "Che aria tira",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "\"Che aria tira?\"",
+     "numero": "1995-n3-4",
+     "numero_label": "anno 4 n.3-4",
+     "pagina": 5
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "monica-melissano",
+   "nome": "Monica Melissano",
+   "chiave": "Melissano",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "basse-frequenze",
+     "titolo": "Basse frequenze",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "suoni-d-irlanda",
+     "titolo": "Suoni d'Irlanda",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Ma è sempre la stessa musica?",
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 1
+    },
+    {
+     "titolo": "Scemo chi ascolta",
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 6
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "redattrice di Novantaseietre (1997)"
+   ]
+  },
+  {
+   "id": "roy-menarini",
+   "nome": "Roy Menarini",
+   "chiave": "Menarini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rcdc-cinema",
+     "titolo": "RCdC Cinema",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "spazio-servizi-cinema",
+     "titolo": "Spazio servizi: cinema",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "donata-meneghelli",
+   "nome": "Donata Meneghelli",
+   "chiave": "Meneghelli",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "l-isola-del-tesoro",
+     "titolo": "L'isola del tesoro",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "rcdc-libri",
+     "titolo": "RCdC Libri",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "roberto-menotti",
+   "nome": "Roberto Menotti",
+   "chiave": "Menotti",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [
+    {
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 3,
+     "tipo": "disegno"
+    }
+   ],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1992, 1997)"
+   ]
+  },
+  {
+   "id": "federico-minghini",
+   "nome": "Federico Minghini",
+   "chiave": "Minghini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "after-tea",
+     "titolo": "After tea",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "andrea-modelli",
+   "nome": "Andrea Modelli",
+   "chiave": "Modelli",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "cul-de-sac",
+     "titolo": "Cul de sac",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "valerio-monteventi",
+   "nome": "Valerio Monteventi",
+   "chiave": "Monteventi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa",
+     "titolo": "Rassegna stampa",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "maurizio-morini",
+   "nome": "Maurizio Morini",
+   "chiave": "Morini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "triskell",
+     "titolo": "Triskell",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "franco-nanni",
+   "nome": "Franco Nanni",
+   "chiave": "Nanni",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "musica-sottile",
+     "titolo": "Musica sottile",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "sara-nanni",
+   "nome": "Sara Nanni",
+   "chiave": "Nanni",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "quarto-d-ora-accademico",
+     "titolo": "Quarto d'ora accademico",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "lino-neri",
+   "nome": "Lino Neri",
+   "chiave": "Neri",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "l-isola-del-tesoro",
+     "titolo": "L'isola del tesoro",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "librandovi",
+     "titolo": "Librandovi",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "rcdc-libri",
+     "titolo": "RCdC Libri",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "spazio-servizi-libri",
+     "titolo": "Spazio servizi: libri",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Un invito alla lettura",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 5
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "novello",
+   "nome": "Novello",
+   "chiave": "Novello",
+   "tipo": "pseudonimo",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1992)"
+   ]
+  },
+  {
+   "id": "francesca-ognibene",
+   "nome": "Francesca Ognibene",
+   "chiave": "Ognibene",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "grinding-halt",
+     "titolo": "Grinding halt",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gionni-paludi",
+   "nome": "Gionni Paludi",
+   "chiave": "Paludi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gionni-paludi-show",
+     "titolo": "Gionni Paludi show",
+     "periodi": [
+      "1994",
+      "Stagione 1995–96",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "papero",
+   "nome": "Papero",
+   "chiave": "Papero",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "skinhead-times",
+     "titolo": "Skinhead Times",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "roberto-patuelli",
+   "nome": "Roberto Patuelli",
+   "chiave": "Patuelli",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "rassegna-stampa",
+     "titolo": "Rassegna stampa",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "andrea-pazienza",
+   "nome": "Andrea Pazienza",
+   "chiave": "Pazienza",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1993)"
+   ]
+  },
+  {
+   "id": "pierpaolo-pederzini",
+   "nome": "Pierpaolo Pederzini",
+   "chiave": "Pederzini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "etnicaos",
+     "titolo": "Etnicaos",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "fernando-pellerano",
+   "nome": "Fernando Pellerano",
+   "chiave": "Pellerano",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "la-palla-al-piede",
+     "titolo": "La palla al piede",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "La palla al piede",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 6
+    },
+    {
+     "titolo": "Lo stage in radio",
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 4
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "vladimiro-pellicciardi",
+   "nome": "Vladimiro Pellicciardi",
+   "chiave": "Pellicciardi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "blue-regard",
+     "titolo": "Blue Regard",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "alberto-pertile",
+   "nome": "Alberto Pertile",
+   "chiave": "Pertile",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "alberto-petrucciani",
+   "nome": "Alberto Petrucciani",
+   "chiave": "Petrucciani",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "trancemission",
+     "titolo": "Trancemission",
+     "periodi": [
+      "Primavera 1992",
+      "Inizio 1993",
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "pierantonio-pezzinga",
+   "nome": "Pierantonio Pezzinga",
+   "chiave": "Pezzinga",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-pomeridiana",
+     "titolo": "Conduzione pomeridiana",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "intersezioni",
+     "titolo": "Intersezioni",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "mirco-pieralisi",
+   "nome": "Mirco Pieralisi",
+   "chiave": "Pieralisi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "le-cose-che",
+     "titolo": "Le cose che…",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "l-isola-del-tesoro",
+     "titolo": "L'isola del tesoro",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "spazio-aperto",
+     "titolo": "Spazio aperto",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Oltre la rappresentazione politica",
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 2
+    },
+    {
+     "titolo": "La radio e il deserto",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 3
+    },
+    {
+     "titolo": "Su la testa",
+     "numero": "1994-n1-2",
+     "numero_label": "anno 3 n.1-2",
+     "pagina": 1
+    },
+    {
+     "titolo": "Dedicato a...",
+     "numero": "1995-n3-4",
+     "numero_label": "anno 4 n.3-4",
+     "pagina": 1
+    },
+    {
+     "titolo": "Radio Città del Capo: la riconoscete subito",
+     "numero": "1999-n1-2",
+     "numero_label": "anno 8 n.1-2",
+     "pagina": 2
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "coordinamento redazionale di Novantaseietre (1992–1993)"
+   ]
+  },
+  {
+   "id": "daniele-pilia",
+   "nome": "Daniele Pilia",
+   "chiave": "Pilia",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "emanuele-pilia",
+   "nome": "Emanuele Pilia",
+   "chiave": "Pilia",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "le-voci-del-sogno",
+     "titolo": "Le voci del sogno",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "andrea-plazzi",
+   "nome": "Andrea Plazzi",
+   "chiave": "Plazzi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "fumo-di-china",
+     "titolo": "Fumo di china",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "rcdc-fumetti",
+     "titolo": "RCdC Fumetti",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "spazio-servizi-fumetti",
+     "titolo": "Spazio servizi: fumetti",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Fumo di China",
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 4
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "bruno-pompa",
+   "nome": "Bruno Pompa",
+   "chiave": "Pompa",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "audio-lab",
+     "titolo": "Audio Lab",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "gay-pride-night",
+     "titolo": "Gay Pride Night",
+     "periodi": [
+      "Stagione 1995–96",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Audio Lab",
+     "numero": "1996-n1-2",
+     "numero_label": "anno 5 n.1-2",
+     "pagina": 6
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "michele-pompei",
+   "nome": "Michele Pompei",
+   "chiave": "Pompei",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale-del-mattino",
+     "titolo": "Conduzione musicale del mattino",
+     "periodi": [
+      "Primavera 1992",
+      "Inizio 1993",
+      "1994"
+     ]
+    },
+    {
+     "id": "conduzione-musicale-e-regia-in-studio",
+     "titolo": "Conduzione musicale e regia in studio",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "conduzione-musicale-e-regia-in-studio-mattina",
+     "titolo": "Conduzione musicale e regia in studio (mattina)",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "conduzione-musicale-e-regia-in-studio-pomeriggio",
+     "titolo": "Conduzione musicale e regia in studio (pomeriggio)",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane-e-serali",
+     "titolo": "Conduzioni pomeridiane e serali",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "le-mani-sulla-citta",
+     "titolo": "Le mani sulla città",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    },
+    {
+     "id": "newport",
+     "titolo": "Newport",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Dentro la radio",
+     "numero": "1991-n0",
+     "numero_label": "n.0",
+     "pagina": 2
+    },
+    {
+     "titolo": "Novità primaverili ed esperimenti in network",
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 3
+    },
+    {
+     "titolo": "Per ascoltarla meglio",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 2
+    },
+    {
+     "titolo": "Sabbie mobili",
+     "numero": "1994-n1-2",
+     "numero_label": "anno 3 n.1-2",
+     "pagina": 2
+    },
+    {
+     "titolo": "I buoni propositi per il nuovo anno",
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 2
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "consigliere e vicepresidente della cooperativa Not Available",
+    "coordinamento redazionale (1992) e redattore di Novantaseietre (1996)"
+   ]
+  },
+  {
+   "id": "e-pucci",
+   "nome": "E. Pucci",
+   "chiave": "Pucci",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa",
+     "titolo": "Rassegna stampa",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "leonardo-pugliese",
+   "nome": "Leonardo Pugliese",
+   "chiave": "Pugliese",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "che-aria-tira",
+     "titolo": "Che aria tira",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "il-grande-rogo",
+     "titolo": "Il grande rogo",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "\"Che aria tira?\"",
+     "numero": "1995-n3-4",
+     "numero_label": "anno 4 n.3-4",
+     "pagina": 5
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "quino",
+   "nome": "Quino",
+   "chiave": "Quino",
+   "tipo": "pseudonimo",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1992)"
+   ]
+  },
+  {
+   "id": "beppe-ramina",
+   "nome": "Beppe Ramina",
+   "chiave": "Ramina",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "silvestro-ramunno",
+   "nome": "Silvestro Ramunno",
+   "chiave": "Ramunno",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Come si cambia",
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 7
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "redattore di Novantaseietre (1997)"
+   ]
+  },
+  {
+   "id": "riccardo",
+   "nome": "Riccardo",
+   "chiave": "Riccardo",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "skinhead-times",
+     "titolo": "Skinhead Times",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "stefano-ricci",
+   "nome": "Stefano Ricci",
+   "chiave": "Ricci",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [
+    {
+     "numero": "1993-n3-4",
+     "numero_label": "anno 2 n.3-4",
+     "pagina": 7,
+     "tipo": "disegno"
+    }
+   ],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1993)"
+   ]
+  },
+  {
+   "id": "amedeo-ricucci",
+   "nome": "Amedeo Ricucci",
+   "chiave": "Ricucci",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993",
+      "1994"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "venti-di-cooperazione",
+     "titolo": "Venti di cooperazione",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "alessandro-robecchi",
+   "nome": "Alessandro Robecchi",
+   "chiave": "Robecchi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "sordo-felice",
+     "titolo": "Sordo? Felice!",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Dal... cuore di Bologna",
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 4
+    },
+    {
+     "titolo": "Incidenti di percorso",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 1
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "stefano-rosanelli",
+   "nome": "Stefano Rosanelli",
+   "chiave": "Rosanelli",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "speed-reaction",
+     "titolo": "Speed reaction",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giangiacomo-rosiello",
+   "nome": "Giangiacomo Rosiello",
+   "chiave": "Rosiello",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale-serale",
+     "titolo": "Conduzione musicale serale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "giovanni-rossi",
+   "nome": "Giovanni Rossi",
+   "chiave": "Rossi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-di-network",
+     "titolo": "Rassegna stampa di network",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "sergio-rotino",
+   "nome": "Sergio Rotino",
+   "chiave": "Rotino",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "la-croce-del-sud",
+     "titolo": "La croce del Sud",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    },
+    {
+     "id": "l-isola-del-tesoro",
+     "titolo": "L'isola del tesoro",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "rcdc-libri",
+     "titolo": "RCdC Libri",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Chi ha orecchie per intendere in-tenda...",
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 5
+    },
+    {
+     "titolo": "Libri via etere",
+     "numero": "1992-n2",
+     "numero_label": "n.2",
+     "pagina": 6
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gabriele-rubbini",
+   "nome": "Gabriele Rubbini",
+   "chiave": "Rubbini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "daniela-ruffini",
+   "nome": "Daniela Ruffini",
+   "chiave": "Ruffini",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [
+    {
+     "titolo": "Le lettere di Laura & Beatrice",
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 8
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "augusto-ruggeri",
+   "nome": "Augusto Ruggeri",
+   "chiave": "Ruggeri",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane",
+     "titolo": "Conduzioni pomeridiane",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "marco-sacchetti",
+   "nome": "Marco Sacchetti",
+   "chiave": "Sacchetti",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-di-network",
+     "titolo": "Rassegna stampa di network",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "sandra-salvato",
+   "nome": "Sandra Salvato",
+   "chiave": "Salvato",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "luca-sancini",
+   "nome": "Luca Sancini",
+   "chiave": "Sancini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "santangelo",
+   "nome": "Santangelo",
+   "chiave": "Santangelo",
+   "tipo": "pseudonimo",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [
+    {
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 4,
+     "tipo": "disegno"
+    }
+   ],
+   "ruoli": []
+  },
+  {
+   "id": "piero-santi",
+   "nome": "Piero Santi",
+   "chiave": "Santi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale-del-mattino",
+     "titolo": "Conduzione musicale del mattino",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "conduzione-musicale-e-regia-in-studio",
+     "titolo": "Conduzione musicale e regia in studio",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "conduzione-musicale-e-regia-in-studio-mattina",
+     "titolo": "Conduzione musicale e regia in studio (mattina)",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane",
+     "titolo": "Conduzioni pomeridiane",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane-e-serali",
+     "titolo": "Conduzioni pomeridiane e serali",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "spazio-aperto",
+     "titolo": "Spazio aperto",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "l-uomo-nero",
+     "titolo": "L'uomo nero",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "paola-savigni",
+   "nome": "Paola Savigni",
+   "chiave": "Savigni",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "meno-e-meglio",
+     "titolo": "Meno è meglio",
+     "periodi": [
+      "Primavera 1992",
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "eva-savini",
+   "nome": "Eva Savini",
+   "chiave": "Savini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "anna-sbarrai",
+   "nome": "Anna Sbarrai",
+   "chiave": "Sbarrai",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "marco-scalia",
+   "nome": "Marco Scalia",
+   "chiave": "Scalia",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1996)"
+   ]
+  },
+  {
+   "id": "piero-scaramucci",
+   "nome": "Piero Scaramucci",
+   "chiave": "Scaramucci",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [
+    {
+     "titolo": "Perché ancora la radio",
+     "numero": "1991-n0",
+     "numero_label": "n.0",
+     "pagina": 1
+    },
+    {
+     "titolo": "Da Milano a Roma via etere",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 1
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "massimo-sciacca",
+   "nome": "Massimo Sciacca",
+   "chiave": "Sciacca",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [
+    {
+     "numero": "1994-n1-2",
+     "numero_label": "anno 3 n.1-2",
+     "pagina": 1,
+     "tipo": "fotografia"
+    }
+   ],
+   "ruoli": [
+    "fotografie di Novantaseietre (1994)"
+   ]
+  },
+  {
+   "id": "secondino",
+   "nome": "Secondino",
+   "chiave": "Secondino",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "rassegna-stampa",
+     "titolo": "Rassegna stampa",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "massimo-semerano",
+   "nome": "Massimo Semerano",
+   "chiave": "Semerano",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [
+    {
+     "numero": "1995-n3-4",
+     "numero_label": "anno 4 n.3-4",
+     "pagina": 1,
+     "tipo": "disegno"
+    }
+   ],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1995)"
+   ]
+  },
+  {
+   "id": "luca-settepani",
+   "nome": "Luca Settepani",
+   "chiave": "Settepani",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "contaminazioni-jazz",
+     "titolo": "Contaminazioni jazz",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "roberto-sgallari",
+   "nome": "Roberto Sgallari",
+   "chiave": "Sgallari",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "collaboratore di Novantaseietre (1996)"
+   ]
+  },
+  {
+   "id": "nuccio-sicali",
+   "nome": "Nuccio Sicali",
+   "chiave": "Sicali",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-pomeridiana",
+     "titolo": "Conduzione pomeridiana",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "radioclash",
+     "titolo": "Radioclash",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "sebastiano-sicali",
+   "nome": "Sebastiano Sicali",
+   "chiave": "Sicali",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale-serale",
+     "titolo": "Conduzione musicale serale",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "conduzione-pomeridiana",
+     "titolo": "Conduzione pomeridiana",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    },
+    {
+     "id": "conduzioni-musicali-periodiche",
+     "titolo": "Conduzioni musicali periodiche",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "conduzioni-pomeridiane-e-serali",
+     "titolo": "Conduzioni pomeridiane e serali",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "vibrazioni-rock",
+     "titolo": "Vibrazioni rock",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "That's all folks",
+     "numero": "1993-n3-4",
+     "numero_label": "anno 2 n.3-4",
+     "pagina": 3
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "redazione di Novantaseietre (1993)"
+   ]
+  },
+  {
+   "id": "paolo-simoni",
+   "nome": "Paolo Simoni",
+   "chiave": "Simoni",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-pomeridiana",
+     "titolo": "Conduzione pomeridiana",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "massimo-simonini",
+   "nome": "Massimo Simonini",
+   "chiave": "Simonini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "l-ora-d-aria",
+     "titolo": "L'ora d'aria",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "umano-ovest",
+     "titolo": "Umano ovest",
+     "periodi": [
+      "Inverno 1991–92",
+      "Inizio 1993",
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "paolo-soglia",
+   "nome": "Paolo Soglia",
+   "chiave": "Soglia",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "la-palla-al-piede",
+     "titolo": "La palla al piede",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "La palla al piede",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 6
+    },
+    {
+     "titolo": "Meglio tardi che Rai...",
+     "numero": "1993-n3-4",
+     "numero_label": "anno 2 n.3-4",
+     "pagina": 1
+    },
+    {
+     "titolo": "Una nuova scommessa",
+     "numero": "1995-n3-4",
+     "numero_label": "anno 4 n.3-4",
+     "pagina": 1
+    },
+    {
+     "titolo": "Pesce d'aprile",
+     "numero": "1996-n1-2",
+     "numero_label": "anno 5 n.1-2",
+     "pagina": 4
+    },
+    {
+     "titolo": "Cosa succede in città?",
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 1
+    },
+    {
+     "titolo": "Diario di bordo",
+     "numero": "1997-n1-2",
+     "numero_label": "anno 6 n.1-2",
+     "pagina": 6
+    },
+    {
+     "titolo": "Operazione \"Berretta Rossa\"",
+     "numero": "1999-n1-2",
+     "numero_label": "anno 8 n.1-2",
+     "pagina": 1
+    }
+   ],
+   "immagini": [],
+   "ruoli": [
+    "redattore di Novantaseietre (1996), collaboratore (1997)"
+   ]
+  },
+  {
+   "id": "cinzia-soldano",
+   "nome": "Cinzia Soldano",
+   "chiave": "Soldano",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "tempo-reale",
+     "titolo": "Tempo reale",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992",
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "Cosa c'entriamo noi con la ex-Yugoslavia",
+     "numero": "1993-n1",
+     "numero_label": "anno 2 n.1",
+     "pagina": 4
+    },
+    {
+     "titolo": "E sai cosa perdi...",
+     "numero": "1993-n3-4",
+     "numero_label": "anno 2 n.3-4",
+     "pagina": 3
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "hermoso-solinas",
+   "nome": "Hermoso Solinas",
+   "chiave": "Solinas",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "border-radio",
+     "titolo": "Border radio",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "titina-spaventa",
+   "nome": "Titina Spaventa",
+   "chiave": "Spaventa",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "novita-discografiche-musica-dal-mondo-jazz",
+     "titolo": "Novità discografiche, musica dal mondo, jazz",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    },
+    {
+     "id": "umano-ovest",
+     "titolo": "Umano ovest",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "lorenzo-stanzani",
+   "nome": "Lorenzo Stanzani",
+   "chiave": "Stanzani",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "collaboratore di Novantaseietre (1996)"
+   ]
+  },
+  {
+   "id": "stefano",
+   "nome": "Stefano",
+   "chiave": "Stefano",
+   "tipo": "solo_nome",
+   "programmi": [
+    {
+     "id": "conduzione-notturna",
+     "titolo": "Conduzione notturna",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "microphone-fien",
+     "titolo": "Microphone fién",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "microphone-fiends",
+     "titolo": "Microphone fiends",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    },
+    {
+     "id": "the-microphone-phiend",
+     "titolo": "The microphone phiend",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "steno",
+   "nome": "Steno",
+   "chiave": "Steno",
+   "tipo": "pseudonimo",
+   "programmi": [
+    {
+     "id": "artisti-sul-filo-del-rasoio",
+     "titolo": "Artisti… sul filo del rasoio",
+     "periodi": [
+      "1994"
+     ]
+    },
+    {
+     "id": "radiofonico-blues",
+     "titolo": "Radiofonico blues",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "radiofonico-blues-viveri-kappa",
+     "titolo": "Radiofonico blues / Viveri kappa",
+     "periodi": [
+      "Stagione 1995–96"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "francesco-strazzari",
+   "nome": "Francesco Strazzari",
+   "chiave": "Strazzari",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "fuori-orbita",
+     "titolo": "Fuori orbita",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "francesca-sturaro",
+   "nome": "Francesca Sturaro",
+   "chiave": "Sturaro",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "quarto-d-ora-accademico",
+     "titolo": "Quarto d'ora accademico",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "enrichetta-susi",
+   "nome": "Enrichetta Susi",
+   "chiave": "Susi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "andrea-tarozzi",
+   "nome": "Andrea Tarozzi",
+   "chiave": "Tarozzi",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "missing-link",
+     "titolo": "Missing link",
+     "periodi": [
+      "Primavera 1992",
+      "Inizio 1993",
+      "1994"
+     ]
+    },
+    {
+     "id": "pulp-sound",
+     "titolo": "Pulp sound",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "pulpsound",
+     "titolo": "Pulpsound",
+     "periodi": [
+      "Primavera 1996"
+     ]
+    },
+    {
+     "id": "trash",
+     "titolo": "Trash",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "stefano-tarozzi",
+   "nome": "Stefano Tarozzi",
+   "chiave": "Tarozzi",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "fotografie di Novantaseietre (1996)"
+   ]
+  },
+  {
+   "id": "marco-tartarini",
+   "nome": "Marco Tartarini",
+   "chiave": "Tartarini",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "blue-regard",
+     "titolo": "Blue Regard",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "stefano-tassinari",
+   "nome": "Stefano Tassinari",
+   "chiave": "Tassinari",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "rassegna-stampa-di-network",
+     "titolo": "Rassegna stampa di network",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "gianni-tavoletti",
+   "nome": "Gianni Tavoletti",
+   "chiave": "Tavoletti",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-musicale-serale",
+     "titolo": "Conduzione musicale serale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "davide-toffolo",
+   "nome": "Davide Toffolo",
+   "chiave": "Toffolo",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1997)"
+   ]
+  },
+  {
+   "id": "danilo-tomasetta",
+   "nome": "Danilo Tomasetta",
+   "chiave": "Tomasetta",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "il-notturno-del-rock-shop",
+     "titolo": "Il notturno del Rock Shop",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "plaza-de-toros",
+     "titolo": "Plaza de toros",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992",
+      "Inizio 1993",
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "la-plaza-de-toros",
+     "titolo": "La plaza de toros",
+     "periodi": [
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "fulvio-tomasetta",
+   "nome": "Fulvio Tomasetta",
+   "chiave": "Tomasetta",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "conduzione-pomeridiana",
+     "titolo": "Conduzione pomeridiana",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "radio-barbiere",
+     "titolo": "Radio barbiere",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    },
+    {
+     "id": "le-uova-del-velociraptor",
+     "titolo": "Le uova del Velociraptor",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "E se fossimo in Golpe dal 1944?",
+     "numero": "1993-n3-4",
+     "numero_label": "anno 2 n.3-4",
+     "pagina": 4
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "andrea-torreggiani",
+   "nome": "Andrea Torreggiani",
+   "chiave": "Torreggiani",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "modica-qualita",
+     "titolo": "Modica qualità",
+     "periodi": [
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "suoni-e-rumori",
+     "titolo": "Suoni e rumori",
+     "periodi": [
+      "Inverno 1991–92"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "michela-turra",
+   "nome": "Michela Turra",
+   "chiave": "Turra",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "canape",
+     "titolo": "Canapè",
+     "periodi": [
+      "1994"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "vauro",
+   "nome": "Vauro",
+   "chiave": "Vauro",
+   "tipo": "pseudonimo",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [
+    {
+     "numero": "1996-n5-6",
+     "numero_label": "anno 5 n.5-6",
+     "pagina": 3,
+     "tipo": "disegno"
+    }
+   ],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1996)"
+   ]
+  },
+  {
+   "id": "stefania-vergnani",
+   "nome": "Stefania Vergnani",
+   "chiave": "Vergnani",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "di-cotte-e-di-crude",
+     "titolo": "Di cotte e di crude",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97",
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [
+    {
+     "titolo": "L'arte della gastronomia",
+     "numero": "1996-n1-2",
+     "numero_label": "anno 5 n.1-2",
+     "pagina": 7
+    }
+   ],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "vanna-vinci",
+   "nome": "Vanna Vinci",
+   "chiave": "Vinci",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "illustrazioni di Novantaseietre (1997)"
+   ]
+  },
+  {
+   "id": "emilia-vitulano",
+   "nome": "Emilia Vitulano",
+   "chiave": "Vitulano",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "gr-locale",
+     "titolo": "GR locale",
+     "periodi": [
+      "Stagione 1995–96",
+      "Primavera 1996",
+      "Stagione 1996–97"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Stagione 1996–97"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "marcella-volpe",
+   "nome": "Marcella Volpe",
+   "chiave": "Volpe",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "quarto-d-ora-accademico",
+     "titolo": "Quarto d'ora accademico",
+     "periodi": [
+      "Primavera 1997"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  },
+  {
+   "id": "sergio-zanchetta",
+   "nome": "Sergio Zanchetta",
+   "chiave": "Zanchetta",
+   "tipo": "persona",
+   "programmi": [],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": [
+    "collaboratore di Novantaseietre (1996)"
+   ]
+  },
+  {
+   "id": "paola-zappaterra",
+   "nome": "Paola Zappaterra",
+   "chiave": "Zappaterra",
+   "tipo": "persona",
+   "programmi": [
+    {
+     "id": "microfono-aperto",
+     "titolo": "Microfono aperto",
+     "periodi": [
+      "Inizio 1993"
+     ]
+    },
+    {
+     "id": "rassegna-stampa",
+     "titolo": "Rassegna stampa",
+     "periodi": [
+      "Inverno 1991–92",
+      "Primavera 1992"
+     ]
+    },
+    {
+     "id": "rassegna-stampa-rcdc",
+     "titolo": "Rassegna stampa RCdC",
+     "periodi": [
+      "Inizio 1993",
+      "1994",
+      "Stagione 1995–96",
+      "Primavera 1996"
+     ]
+    }
+   ],
+   "articoli": [],
+   "immagini": [],
+   "ruoli": []
+  }
+ ],
+ "dubbi": [
+  "«E. Pucci» (rassegna stampa del martedì, 1991–92): il nome è solo puntato.",
+  "«Secondino» (rassegna stampa del sabato, 1991–92 e 1992): in griglia compare come «Derosa Secondino» / «Derosa, Secondino»; potrebbe essere un cognome o un soprannome.",
+  "«Nuccio Sicali» (1992–93) e «Sebastiano Sicali» (dal 1991): potrebbero essere la stessa persona; per ora sono tenuti separati.",
+  "«Alessandro Leati» (1991–92) e «Alex Leati» (dal 1993): probabilmente la stessa persona; per ora sono tenuti separati.",
+  "«G. Cesari» (Ancora in movimento, 1992): nome solo puntato.",
+  "«Danilo Tomasetta / Tommasetta»: il giornale usa entrambe le grafie; qui si usa «Tomasetta», la più frequente.",
+  "«Khalid / Kalid / Kalihd Harda»: uniformato in «Khalid Harda».",
+  "«Giovanni Azzone / Azzoni» (Mondo frido): uniformato in «Giovanni Azzoni».",
+  "«Dan Cepraga» (1993) è stato uniformato in «Davide Cepraga».",
+  "«Gualtiero De Marinis»: nel 1991–92 compare come «G. de Marinis» (RCdC Cinema); il nome per esteso viene dal 1996.",
+  "Il palinsesto 1996–97 è nel file «n.5-6 1996», che all'interno riporta la numerazione «n.3/4 1996»."
+ ]
+}

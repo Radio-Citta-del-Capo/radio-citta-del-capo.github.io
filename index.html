@@ -1,0 +1,555 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+
+<title>Radio Città del Capo</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Archivio di Radio Città del Capo, Bologna 1987–2021: audio, video, il giornale Novantaseietre, immagini, persone, programmi e palinsesti.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800;900&family=IBM+Plex+Mono:wght@400;500&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap">
+<style>
+/* Layout: una sola pagina; in alto la testata con la scala di sintonia (ogni sezione è una "stazione"),
+   sotto il contenuto in una colonna larga con margini fissi. Carta da ciclostile, inchiostro nero, rosso del logo. */
+:root{
+  --paper:#ECEBE7; --surface:#F7F6F3; --ink:#17161A; --muted:#5D5A5F; --rule:#CBC8C4; --red:#C9301B; --red-soft:#F3D9D3; --on-red:#FFFFFF;
+  --f-display:"Big Shoulders Display","Arial Narrow","Helvetica Neue",Arial,sans-serif;
+  --f-body:"Literata",Georgia,"Times New Roman",serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace;
+  --s-1:.8125rem; --s0:1rem; --s1:1.25rem; --s2:1.6rem; --s3:2.25rem; --s4:3.4rem; --s5:clamp(3rem,9vw,6.5rem);
+  --wrap:72rem;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#131214; --surface:#1C1A1E; --ink:#ECE9E4; --muted:#A39EA2; --rule:#36323A; --red:#F0563E; --red-soft:#3A1E1A; --on-red:#140E0D; color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#131214; --surface:#1C1A1E; --ink:#ECE9E4; --muted:#A39EA2; --rule:#36323A; --red:#F0563E; --red-soft:#3A1E1A; --on-red:#140E0D; color-scheme:dark}
+
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:1.0625rem;line-height:1.6}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:30;background:var(--paper)}
+a{color:inherit;text-decoration-color:var(--red);text-underline-offset:.18em;text-decoration-thickness:1px}
+a:hover{color:var(--red)}
+:focus-visible{outline:2px solid var(--red);outline-offset:2px}
+img{max-width:100%;display:block}
+h1,h2,h3{font-family:var(--f-display);font-weight:800;line-height:1;margin:0;text-wrap:balance;letter-spacing:.005em}
+.wrap{max-width:var(--wrap);margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.mono{font-family:var(--f-mono);font-size:var(--s-1);letter-spacing:.02em}
+.label{font-family:var(--f-mono);font-size:.75rem;text-transform:uppercase;letter-spacing:.12em;color:var(--muted)}
+.muted{color:var(--muted)}
+.prose{max-width:38rem}
+.prose p{margin:0 0 1em}
+button{font:inherit;color:inherit}
+
+/* ---------- Testata ---------- */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--paper);border-bottom:1px solid var(--ink)}
+.top .wrap{display:flex;align-items:center;gap:20px;padding-block:10px 0}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none;flex:0 0 auto;padding-bottom:10px}
+.brand img{width:44px;height:44px;object-fit:contain}
+.brand b{font-family:var(--f-display);font-weight:800;font-size:1.35rem;line-height:.95;text-transform:uppercase;letter-spacing:.02em;display:block}
+.brand small{font-family:var(--f-mono);font-size:.7rem;color:var(--muted);letter-spacing:.06em}
+.dial{flex:1 1 auto;min-width:0;overflow-x:auto;scrollbar-width:none;align-self:stretch}
+.dial::-webkit-scrollbar{display:none}
+.dial ol{list-style:none;margin:0;padding:0 8px;display:flex;min-width:46rem;height:100%;position:relative;
+  background:
+   linear-gradient(var(--ink),var(--ink)) bottom/100% 1px no-repeat,
+   repeating-linear-gradient(90deg,var(--muted) 0 1px,transparent 1px 12px) bottom/100% 7px no-repeat,
+   repeating-linear-gradient(90deg,var(--ink) 0 1px,transparent 1px 60px) bottom/100% 13px no-repeat}
+.dial li{flex:1 1 0;display:flex}
+.dial a{flex:1;display:flex;flex-direction:column;justify-content:flex-start;gap:2px;text-decoration:none;padding:14px 4px 20px;position:relative;white-space:nowrap}
+.dial a .f{font-family:var(--f-mono);font-size:.65rem;color:var(--muted)}
+.dial a .n{font-family:var(--f-display);font-weight:600;font-size:1.02rem;text-transform:uppercase;letter-spacing:.04em}
+.dial a[aria-current="page"] .n{color:var(--red)}
+.dial a[aria-current="page"]::after{content:"";position:absolute;left:4px;bottom:0;width:3px;height:30px;background:var(--red)}
+.dial a:hover .n{color:var(--red)}
+@media (max-width:760px){.brand b,.brand small{display:none}.top .wrap{gap:10px}}
+
+main{padding-block:0 64px}
+.view{display:none}
+.view.on{display:block}
+.head{padding-block:48px 28px;border-bottom:1px solid var(--rule);margin-bottom:32px;display:grid;gap:14px}
+.head h1{font-size:var(--s4);text-transform:uppercase}
+.head p{margin:0;max-width:40rem}
+
+/* ---------- Home ---------- */
+.hero{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:40px;padding-block:52px 44px;border-bottom:1px solid var(--ink);align-items:end}
+.hero h1{font-size:var(--s5);text-transform:uppercase;line-height:.86;font-weight:900}
+.hero h1 span{color:var(--red)}
+.hero .lead{font-size:var(--s1);line-height:1.45;margin:22px 0 0;max-width:34rem}
+.freq{font-family:var(--f-mono);font-size:.8rem;display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:22px;color:var(--muted)}
+.freq b{color:var(--ink);font-weight:500}
+.onair{background:var(--surface);border:1px solid var(--ink);padding:22px;display:grid;gap:12px}
+.onair .label{color:var(--red)}
+.onair h2{font-size:var(--s3);text-transform:uppercase}
+.onair p{margin:0;font-size:.95rem}
+audio{width:100%;height:40px}
+.toc{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-left:1px solid var(--rule);margin-top:40px}
+.toc a{border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:18px 18px 22px;text-decoration:none;display:grid;gap:6px;align-content:start;min-height:9.5rem}
+.toc a:nth-child(-n+3){border-top:1px solid var(--rule)}
+.toc a:hover{background:var(--surface)}
+.toc .k{display:flex;justify-content:space-between;align-items:baseline}
+.toc h3{font-size:var(--s2);text-transform:uppercase}
+.toc .c{font-family:var(--f-mono);font-size:.8rem;color:var(--red)}
+.toc p{margin:0;font-size:.92rem;color:var(--muted)}
+.logos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin-top:48px;align-items:end}
+.logos figure{margin:0;display:grid;gap:8px;min-width:0}
+.logos .box{background:#FFFFFF;border:1px solid var(--rule);aspect-ratio:1;display:grid;place-items:center;padding:16%;max-width:100%}
+.logos .box{overflow:hidden}
+.logos img{width:100%;height:100%;object-fit:contain}
+.logos figcaption{font-family:var(--f-mono);font-size:.75rem;color:var(--muted)}
+.sec-title{display:flex;align-items:baseline;justify-content:space-between;gap:16px;border-bottom:1px solid var(--ink);padding-bottom:8px;margin-top:56px}
+.sec-title h2{font-size:var(--s2);text-transform:uppercase}
+
+/* ---------- Storia ---------- */
+.storia{display:grid;grid-template-columns:14rem minmax(0,1fr);gap:48px}
+.storia nav{position:sticky;top:calc(env(safe-area-inset-top,0px) + 90px);align-self:start;display:grid;gap:2px}
+.storia nav a{text-decoration:none;font-size:.92rem;padding:6px 0 6px 12px;border-left:2px solid var(--rule)}
+.storia nav a:hover{border-left-color:var(--red)}
+.chapter{padding-bottom:28px;margin-bottom:28px;border-bottom:1px solid var(--rule)}
+.chapter h2{font-size:var(--s3);text-transform:uppercase;margin:6px 0 16px}
+.note{background:var(--red-soft);padding:10px 14px;font-size:.9rem;margin-bottom:28px;max-width:38rem}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{border:1px solid var(--ink);background:transparent;padding:5px 12px;font-family:var(--f-mono);font-size:.75rem;cursor:pointer;border-radius:0}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.chip:hover{border-color:var(--red)}
+.tl{list-style:none;margin:20px 0 0;padding:0}
+.tl li{display:grid;grid-template-columns:8.5rem minmax(0,1fr);gap:18px;padding:14px 0;border-top:1px solid var(--rule)}
+.tl .d{font-family:var(--f-mono);font-size:.8rem;font-variant-numeric:tabular-nums}
+.tl .d b{display:block;font-family:var(--f-display);font-size:1.5rem;font-weight:800;color:var(--red)}
+.tl .e{margin:0}
+.tl .s{font-family:var(--f-mono);font-size:.72rem;color:var(--muted);margin-top:4px}
+.tl .fase{grid-column:1/-1;font-family:var(--f-display);font-weight:800;text-transform:uppercase;font-size:var(--s1);padding-top:22px;border-top:2px solid var(--ink)}
+
+/* ---------- Audio / Video ---------- */
+.list{display:grid;gap:0;border-top:1px solid var(--ink)}
+.item{display:grid;grid-template-columns:10rem minmax(0,1fr);gap:24px;padding:22px 0;border-bottom:1px solid var(--rule)}
+.item h3{font-size:var(--s2);text-transform:uppercase;margin-bottom:6px}
+.item h3 a{text-decoration:none}
+.item p{margin:0 0 12px}
+.item .meta{font-family:var(--f-mono);font-size:.8rem;display:grid;gap:4px;align-content:start}
+.item .meta b{font-family:var(--f-display);font-size:1.4rem;font-weight:800;color:var(--red)}
+.empty{border:1px dashed var(--muted);padding:18px;color:var(--muted);font-size:.95rem}
+
+/* ---------- Novantaseietre ---------- */
+.covers{display:grid;grid-template-columns:repeat(auto-fill,minmax(10.5rem,1fr));gap:28px 22px}
+.cover{background:none;border:0;padding:0;text-align:left;cursor:pointer;display:grid;gap:8px;align-content:start}
+.cover img{aspect-ratio:7/10;object-fit:cover;object-position:top;width:100%;border:1px solid var(--rule);box-shadow:0 1px 0 var(--rule)}
+.cover:hover img,.cover[aria-pressed="true"] img{border-color:var(--red);outline:2px solid var(--red)}
+.cover b{font-family:var(--f-display);font-size:1.2rem;text-transform:uppercase;font-weight:800;line-height:1}
+.cover span{font-family:var(--f-mono);font-size:.72rem;color:var(--muted)}
+.issue{display:grid;grid-template-columns:16rem minmax(0,1fr);gap:36px;background:var(--surface);border:1px solid var(--ink);padding:28px;margin-bottom:40px}
+.issue h2{font-size:var(--s3);text-transform:uppercase}
+.issue .acts{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 22px}
+.btn{display:inline-flex;align-items:center;gap:8px;background:var(--ink);color:var(--paper);text-decoration:none;padding:9px 16px;font-family:var(--f-mono);font-size:.8rem;border:1px solid var(--ink)}
+.btn:hover{background:var(--red);border-color:var(--red);color:var(--on-red)}
+.btn.ghost{background:transparent;color:var(--ink)}
+.sommario{list-style:none;margin:0;padding:0;columns:2 18rem;column-gap:28px}
+.sommario li{break-inside:avoid;padding:6px 0;border-top:1px solid var(--rule);display:grid;grid-template-columns:2.4rem minmax(0,1fr);gap:8px;font-size:.95rem}
+.sommario .p{font-family:var(--f-mono);font-size:.75rem;color:var(--red);padding-top:3px}
+.sommario i{color:var(--muted);font-style:normal;font-size:.88rem}
+.colofone{font-size:.85rem;color:var(--muted);margin-top:18px;max-width:46rem}
+
+/* ---------- Immagini ---------- */
+.bar{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;margin-bottom:24px}
+select,input[type="search"]{font-family:var(--f-mono);font-size:.8rem;background:var(--surface);color:var(--ink);border:1px solid var(--ink);padding:7px 10px;border-radius:0;max-width:100%}
+.masonry{columns:4 13rem;column-gap:16px}
+.thumb{break-inside:avoid;margin:0 0 16px;display:block;width:100%;background:none;border:0;padding:0;cursor:zoom-in;text-align:left}
+.thumb img{width:100%;height:auto;background:var(--surface);border:1px solid var(--rule)}
+.thumb:hover img{border-color:var(--red)}
+.thumb span{display:block;font-size:.8rem;line-height:1.35;padding-top:6px}
+.thumb small{display:block;font-family:var(--f-mono);font-size:.68rem;color:var(--muted)}
+.lb{position:fixed;inset:0;z-index:50;background:color-mix(in srgb,var(--paper) 94%,transparent);display:grid;grid-template-rows:minmax(0,1fr) auto;
+  padding:max(16px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) max(16px,env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
+.lb figure{margin:0;min-height:0;display:grid;place-items:center}
+.lb img{max-height:100%;max-width:100%;object-fit:contain;border:1px solid var(--ink);background:#FFFFFF}
+.lb .cap{display:flex;flex-wrap:wrap;gap:10px 20px;align-items:center;justify-content:space-between;padding-top:14px;max-width:var(--wrap);margin:0 auto;width:100%}
+.lb .cap b{font-family:var(--f-display);font-size:1.3rem;text-transform:uppercase}
+.lb .nav{display:flex;gap:8px}
+
+/* ---------- Persone / Programmi ---------- */
+.letters{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:20px}
+.letters a{font-family:var(--f-display);font-weight:800;font-size:1.15rem;width:2rem;height:2rem;display:grid;place-items:center;text-decoration:none;border:1px solid var(--rule)}
+.letters a:hover{border-color:var(--red);color:var(--red)}
+.letter{font-family:var(--f-display);font-weight:900;font-size:var(--s4);color:var(--red);line-height:1;padding-top:24px;border-bottom:2px solid var(--ink)}
+.people{list-style:none;margin:0;padding:0}
+.person{display:grid;grid-template-columns:15rem minmax(0,1fr);gap:20px;padding:12px 0;border-bottom:1px solid var(--rule);scroll-margin-top:110px}
+.person .nm{font-size:1.02rem}
+.person .nm b{font-weight:600}
+.person .nm small{display:block;font-family:var(--f-mono);font-size:.7rem;color:var(--muted)}
+.person ul{list-style:none;margin:0;padding:0;display:grid;gap:3px;font-size:.93rem}
+.person .k{font-family:var(--f-mono);font-size:.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin-right:6px}
+.yrs{font-family:var(--f-mono);font-size:.72rem;color:var(--muted)}
+.prog{padding:18px 0;border-bottom:1px solid var(--rule);display:grid;grid-template-columns:minmax(0,18rem) minmax(0,1fr);gap:24px;scroll-margin-top:110px}
+.prog h3{font-size:var(--s1);text-transform:uppercase;font-weight:800}
+.prog .t{font-family:var(--f-mono);font-size:.7rem;color:var(--muted);margin-top:4px}
+.prog ul{list-style:none;margin:0;padding:0;display:grid;gap:8px;font-size:.93rem}
+.prog li{display:grid;grid-template-columns:8.5rem minmax(0,1fr);gap:12px}
+.prog li .w{font-family:var(--f-mono);font-size:.75rem;padding-top:2px}
+.flash{animation:flash 1.6s ease-out}
+@keyframes flash{from{background:var(--red-soft)}to{background:transparent}}
+.aside{background:var(--surface);border:1px solid var(--rule);padding:20px 22px;margin-top:40px}
+.aside h3{font-size:var(--s1);text-transform:uppercase;margin-bottom:10px}
+.aside ul{margin:0;padding-left:18px;font-size:.92rem}
+
+/* ---------- Palinsesti ---------- */
+.tabs{display:flex;flex-wrap:wrap;gap:0;border-bottom:1px solid var(--ink);margin-bottom:24px}
+.tab{background:none;border:0;border-bottom:3px solid transparent;padding:8px 14px 6px;font-family:var(--f-display);font-weight:800;font-size:1.15rem;text-transform:uppercase;cursor:pointer;margin-bottom:-1px}
+.tab[aria-selected="true"]{border-bottom-color:var(--red);color:var(--red)}
+.daily{display:grid;grid-template-columns:repeat(auto-fill,minmax(17rem,1fr));gap:0 24px;margin:8px 0 28px;border-top:1px solid var(--rule)}
+.slot{padding:8px 0;border-bottom:1px solid var(--rule);display:grid;grid-template-columns:5.5rem minmax(0,1fr);gap:10px;font-size:.9rem}
+.slot .h{font-family:var(--f-mono);font-size:.75rem;font-variant-numeric:tabular-nums;padding-top:2px}
+.slot .h em{display:block;font-style:normal;color:var(--red)}
+.slot b{font-weight:600}
+.slot .who{color:var(--muted);font-size:.85rem}
+.slot .who a{color:var(--muted)}
+.slot .nt{display:block;font-size:.8rem;font-style:italic;color:var(--muted)}
+.week-wrap{overflow-x:auto;border-top:2px solid var(--ink)}
+.week{display:grid;grid-template-columns:repeat(7,minmax(9.5rem,1fr));gap:0 14px;min-width:70rem}
+.week h4{font-family:var(--f-display);font-weight:800;text-transform:uppercase;font-size:1.1rem;margin:10px 0 4px;color:var(--red)}
+.week .slot{grid-template-columns:1fr;gap:2px}
+.src{font-size:.85rem;color:var(--muted);margin-top:14px}
+
+footer{border-top:1px solid var(--ink);padding-block:28px 40px;font-size:.85rem;color:var(--muted)}
+footer .wrap{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:24px}
+
+@media (max-width:860px){
+  .hero,.storia,.issue,.footer .wrap{grid-template-columns:minmax(0,1fr)}
+  .storia nav{position:static;grid-template-columns:repeat(auto-fill,minmax(12rem,1fr))}
+  .toc{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .toc a:nth-child(-n+3){border-top:0}.toc a:nth-child(-n+2){border-top:1px solid var(--rule)}
+  .issue{padding:18px}
+  .issue img{max-width:14rem}
+  .person,.prog{grid-template-columns:minmax(0,1fr);gap:6px}
+  footer .wrap{grid-template-columns:minmax(0,1fr)}
+}
+@media (max-width:520px){
+  .toc{grid-template-columns:minmax(0,1fr)}
+  .toc a:nth-child(2){border-top:0}
+  .toc a{min-height:0}
+  .logos{gap:12px}
+  .item{grid-template-columns:minmax(0,1fr);gap:8px}
+  .tl li{grid-template-columns:minmax(0,1fr);gap:4px}
+  .prog li{grid-template-columns:minmax(0,1fr);gap:2px}
+  .slot{grid-template-columns:4.5rem minmax(0,1fr)}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;scroll-behavior:auto!important}}
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#home" aria-label="Radio Città del Capo, inizio">
+      <img src="assets/loghi/logo-1.jpg" alt="">
+      <span><b>Radio Città<br>del Capo</b><small>96,250 MHz · Bologna</small></span>
+    </a>
+    <nav class="dial" aria-label="Sezioni">
+      <ol id="dial"></ol>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="main">
+
+<section class="view" id="v-home" aria-label="Inizio">
+  <div class="hero">
+    <div>
+      <div class="label">Archivio · Bologna 1987–2021</div>
+      <h1 style="margin-top:14px">Radio Città<br>del <span>Capo</span></h1>
+      <p class="lead">Dal 12 ottobre 1987 al 3 maggio 2021 Radio Città del Capo ha trasmesso da Bologna sui 96,250 MHz. Qui sono raccolti le sue voci, il suo giornale e i nomi di chi l'ha fatta.</p>
+      <div class="freq"><span><b>96,250</b> MHz, detta «96.3»</span><span>via Cartolerie → Mura di Porta San Felice 1 → via Berretta Rossa 61/5</span><span>Popolare Network dal 1992</span></div>
+    </div>
+    <article class="onair" id="home-audio"></article>
+  </div>
+  <div class="toc" id="toc"></div>
+  <div class="sec-title"><h2>I loghi</h2><span class="label">dal più antico</span></div>
+  <div class="logos">
+    <figure><div class="box"><img src="assets/loghi/logo-1.jpg" alt="Primo logo di Radio Città del Capo"></div><figcaption>Primo logo</figcaption></figure>
+    <figure><div class="box"><img src="assets/loghi/logo-2.png" alt="Secondo logo di Radio Città del Capo"></div><figcaption>Secondo logo</figcaption></figure>
+    <figure><div class="box"><img src="assets/loghi/logo-3.jpg" alt="Terzo logo di Radio Città del Capo"></div><figcaption>Terzo logo</figcaption></figure>
+  </div>
+</section>
+
+<section class="view" id="v-storia" aria-label="La storia">
+  <div class="head"><div class="label">1976–2025</div><h1>La storia</h1><p>Sette capitoli che seguono le fasi della cronologia. I testi sono provvisori; la cronologia in fondo alla pagina è completa.</p></div>
+  <div class="storia">
+    <nav id="storia-nav" aria-label="Capitoli"></nav>
+    <div>
+      <p class="note">Testo segnaposto: i capitoli verranno sostituiti con il testo definitivo.</p>
+      <div id="chapters"></div>
+      <div class="sec-title" id="cronologia" style="margin-top:24px"><h2>Cronologia</h2><span class="label" id="cron-count"></span></div>
+      <div class="chips" id="cron-filter" style="margin-top:16px"></div>
+      <ol class="tl" id="tl"></ol>
+    </div>
+  </div>
+</section>
+
+<section class="view" id="v-audio" aria-label="Audio">
+  <div class="head"><div class="label">Registrazioni</div><h1>Audio</h1><p>Trasmissioni, speciali e documenti sonori della radio. Ogni registrazione si ascolta direttamente dalla pagina.</p></div>
+  <div id="audio-list"></div>
+</section>
+
+<section class="view" id="v-video" aria-label="Video">
+  <div class="head"><div class="label">Filmati</div><h1>Video</h1><p>Filmati sulla radio e dalla radio, ospitati su altre piattaforme.</p></div>
+  <div class="list" id="video-list"></div>
+</section>
+
+<section class="view" id="v-novantaseietre" aria-label="Novantaseietre">
+  <div class="head"><div class="label">Foglio di Radio Città del Capo · 1991–1999</div><h1>Novantaseietre</h1>
+    <p>Il giornale della radio, spedito agli abbonati e distribuito in città. Direttore responsabile Stefano Benni, registrazione al Tribunale di Bologna n. 6059 del 20 gennaio 1992. Dieci numeri, dal numero zero al 1999.</p></div>
+  <div id="issue"></div>
+  <div class="covers" id="covers"></div>
+</section>
+
+<section class="view" id="v-immagini" aria-label="Immagini">
+  <div class="head"><div class="label">Dalle pagine di Novantaseietre</div><h1>Immagini</h1>
+    <p>Foto e disegni ritagliati dai numeri del giornale. Ogni immagine riporta il numero e la pagina da cui viene. Locandine e rassegna stampa si aggiungeranno qui.</p></div>
+  <div class="bar">
+    <div class="chips" id="img-cat" role="group" aria-label="Tipo di immagine"></div>
+    <label class="mono">Numero <select id="img-num"></select></label>
+    <span class="mono muted" id="img-count"></span>
+  </div>
+  <div class="masonry" id="gallery"></div>
+</section>
+
+<section class="view" id="v-persone" aria-label="Persone">
+  <div class="head"><div class="label">Indice dei nomi</div><h1>Persone</h1>
+    <p>Chi compare nei palinsesti, chi ha firmato articoli, disegni e foto di Novantaseietre e chi lo ha fatto. In ordine di cognome; accanto a ogni nome, le trasmissioni con i periodi in cui erano in onda.</p></div>
+  <div class="bar"><label class="mono" for="q-persone">Cerca</label><input type="search" id="q-persone" placeholder="nome o trasmissione"><span class="mono muted" id="persone-count"></span></div>
+  <div class="letters" id="letters"></div>
+  <div id="people"></div>
+</section>
+
+<section class="view" id="v-programmi" aria-label="Programmi">
+  <div class="head"><div class="label">Dai palinsesti 1991–1997</div><h1>Programmi</h1>
+    <p>Tutte le trasmissioni che compaiono nei palinsesti pubblicati da Novantaseietre, con giorno, ora e conduttori di ogni stagione.</p></div>
+  <div class="bar">
+    <label class="mono" for="q-prog">Cerca</label><input type="search" id="q-prog" placeholder="titolo o nome">
+    <div class="chips" id="prog-type" role="group" aria-label="Tipo"></div>
+    <span class="mono muted" id="prog-count"></span>
+  </div>
+  <div id="programs"></div>
+</section>
+
+<section class="view" id="v-palinsesti" aria-label="Palinsesti">
+  <div class="head"><div class="label">Otto stagioni</div><h1>Palinsesti</h1>
+    <p>La settimana di Radio Città del Capo come la pubblicava il giornale. Sopra gli appuntamenti di tutti i giorni, sotto la settimana giorno per giorno.</p></div>
+  <div class="tabs" role="tablist" id="pal-tabs"></div>
+  <div id="pal"></div>
+</section>
+
+</main>
+
+<footer><div class="wrap">
+  <div>Archivio di Radio Città del Capo, Bologna. Fonti: Novantaseietre (1991–1999), registrazioni d'archivio, articoli di stampa e web elencati nella cronologia. Le trascrizioni dei palinsesti possono contenere errori: le segnalazioni sono benvenute.</div>
+  <div class="mono">96,250 MHz<br>1987–2021</div>
+</div></footer>
+
+<div class="lb" id="lb" hidden>
+  <figure><img id="lb-img" alt=""></figure>
+  <div class="cap">
+    <div><b id="lb-t"></b><div class="mono muted" id="lb-s"></div></div>
+    <div class="nav">
+      <a class="btn ghost" id="lb-pdf" href="#" target="_blank" rel="noopener">Pagina nel giornale</a>
+      <button class="btn ghost" id="lb-prev" aria-label="Immagine precedente">←</button>
+      <button class="btn ghost" id="lb-next" aria-label="Immagine successiva">→</button>
+      <button class="btn" id="lb-close">Chiudi</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+const SECTIONS=[
+ ["home","Inizio","88.0"],["storia","Storia","90.4"],["audio","Audio","92.1"],["video","Video","93.7"],
+ ["novantaseietre","96e3","96.3"],["immagini","Immagini","98.2"],["persone","Persone","100.5"],["programmi","Programmi","102.9"],["palinsesti","Palinsesti","105.1"]];
+const D={};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const slug=s=>String(s).normalize("NFKD").replace(/[̀-ͯ]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+const pLink=n=>D.pmap&&D.pmap[n]?`<a href="#persona-${D.pmap[n].id}">${esc(n)}</a>`:esc(n);
+const prLink=(id,t)=>`<a href="#programma-${id}">${esc(t)}</a>`;
+const NUM=id=>(D.numeri||[]).find(n=>n.id===id);
+
+$("#dial").innerHTML=SECTIONS.map(([k,n,f])=>`<li><a href="#${k}" data-k="${k}"><span class="n">${n}</span></a></li>`).join("");
+
+function show(hash){
+  let h=(hash||"").replace(/^#/,"")||"home", target=null, sec=h;
+  if(h.startsWith("persona-")){sec="persone";target=h}
+  else if(h.startsWith("programma-")){sec="programmi";target=h}
+  else if(h.startsWith("numero-")){sec="novantaseietre";openIssue(h.slice(7),false)}
+  else if(h.startsWith("palinsesto-")){sec="palinsesti";renderPal(h.slice(11))}
+  if(!SECTIONS.some(s=>s[0]===sec)) sec="home";
+  document.querySelectorAll(".view").forEach(v=>v.classList.toggle("on",v.id==="v-"+sec));
+  document.querySelectorAll("#dial a").forEach(a=>{if(a.dataset.k===sec){a.setAttribute("aria-current","page");a.scrollIntoView({block:"nearest",inline:"center"})}else a.removeAttribute("aria-current")});
+  if(target){
+    if(sec==="persone"){ $("#q-persone").value=""; renderPeople(); }
+    if(sec==="programmi"){ $("#q-prog").value=""; progType="tutti"; renderProgType(); renderPrograms(); }
+    const el=document.getElementById(target);
+    if(el){el.scrollIntoView({block:"start"});el.classList.remove("flash");void el.offsetWidth;el.classList.add("flash")}
+  } else if(!h.startsWith("numero-")) window.scrollTo(0,0);
+}
+window.addEventListener("hashchange",()=>show(location.hash));
+
+/* ---------- Home ---------- */
+function renderHome(){
+  const a=D.audio[0];
+  $("#home-audio").innerHTML=`<div class="label">In onda dall'archivio</div><h2>${esc(a.titolo)}</h2>
+   <p class="mono">${esc(a.data)} · ${esc(a.durata)}</p><p>${esc(a.descrizione)}</p>
+   <audio controls preload="none" src="${esc(a.file)}"></audio>`;
+  const nImg=D.immagini.length, nPers=D.persone.persone.filter(p=>p.tipo!=="solo_nome").length;
+  const T=[
+   ["storia","La storia",`${D.cron.length} eventi`,"Dalla nascita nel 1987 alla vendita della frequenza nel 2021, con la cronologia completa."],
+   ["audio","Audio",`${D.audio.length} registrazione`,"A partire dalla prima trasmissione del 12 ottobre 1987."],
+   ["video","Video",`${D.video.length} ${D.video.length===1?"filmato":"filmati"}`,"Collegamenti ai video sulla radio."],
+   ["novantaseietre","Novantaseietre",`${D.numeri.length} numeri`,"Il giornale della radio dal 1991 al 1999, da leggere e scaricare."],
+   ["immagini","Immagini",`${nImg} immagini`,"Foto e disegni dalle pagine del giornale."],
+   ["persone","Persone",`${nPers} nomi`,"Conduttori, redattori, autori e illustratori, in ordine di cognome."],
+   ["programmi","Programmi",`${D.programmi.filter(p=>p.tipo==="programma").length} trasmissioni`,"Ogni trasmissione con giorno, ora e conduttori."],
+   ["palinsesti","Palinsesti",`${D.pal.length} stagioni`,"La settimana della radio dal 1991 al 1997."]];
+  $("#toc").innerHTML=T.map(([k,t,c,p])=>`<a href="#${k}"><div class="k"><h3>${t}</h3><span class="c">${c}</span></div><p>${p}</p></a>`).join("");
+}
+
+/* ---------- Storia ---------- */
+const CAP=[["origini","Le origini","1976–1990"],["novantaseietre-anni","Gli anni di Novantaseietre","1991–1999"],["crescita","Crescita e trasformazioni","2000–2010"],
+ ["fusioni","Fusioni e conflitto, la nascita di RCdCViva","2011–2017"],["netlit","Netlit e la crisi","2018–2020"],["chiusura","La chiusura","2020–2021"],["versioni","Versioni a confronto e cosa resta","dopo il 2021"]];
+const LOREM=["Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+ "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."];
+let fase="Tutte";
+function renderStoria(){
+  $("#storia-nav").innerHTML=CAP.map(([k,t])=>`<a href="#cap-${k}" data-cap="${k}">${esc(t)}</a>`).join("")+`<a href="#cronologia" data-cap="cronologia">Cronologia</a>`;
+  $("#chapters").innerHTML=CAP.map(([k,t,y],i)=>`<article class="chapter" id="cap-${k}"><div class="label">${i+1} · ${y}</div><h2>${esc(t)}</h2><div class="prose">${LOREM.map(p=>`<p>${p}</p>`).join("")}</div></article>`).join("");
+  document.querySelectorAll("#storia-nav a").forEach(a=>a.addEventListener("click",e=>{e.preventDefault();document.getElementById(a.dataset.cap==="cronologia"?"cronologia":"cap-"+a.dataset.cap).scrollIntoView({behavior:"smooth"})}));
+  const fasi=["Tutte",...new Set(D.cron.map(c=>c.fase))];
+  $("#cron-filter").innerHTML=fasi.map(f=>`<button class="chip" aria-pressed="${f===fase}" data-f="${esc(f)}">${esc(f)}</button>`).join("");
+  $("#cron-filter").onclick=e=>{const b=e.target.closest("button");if(!b)return;fase=b.dataset.f;renderStoria()};
+  const rows=D.cron.filter(c=>fase==="Tutte"||c.fase===fase); let last="";
+  $("#cron-count").textContent=`${rows.length} eventi`;
+  $("#tl").innerHTML=rows.map(c=>{let h="";if(c.fase!==last&&fase==="Tutte"){h=`<li><div class="fase">${esc(c.fase)}</div></li>`;last=c.fase}
+    return h+`<li><div class="d"><b>${c.anno}</b>${esc(c.data)}</div><div><p class="e">${esc(c.evento)}</p><div class="s">Fonte: ${esc(c.fonte)}</div></div></li>`}).join("");
+}
+
+/* ---------- Audio / Video ---------- */
+function renderAudio(){
+  const groups={};D.audio.forEach(a=>(groups[a.sezione]=groups[a.sezione]||[]).push(a));
+  $("#audio-list").innerHTML=Object.entries(groups).map(([g,items])=>`<div class="sec-title" style="margin-top:0"><h2>${esc(g)}</h2><span class="label">${items.length}</span></div><div class="list" style="border-top:0">`+
+   items.map(a=>`<article class="item"><div class="meta"><b>${esc(a.data.split(" ").pop())}</b><span>${esc(a.data)}</span><span>${esc(a.durata)}</span></div>
+    <div><h3>${esc(a.titolo)}</h3><p>${esc(a.descrizione)}</p><audio controls preload="none" src="${esc(a.file)}"></audio></div></article>`).join("")+`</div>`).join("")+
+   `<p class="empty" style="margin-top:28px">Altre registrazioni (speciali su Ustica e sulla Uno Bianca, assemblee, sigle) potranno essere aggiunte a questa pagina.</p>`;
+  $("#video-list").innerHTML=D.video.map(v=>`<article class="item"><div class="meta"><b>${esc(v.anno||"")}</b><span>${esc(v.piattaforma||"")}</span></div><div>${v.link?`<h3><a href="${esc(v.link)}" target="_blank" rel="noopener">${esc(v.titolo)}</a></h3><p>${esc(v.descrizione)}</p><a class="btn" href="${esc(v.link)}" target="_blank" rel="noopener">Guarda il video</a>`:`<div class="empty">Collegamento in arrivo.</div>`}</div></article>`).join("");
+}
+
+/* ---------- Novantaseietre ---------- */
+function renderCovers(){
+  $("#covers").innerHTML=D.numeri.map(n=>`<button class="cover" data-id="${n.id}" aria-pressed="false"><img src="${n.copertina}" alt="Copertina di Novantaseietre ${esc(n.numero)}" loading="lazy"><b>${esc(n.numero)}</b><span>${esc(n.periodo)} · ${n.pagine} pagine</span></button>`).join("");
+  $("#covers").onclick=e=>{const b=e.target.closest(".cover");if(b){location.hash="numero-"+b.dataset.id}};
+}
+function openIssue(id,scroll){
+  const n=NUM(id); if(!n) return;
+  document.querySelectorAll(".cover").forEach(c=>c.setAttribute("aria-pressed",c.dataset.id===id));
+  $("#issue").innerHTML=`<article class="issue"><img src="${n.copertina}" alt="Copertina di Novantaseietre ${esc(n.numero)}" style="border:1px solid var(--rule)">
+   <div style="min-width:0"><div class="label">${esc(n.periodo)}</div><h2>Novantaseietre ${esc(n.numero)}</h2><p style="margin:12px 0 0;max-width:40rem">${esc(n.descrizione)}</p>
+   <div class="acts"><a class="btn" href="${n.pdf}" target="_blank" rel="noopener">Leggi il PDF</a><span class="mono muted" style="align-self:center">${n.pagine} pagine · ${String(n.mb).replace(".",",")} MB</span></div>
+   ${n.articoli.length?`<div class="label" style="margin-bottom:8px">Sommario</div><ul class="sommario">${n.articoli.map(a=>`<li><span class="p"><a href="${n.pdf}#page=${a.pagina}" target="_blank" rel="noopener">p.${a.pagina}</a></span><span>${esc(a.titolo)}<br><i>${a.autore.split(", ").map(pLink).join(", ")}${a.nota?" · "+esc(a.nota):""}</i></span></li>`).join("")}</ul>`:""}
+   ${n.colofone?`<p class="colofone"><span class="label">Colophon</span><br>${esc(n.colofone)}</p>`:""}</div></article>`;
+  window.scrollTo(0,0);
+}
+
+/* ---------- Immagini ---------- */
+const CATS=[["tutte","Tutte"],["foto","Foto"],["disegni","Disegni"]];
+let cat="tutte", num="", shown=[], cur=0;
+function renderGallery(){
+  $("#img-cat").innerHTML=CATS.map(([k,l])=>{const c=k==="tutte"?D.immagini.length:D.immagini.filter(i=>i.cat===k).length;return `<button class="chip" aria-pressed="${k===cat}" data-c="${k}">${l} ${c}</button>`}).join("");
+  shown=D.immagini.filter(i=>(cat==="tutte"||i.cat===cat)&&(!num||i.numero===num));
+  $("#img-count").textContent=`${shown.length} immagini`;
+  $("#gallery").innerHTML=shown.map((i,k)=>`<button class="thumb" data-k="${k}"><img src="${i.thumb}" alt="${esc(i.titolo)}" loading="lazy" width="${i.w}" height="${i.h}"><span>${esc(i.titolo)}</span><small>${esc(i.numero_label)} · ${esc(i.periodo)} · p.${i.pagina}</small></button>`).join("");
+}
+function lb(k){cur=(k+shown.length)%shown.length;const i=shown[cur];
+  $("#lb-img").src=i.file;$("#lb-img").alt=i.titolo;$("#lb-t").textContent=i.titolo;
+  $("#lb-s").textContent=`Novantaseietre ${i.numero_label} · ${i.periodo} · pagina ${i.pagina} · ${CATS.find(c=>c[0]===i.cat)[1]}`;
+  $("#lb-pdf").href=`pdf/${i.numero}.pdf#page=${i.pagina}`;$("#lb").hidden=false;$("#lb-close").focus()}
+function initGallery(){
+  $("#img-num").innerHTML=`<option value="">Tutti</option>`+D.numeri.map(n=>`<option value="${n.id}">${esc(n.numero)} (${esc(n.periodo)})</option>`).join("");
+  $("#img-num").onchange=e=>{num=e.target.value;renderGallery()};
+  $("#img-cat").onclick=e=>{const b=e.target.closest("button");if(b){cat=b.dataset.c;renderGallery()}};
+  $("#gallery").onclick=e=>{const b=e.target.closest(".thumb");if(b)lb(+b.dataset.k)};
+  $("#lb-close").onclick=()=>{$("#lb").hidden=true};
+  $("#lb-prev").onclick=()=>lb(cur-1);$("#lb-next").onclick=()=>lb(cur+1);
+  $("#lb").onclick=e=>{if(e.target.id==="lb"||e.target.tagName==="FIGURE")$("#lb").hidden=true};
+  document.addEventListener("keydown",e=>{if($("#lb").hidden)return;if(e.key==="Escape")$("#lb").hidden=true;if(e.key==="ArrowLeft")lb(cur-1);if(e.key==="ArrowRight")lb(cur+1)});
+  renderGallery();
+}
+
+/* ---------- Persone ---------- */
+function personHTML(p){
+  const parts=[];
+  if(p.programmi.length) parts.push(`<li><span class="k">In onda</span>${p.programmi.map(x=>`${prLink(x.id,x.titolo)} <span class="yrs">${esc(x.periodi.join(", "))}</span>`).join(" · ")}</li>`);
+  if(p.articoli.length) parts.push(`<li><span class="k">Articoli</span>${p.articoli.map(a=>`«${esc(a.titolo)}» <span class="yrs"><a href="#numero-${a.numero}">${esc(a.numero_label)}</a>, p.${a.pagina}</span>`).join(" · ")}</li>`);
+  if(p.immagini.length) parts.push(`<li><span class="k">${p.immagini.some(i=>i.tipo==="fotografia")?"Foto":"Disegni"}</span>${p.immagini.map(i=>`<a href="#numero-${i.numero}">${esc(i.numero_label)}</a>, p.${i.pagina}`).join(" · ")}</li>`);
+  if(p.ruoli.length) parts.push(`<li><span class="k">Ruolo</span>${p.ruoli.map(esc).join("; ")}</li>`);
+  const nm=p.tipo==="persona"&&p.nome.endsWith(p.chiave)?`${esc(p.nome.slice(0,p.nome.length-p.chiave.length).trim())} <b>${esc(p.chiave)}</b>`:`<b>${esc(p.nome)}</b>`;
+  const tag={pseudonimo:"pseudonimo",collettivo:"collettivo",solo_nome:"solo nome"}[p.tipo];
+  return `<li class="person" id="persona-${p.id}"><div class="nm">${nm}${tag?`<small>${tag}</small>`:""}</div><ul>${parts.join("")}</ul></li>`;
+}
+function renderPeople(){
+  const q=slug($("#q-persone").value);
+  const all=D.persone.persone.filter(p=>!q||slug(p.nome+" "+p.programmi.map(x=>x.titolo).join(" ")).includes(q));
+  const main=all.filter(p=>p.tipo!=="solo_nome"), solo=all.filter(p=>p.tipo==="solo_nome");
+  $("#persone-count").textContent=`${main.length} nomi`;
+  const by={};main.forEach(p=>{const L=slug(p.chiave)[0].toUpperCase();(by[L]=by[L]||[]).push(p)});
+  $("#letters").innerHTML=Object.keys(by).map(L=>`<a href="#" data-l="${L}">${L}</a>`).join("");
+  $("#letters").onclick=e=>{const a=e.target.closest("a");if(!a)return;e.preventDefault();document.getElementById("L-"+a.dataset.l).scrollIntoView({behavior:"smooth"})};
+  $("#people").innerHTML=Object.entries(by).map(([L,ps])=>`<div class="letter" id="L-${L}" style="scroll-margin-top:100px">${L}</div><ul class="people">${ps.map(personHTML).join("")}</ul>`).join("")+
+   (solo.length?`<div class="aside"><h3>Citati solo con il nome</h3><p class="muted" style="margin:0 0 10px;font-size:.9rem">Nei palinsesti alcuni conduttori compaiono senza cognome.</p><ul class="people">${solo.map(personHTML).join("")}</ul></div>`:"")+
+   (!q?`<div class="aside"><h3>Da verificare</h3><ul>${D.persone.dubbi.map(d=>`<li>${esc(d)}</li>`).join("")}</ul></div>`:"");
+}
+
+/* ---------- Programmi ---------- */
+let progType="tutti";
+function renderProgType(){
+  $("#prog-type").innerHTML=[["tutti","Tutti"],["programma","Programmi"],["appuntamento fisso","Appuntamenti fissi"]].map(([k,l])=>`<button class="chip" aria-pressed="${k===progType}" data-t="${k}">${l}</button>`).join("");
+}
+function renderPrograms(){
+  const q=slug($("#q-prog").value);
+  const ps=D.programmi.filter(p=>(progType==="tutti"||p.tipo===progType)&&(!q||slug(p.titolo+" "+p.persone.join(" ")).includes(q)));
+  $("#prog-count").textContent=`${ps.length} voci`;
+  $("#programs").innerHTML=ps.map(p=>{const per=[...new Set(p.uscite.map(u=>u.periodo))];
+   return `<article class="prog" id="programma-${p.id}"><div><h3>${esc(p.titolo)}</h3><div class="t">${p.tipo==="programma"?"":"appuntamento fisso · "}${esc(per.join(" · "))}</div></div>
+   <ul>${p.uscite.map(u=>`<li><span class="w"><a href="#palinsesto-${u.palinsesto}">${esc(u.periodo)}</a><br>${esc(u.giorni)} ${esc(u.ora)}</span><span>${u.persone.length?u.persone.map(pLink).join(", "):'<span class="muted">conduttori non indicati</span>'}${u.nota?`<br><span class="muted" style="font-size:.85rem">${esc(u.nota)}</span>`:""}</span></li>`).join("")}</ul></article>`}).join("")||`<p class="empty">Nessun programma corrisponde alla ricerca.</p>`;
+}
+
+/* ---------- Palinsesti ---------- */
+const DAYS=["lun","mar","mer","gio","ven","sab","dom"], DAYN={lun:"Lunedì",mar:"Martedì",mer:"Mercoledì",gio:"Giovedì",ven:"Venerdì",sab:"Sabato",dom:"Domenica"};
+const t2n=o=>{const m=String(o).match(/^(\d{1,2})[.:](\d{2})/);if(!m)return o.includes("pomeriggio")?14:o.includes("sera")?20.5:12;let h=+m[1]+m[2]/60;if(h<6)h+=24;return h};
+let palId=null;
+function renderPal(id){
+  if(!D.pal)return; palId=id&&D.pal.some(p=>p.id===id)?id:(palId||D.pal[0].id);
+  $("#pal-tabs").innerHTML=D.pal.map(p=>`<button class="tab" role="tab" aria-selected="${p.id===palId}" data-id="${p.id}">${esc(p.titolo)}</button>`).join("");
+  const P=D.pal.find(p=>p.id===palId);
+  const daily=[], week=Object.fromEntries(DAYS.map(d=>[d,[]]));
+  P.voci.forEach(v=>{const g=v.giorni;
+    if(g.includes(",")){g.split(",").map(s=>s.trim()).forEach(d=>week[d]&&week[d].push(v))}
+    else if(week[g]) week[g].push(v); else daily.push(v)});
+  const slot=(v,wk)=>`<div class="slot"><div class="h">${esc(v.ora)}${wk?"":`<em>${esc(v.giorni)}</em>`}</div><div><b>${prLink(v.programma,v.titolo)}</b>${v.persone.length?`<div class="who">${v.persone.map(pLink).join(", ")}</div>`:""}${v.nota?`<span class="nt">${esc(v.nota)}</span>`:""}</div></div>`;
+  daily.sort((a,b)=>t2n(a.ora)-t2n(b.ora));
+  $("#pal").innerHTML=`<div class="prose"><p>${esc(P.intro)}</p></div>
+   <div class="sec-title" style="margin-top:28px"><h2>Ogni giorno</h2><span class="label">più giorni della settimana</span></div><div class="daily">${daily.map(v=>slot(v,false)).join("")}</div>
+   <div class="sec-title"><h2>La settimana</h2><span class="label">giorno per giorno</span></div>
+   <div class="week-wrap"><div class="week">${DAYS.map(d=>`<div><h4>${DAYN[d]}</h4>${week[d].sort((a,b)=>t2n(a.ora)-t2n(b.ora)).map(v=>slot(v,true)).join("")}</div>`).join("")}</div></div>
+   <p class="src">Fonte: ${esc(P.fonte)}. <a href="pdf/${P.numero}.pdf#page=${P.pagina}" target="_blank" rel="noopener">Vedi la pagina originale</a>. Non sono elencati GR, notiziari di network e nastroteca.</p>`;
+}
+$("#pal-tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(b)location.hash="palinsesto-"+b.dataset.id});
+
+/* ---------- Avvio ---------- */
+const files={audio:"audio",video:"video",numeri:"novantaseietre",immagini:"immagini",persone:"persone",programmi:"programmi",pal:"palinsesti",cron:"cronologia"};
+Promise.all(Object.entries(files).map(([k,f])=>fetch(`data/${f}.json`).then(r=>{if(!r.ok)throw new Error(f);return r.json()}).then(j=>D[k]=j)))
+.then(()=>{
+  D.pmap={};D.persone.persone.forEach(p=>D.pmap[p.nome]=p);
+  renderHome();renderStoria();renderAudio();renderCovers();initGallery();renderPeople();renderProgType();renderPrograms();renderPal();
+  $("#q-persone").addEventListener("input",renderPeople);
+  $("#q-prog").addEventListener("input",renderPrograms);
+  $("#prog-type").onclick=e=>{const b=e.target.closest("button");if(b){progType=b.dataset.t;renderProgType();renderPrograms()}};
+  if(!location.hash.startsWith("#numero-")) openIssue(D.numeri[0].id);
+  show(location.hash);
+}).catch(err=>{document.getElementById("main").insertAdjacentHTML("afterbegin",`<p class="empty" style="margin-top:32px">I contenuti non si sono caricati (${esc(err.message)}). Il sito va aperto da un indirizzo web, ad esempio GitHub Pages, e non come file locale.</p>`)});
+show(location.hash);
+})();
+</script>
+
+</body></html>

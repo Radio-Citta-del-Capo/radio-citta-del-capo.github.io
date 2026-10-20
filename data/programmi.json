@@ -1,0 +1,6501 @@
+[
+ {
+  "id": "achtung-banditi",
+  "titolo": "Achtung banditi",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "dom",
+    "ora": "22.00",
+    "persone": [
+     "Alex Dandi",
+     "Simona Igor"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "ven",
+    "ora": "22.00",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": "musica italiana indipendente"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "dom",
+    "ora": "22.00",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Alex Dandi",
+   "Simona Igor"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "after-tea",
+  "titolo": "After tea",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mar–ven",
+    "ora": "16.55",
+    "persone": [
+     "Moreno Mari",
+     "Federico Minghini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mar–ven",
+    "ora": "17.00",
+    "persone": [
+     "Moreno Mari",
+     "Federico Minghini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Moreno Mari",
+   "Federico Minghini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "alto-voltaggio",
+  "titolo": "Alto voltaggio",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "ven",
+    "ora": "14.30",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": "anche alle 15.40, Vibrazioni Rock"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "ven",
+    "ora": "14.30",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Alex Dandi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "ancora-in-movimento",
+  "titolo": "Ancora in movimento",
+  "uscite": [
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mer",
+    "ora": "18.00",
+    "persone": [
+     "G. Cesari"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "G. Cesari"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "apertura-pomeriggio",
+  "titolo": "Apertura pomeriggio",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "14.30",
+    "persone": [
+     "Federico Mascagni"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Federico Mascagni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "artisti-sul-filo-del-rasoio",
+  "titolo": "Artisti… sul filo del rasoio",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "mar",
+    "ora": "22.00",
+    "persone": [
+     "Steno"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Steno"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "audio-lab",
+  "titolo": "Audio Lab",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "sab",
+    "ora": "21.30",
+    "persone": [
+     "Bruno Pompa"
+    ],
+    "nota": "rubrica del circolo Cassero, ex Gay Pride Night"
+   }
+  ],
+  "persone": [
+   "Bruno Pompa"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "basse-frequenze",
+  "titolo": "Basse frequenze",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mer",
+    "ora": "14.45",
+    "persone": [
+     "Monica Melissano"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mer",
+    "ora": "14.45",
+    "persone": [
+     "Monica Melissano"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Monica Melissano"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "battaglia-navale",
+  "titolo": "Battaglia navale",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun",
+    "ora": "16.40",
+    "persone": [],
+    "nota": "gioco a premi per gli abbonati"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "blue-regard",
+  "titolo": "Blue Regard",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "gio",
+    "ora": "20.05",
+    "persone": [
+     "Marco Tartarini",
+     "Vladimiro Pellicciardi"
+    ],
+    "nota": "altre strade del jazz"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "gio",
+    "ora": "20.05",
+    "persone": [
+     "Marco Tartarini",
+     "Vladimiro Pellicciardi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Marco Tartarini",
+   "Vladimiro Pellicciardi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "border-radio",
+  "titolo": "Border radio",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mer",
+    "ora": "22.30",
+    "persone": [
+     "Hermoso Solinas",
+     "Giovanni Cassano"
+    ],
+    "nota": "musica nordamericana"
+   }
+  ],
+  "persone": [
+   "Hermoso Solinas",
+   "Giovanni Cassano"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "borderline",
+  "titolo": "Borderline",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun",
+    "ora": "14.30",
+    "persone": [
+     "Augusto Bruni",
+     "Giampiero Burza"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Augusto Bruni",
+   "Giampiero Burza"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "boyz-in-the-hood",
+  "titolo": "Boyz in the hood",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "mar",
+    "ora": "21.00",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Augusto Bruni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "brivido-nero",
+  "titolo": "Brivido nero",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "lun",
+    "ora": "13.45",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": "viaggio nel mistero e nella paura"
+   }
+  ],
+  "persone": [
+   "Dhany Coraucci"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "canape",
+  "titolo": "Canapè",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "mar–ven",
+    "ora": "13.45",
+    "persone": [
+     "Michele Balduzzi",
+     "Laura Cacciari",
+     "Michela Turra",
+     "Cinzia Soldano",
+     "Giancarlo Bettini",
+     "Paolo Billi",
+     "Davide Cepraga",
+     "Nelsy Leidi",
+     "Giacomo Manzoli",
+     "Massimo Marino",
+     "Lino Neri",
+     "Sergio Rotino",
+     "Eva Savini"
+    ],
+    "nota": "rotocalco culturale: arte, libri, cinema, teatro"
+   }
+  ],
+  "persone": [
+   "Michele Balduzzi",
+   "Laura Cacciari",
+   "Michela Turra",
+   "Cinzia Soldano",
+   "Giancarlo Bettini",
+   "Paolo Billi",
+   "Davide Cepraga",
+   "Nelsy Leidi",
+   "Giacomo Manzoli",
+   "Massimo Marino",
+   "Lino Neri",
+   "Sergio Rotino",
+   "Eva Savini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "il-castello-di-wyvis",
+  "titolo": "Il castello di Wyvis",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "dom",
+    "ora": "22.30",
+    "persone": [
+     "Michele Balduzzi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Michele Balduzzi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "che-aria-tira",
+  "titolo": "Che aria tira",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "mar, gio",
+    "ora": "13.20",
+    "persone": [
+     "Leonardo Pugliese",
+     "Luca Mazzanti"
+    ],
+    "nota": "opera e belcanto"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mar, gio",
+    "ora": "13.20",
+    "persone": [
+     "Leonardo Pugliese",
+     "Luca Mazzanti"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mar, gio",
+    "ora": "11.30",
+    "persone": [
+     "Leonardo Pugliese"
+    ],
+    "nota": "musicale/lirica"
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun, ven",
+    "ora": "12.00",
+    "persone": [
+     "Leonardo Pugliese"
+    ],
+    "nota": "musicale/lirica"
+   }
+  ],
+  "persone": [
+   "Leonardo Pugliese",
+   "Luca Mazzanti"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "che-ci-frega-del-jazz",
+  "titolo": "Che ci frega del jazz",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "mer",
+    "ora": "20.05",
+    "persone": [
+     "Gianni Gherardi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gianni Gherardi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "ciclo-di-trasmissioni-d-informazione",
+  "titolo": "Ciclo di trasmissioni d'informazione",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "lun",
+    "ora": "11.30",
+    "persone": [],
+    "nota": "la prima serie è dedicata al referendum"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "le-classiche-monografie",
+  "titolo": "Le classiche monografie",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "16.00",
+    "persone": [],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "dom",
+    "ora": "16.00",
+    "persone": [],
+    "nota": ""
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "comma-22",
+  "titolo": "Comma 22",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mar",
+    "ora": "20.05",
+    "persone": [
+     "Claudio Boccolari"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mar",
+    "ora": "20.05",
+    "persone": [
+     "Claudio Boccolari"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Claudio Boccolari"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "conduzione-musicale",
+  "titolo": "Conduzione musicale",
+  "uscite": [
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "dom",
+    "ora": "10.35",
+    "persone": [
+     "Valerio Cacciari"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "dom",
+    "ora": "14.30",
+    "persone": [
+     "Federico Mascagni"
+    ],
+    "nota": "14.30–19.30"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "dom",
+    "ora": "14.30",
+    "persone": [
+     "Federico Mascagni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "10.00",
+    "persone": [
+     "DJ di RCdC"
+    ],
+    "nota": "10–13.30"
+   }
+  ],
+  "persone": [
+   "Valerio Cacciari",
+   "Federico Mascagni",
+   "DJ di RCdC"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "conduzione-musicale-del-mattino",
+  "titolo": "Conduzione musicale del mattino",
+  "uscite": [
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "lun–ven",
+    "ora": "8.00",
+    "persone": [
+     "Michele Pompei",
+     "Gregorio Dimonopoli"
+    ],
+    "nota": "a giorni alterni, fino alle 13.15"
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "lun–ven",
+    "ora": "8.35",
+    "persone": [
+     "Michele Pompei",
+     "Gregorio Dimonopoli"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "lun–ven",
+    "ora": "9.00",
+    "persone": [
+     "Michele Pompei",
+     "Piero Santi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Michele Pompei",
+   "Gregorio Dimonopoli",
+   "Piero Santi"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "conduzione-musicale-e-regia-in-studio",
+  "titolo": "Conduzione musicale e regia in studio",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun–ven",
+    "ora": "7.00",
+    "persone": [
+     "Michele Pompei",
+     "Piero Santi",
+     "Federico Mascagni"
+    ],
+    "nota": "Pompei e Santi al mattino, Mascagni 17.30–20"
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun–ven",
+    "ora": "7.00",
+    "persone": [
+     "Michele Pompei",
+     "Federico Mascagni",
+     "Piero Santi"
+    ],
+    "nota": "7–13.45 e 14.30–20, a turni"
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "sab",
+    "ora": "8.30",
+    "persone": [
+     "Piero Santi"
+    ],
+    "nota": "8.30–14.30"
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "dom",
+    "ora": "10.00",
+    "persone": [
+     "DJ di RCdC",
+     "Federico Mascagni"
+    ],
+    "nota": "DJ di RCdC 10–13.30, Mascagni 14.30–20"
+   }
+  ],
+  "persone": [
+   "Michele Pompei",
+   "Piero Santi",
+   "Federico Mascagni",
+   "DJ di RCdC"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "conduzione-musicale-e-regia-in-studio-mattina",
+  "titolo": "Conduzione musicale e regia in studio (mattina)",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun–sab",
+    "ora": "7.00",
+    "persone": [
+     "Michele Pompei",
+     "Piero Santi"
+    ],
+    "nota": "7–11 e 11–14.30, a giorni alterni"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun–sab",
+    "ora": "7.00",
+    "persone": [
+     "Michele Pompei",
+     "Piero Santi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Michele Pompei",
+   "Piero Santi"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "conduzione-musicale-e-regia-in-studio-pomeriggio",
+  "titolo": "Conduzione musicale e regia in studio (pomeriggio)",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun–ven",
+    "ora": "17.30",
+    "persone": [
+     "Michele Pompei"
+    ],
+    "nota": "17.30–20"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun–ven",
+    "ora": "17.30",
+    "persone": [
+     "Michele Pompei"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Michele Pompei"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "conduzione-musicale-serale",
+  "titolo": "Conduzione musicale serale",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "mar",
+    "ora": "20.00",
+    "persone": [
+     "Giangiacomo Rosiello"
+    ],
+    "nota": "20–24"
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "mer",
+    "ora": "20.00",
+    "persone": [
+     "Simone Bedetti",
+     "Federico Mascagni"
+    ],
+    "nota": "20–23"
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "gio",
+    "ora": "sera",
+    "persone": [
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "dom",
+    "ora": "21.00",
+    "persone": [
+     "Gianni Tavoletti"
+    ],
+    "nota": "21–24"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "gio",
+    "ora": "sera",
+    "persone": [
+     "Roberto Gerardi",
+     "Gino Dal Soler"
+    ],
+    "nota": "20–24"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "ven",
+    "ora": "20.00",
+    "persone": [
+     "Nevio Bencivenni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "dom",
+    "ora": "21.00",
+    "persone": [
+     "Gianni Tavoletti"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun",
+    "ora": "21.00",
+    "persone": [
+     "Alberto Antonini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mar",
+    "ora": "21.00",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mer",
+    "ora": "21.00",
+    "persone": [
+     "Giangiacomo Rosiello"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "gio",
+    "ora": "21.00",
+    "persone": [
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "ven",
+    "ora": "21.00",
+    "persone": [
+     "Nevio Bencivenni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "21.00",
+    "persone": [
+     "Gianni Tavoletti"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun",
+    "ora": "21.00",
+    "persone": [
+     "Alberto Antonini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mar",
+    "ora": "21.00",
+    "persone": [
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mer",
+    "ora": "21.00",
+    "persone": [
+     "Giangiacomo Rosiello"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "gio",
+    "ora": "21.00",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "ven",
+    "ora": "21.00",
+    "persone": [
+     "Nevio Bencivenni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "dom",
+    "ora": "21.00",
+    "persone": [
+     "Gianni Tavoletti"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Giangiacomo Rosiello",
+   "Simone Bedetti",
+   "Federico Mascagni",
+   "Roberto Gerardi",
+   "Gianni Tavoletti",
+   "Gino Dal Soler",
+   "Nevio Bencivenni",
+   "Alberto Antonini",
+   "Augusto Bruni",
+   "Sebastiano Sicali"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "conduzione-notturna",
+  "titolo": "Conduzione notturna",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "lun",
+    "ora": "21.00",
+    "persone": [
+     "Claudio Boccolari",
+     "George Koulermos"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mar",
+    "ora": "21.00",
+    "persone": [
+     "Augusto Ruggeri",
+     "Alberto Artese"
+    ],
+    "nota": "più «live-acts»"
+   },
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mer",
+    "ora": "21.00",
+    "persone": [
+     "Maurizio Liguori",
+     "Alberto Antonini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "sab",
+    "ora": "21.00",
+    "persone": [
+     "Alessandro Leati",
+     "Daniele Pilia"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "dom",
+    "ora": "21.00",
+    "persone": [
+     "Alessandro Mancini",
+     "Luca Baldazzi",
+     "Gianluca Galletti"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "sab",
+    "ora": "20.05",
+    "persone": [
+     "Alessandro Leati",
+     "Daniele Pilia"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "lun",
+    "ora": "21.00",
+    "persone": [
+     "Claudio Boccolari",
+     "Alberto Antonini"
+    ],
+    "nota": "Antonini con il suo circo musicale e letterario, 22.30–24.30"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mar",
+    "ora": "21.00",
+    "persone": [
+     "Amedeo Bruni",
+     "Alberto Artese"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mer",
+    "ora": "21.00",
+    "persone": [
+     "Maurizio Morini",
+     "Mary Del Barba"
+    ],
+    "nota": "«i dischi di Mary del Barba»"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "gio",
+    "ora": "21.00",
+    "persone": [
+     "Gino Dal Soler",
+     "Augusto Bruni",
+     "Roberto Gerardi",
+     "Sergio Rotino"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "ven",
+    "ora": "21.00",
+    "persone": [
+     "Stefano",
+     "Gabriele",
+     "Andrea",
+     "Nevio Bencivenni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "dom",
+    "ora": "21.00",
+    "persone": [
+     "Alessandro Mancini",
+     "Gianluca Galletti",
+     "Luca Baldazzi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Claudio Boccolari",
+   "George Koulermos",
+   "Augusto Ruggeri",
+   "Alberto Artese",
+   "Maurizio Liguori",
+   "Alberto Antonini",
+   "Alessandro Leati",
+   "Daniele Pilia",
+   "Alessandro Mancini",
+   "Luca Baldazzi",
+   "Gianluca Galletti",
+   "Amedeo Bruni",
+   "Maurizio Morini",
+   "Mary Del Barba",
+   "Gino Dal Soler",
+   "Augusto Bruni",
+   "Roberto Gerardi",
+   "Sergio Rotino",
+   "Stefano",
+   "Gabriele",
+   "Andrea",
+   "Nevio Bencivenni"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "conduzione-pomeridiana",
+  "titolo": "Conduzione pomeridiana",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "sab",
+    "ora": "17.30",
+    "persone": [
+     "Pierantonio Pezzinga",
+     "Andrea Albani"
+    ],
+    "nota": "17.30–19.30"
+   },
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "dom",
+    "ora": "15.00",
+    "persone": [
+     "Sebastiano Sicali",
+     "Cristian Adamo",
+     "Davide Bandiera",
+     "Giovanni Cattabriga",
+     "Paolo Simoni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "dom",
+    "ora": "14.00",
+    "persone": [
+     "Nuccio Sicali",
+     "Cristian Adamo",
+     "Davide Bandiera",
+     "Giovanni Cattabriga",
+     "Paolo Simoni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "sab",
+    "ora": "15.00",
+    "persone": [
+     "Fulvio Tomasetta",
+     "Pierantonio Pezzinga",
+     "Andrea Albani"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Pierantonio Pezzinga",
+   "Andrea Albani",
+   "Sebastiano Sicali",
+   "Cristian Adamo",
+   "Davide Bandiera",
+   "Giovanni Cattabriga",
+   "Paolo Simoni",
+   "Nuccio Sicali",
+   "Fulvio Tomasetta"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "conduzioni-musicali-periodiche",
+  "titolo": "Conduzioni musicali periodiche",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "dom",
+    "ora": "10.00",
+    "persone": [
+     "Marzio Amadori",
+     "Alberto Antonini",
+     "Augusto Bruni",
+     "Michele Balduzzi",
+     "Sebastiano Sicali"
+    ],
+    "nota": "10–13.30"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "dom",
+    "ora": "10.00",
+    "persone": [
+     "Marzio Amadori",
+     "Alberto Antonini",
+     "Augusto Bruni",
+     "Michele Balduzzi",
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Marzio Amadori",
+   "Alberto Antonini",
+   "Augusto Bruni",
+   "Michele Balduzzi",
+   "Sebastiano Sicali"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "conduzioni-pomeridiane",
+  "titolo": "Conduzioni pomeridiane",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "lun–ven",
+    "ora": "15.00",
+    "persone": [
+     "Maurizio Liguori",
+     "Piero Santi",
+     "Amedeo Bruni",
+     "Augusto Ruggeri",
+     "Giovanni Cassano"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mar–gio",
+    "ora": "15.00",
+    "persone": [
+     "Piero Santi",
+     "Amedeo Bruni",
+     "Giovanni Cassano"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Maurizio Liguori",
+   "Piero Santi",
+   "Amedeo Bruni",
+   "Augusto Ruggeri",
+   "Giovanni Cassano"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "conduzioni-pomeridiane-e-serali",
+  "titolo": "Conduzioni pomeridiane e serali",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "lun–dom",
+    "ora": "pomeriggio e sera",
+    "persone": [
+     "Alberto Antonini",
+     "Alberto Artese",
+     "Michele Balduzzi",
+     "Nevio Bencivenni",
+     "Amedeo Bruni",
+     "Alex Dandi",
+     "Gianluca Galletti",
+     "Michele Pompei",
+     "Piero Santi",
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Alberto Antonini",
+   "Alberto Artese",
+   "Michele Balduzzi",
+   "Nevio Bencivenni",
+   "Amedeo Bruni",
+   "Alex Dandi",
+   "Gianluca Galletti",
+   "Michele Pompei",
+   "Piero Santi",
+   "Sebastiano Sicali"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "contaminazioni-jazz",
+  "titolo": "Contaminazioni jazz",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mer",
+    "ora": "20.05",
+    "persone": [
+     "Giovanni Barbanti",
+     "Luca Settepani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mer",
+    "ora": "20.05",
+    "persone": [
+     "Giovanni Barbanti",
+     "Luca Settepani"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Giovanni Barbanti",
+   "Luca Settepani"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "corrispondente-x",
+  "titolo": "Corrispondente X",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "14.45",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "dom",
+    "ora": "14.45",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Dhany Coraucci"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "le-cose-che",
+  "titolo": "Le cose che…",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "sab",
+    "ora": "11.30",
+    "persone": [
+     "Mirco Pieralisi",
+     "Gabriella Mattioli"
+    ],
+    "nota": "settimanale d'informazione"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "sab",
+    "ora": "11.30",
+    "persone": [
+     "Mirco Pieralisi",
+     "Giovanni Cocchi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Mirco Pieralisi",
+   "Gabriella Mattioli",
+   "Giovanni Cocchi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "la-croce-del-sud",
+  "titolo": "La croce del Sud",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "gio",
+    "ora": "21.00",
+    "persone": [
+     "Gino Dal Soler",
+     "Augusto Bruni",
+     "Roberto Gerardi",
+     "Sergio Rotino"
+    ],
+    "nota": "conduzione notturna"
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "gio",
+    "ora": "22.30",
+    "persone": [
+     "Augusto Bruni",
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gino Dal Soler",
+   "Augusto Bruni",
+   "Roberto Gerardi",
+   "Sergio Rotino"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "cul-de-sac",
+  "titolo": "Cul de sac",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mer",
+    "ora": "11.30",
+    "persone": [
+     "Andrea Modelli"
+    ],
+    "nota": "«catene criminali» per le strade dei bolognesi"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mar",
+    "ora": "11.30",
+    "persone": [
+     "Andrea Modelli"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea Modelli"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "dear-prudence",
+  "titolo": "Dear Prudence",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "lun",
+    "ora": "15.00",
+    "persone": [
+     "Valentina Cencetti"
+    ],
+    "nota": "rock, musica etnica e jazz"
+   }
+  ],
+  "persone": [
+   "Valentina Cencetti"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "di-cotte-e-di-crude",
+  "titolo": "Di cotte e di crude",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "dom",
+    "ora": "13.30",
+    "persone": [
+     "Laura Cacciari",
+     "Francesco Garbari",
+     "Stefania Vergnani"
+    ],
+    "nota": "rubrica gastronomica"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mar",
+    "ora": "20.00",
+    "persone": [
+     "Laura Cacciari",
+     "Francesco Garbari",
+     "Stefania Vergnani"
+    ],
+    "nota": "replica"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "dom",
+    "ora": "13.30",
+    "persone": [
+     "Laura Cacciari",
+     "Francesco Garbari",
+     "Stefania Vergnani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "13.30",
+    "persone": [
+     "Laura Cacciari",
+     "Francesco Garbari",
+     "Stefania Vergnani"
+    ],
+    "nota": "amenità gastronomiche"
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "dom",
+    "ora": "13.30",
+    "persone": [
+     "Laura Cacciari",
+     "Francesco Garbari",
+     "Stefania Vergnani"
+    ],
+    "nota": "amenità gastronomiche"
+   }
+  ],
+  "persone": [
+   "Laura Cacciari",
+   "Francesco Garbari",
+   "Stefania Vergnani"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "downtown",
+  "titolo": "Downtown",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "gio",
+    "ora": "15.00",
+    "persone": [],
+    "nota": "jazz"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "l-era-del-cinghiale-bianco",
+  "titolo": "L'era del cinghiale bianco",
+  "uscite": [
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mar",
+    "ora": "0.20",
+    "persone": [
+     "Simone Bedetti"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Simone Bedetti"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "l-eterna-illusione",
+  "titolo": "L'eterna illusione",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "gio",
+    "ora": "14.30",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": "musica e cinema"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "gio",
+    "ora": "14.30",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "ven",
+    "ora": "20.05",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": "replica"
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "gio",
+    "ora": "14.45",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "gio",
+    "ora": "14.45",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Dhany Coraucci"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "etnicaos",
+  "titolo": "Etnicaos",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "sab",
+    "ora": "14.30",
+    "persone": [
+     "Pierpaolo Pederzini"
+    ],
+    "nota": "musica etnica e new age"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "sab",
+    "ora": "14.30",
+    "persone": [
+     "Pierpaolo Pederzini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "sab",
+    "ora": "17.30",
+    "persone": [
+     "Pierpaolo Pederzini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "sab",
+    "ora": "17.30",
+    "persone": [
+     "Pierpaolo Pederzini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Pierpaolo Pederzini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "fino-alla-fine-del-mondo",
+  "titolo": "Fino alla fine del mondo",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun",
+    "ora": "17.00",
+    "persone": [
+     "Antonella",
+     "Maddalena"
+    ],
+    "nota": "rubrica di viaggi"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun",
+    "ora": "17.00",
+    "persone": [
+     "Antonella",
+     "Maddalena"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Antonella",
+   "Maddalena"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "flavour-of-the-label",
+  "titolo": "Flavour of the label",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "sab",
+    "ora": "20.00",
+    "persone": [
+     "Giovanni Cattabriga",
+     "Giovanni Gandolfi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Giovanni Cattabriga",
+   "Giovanni Gandolfi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "fumo-di-china",
+  "titolo": "Fumo di china",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "gio",
+    "ora": "14.00",
+    "persone": [
+     "Andrea Plazzi"
+    ],
+    "nota": "il mondo dei fumetti"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "gio",
+    "ora": "14.00",
+    "persone": [
+     "Andrea Plazzi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea Plazzi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "fuori-moda",
+  "titolo": "Fuori moda",
+  "uscite": [
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "sab",
+    "ora": "11.40",
+    "persone": [
+     "Massimo Antonucci"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Massimo Antonucci"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "fuori-orbita",
+  "titolo": "Fuori orbita",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "ven",
+    "ora": "11.30",
+    "persone": [
+     "Giovanna Chioini",
+     "Giovanni Dognini",
+     "Francesco Strazzari"
+    ],
+    "nota": "uno sguardo nel mondo"
+   }
+  ],
+  "persone": [
+   "Giovanna Chioini",
+   "Giovanni Dognini",
+   "Francesco Strazzari"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "gay-pride-night",
+  "titolo": "Gay Pride Night",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "sab",
+    "ora": "21.30",
+    "persone": [
+     "Bruno Pompa"
+    ],
+    "nota": "rubrica del circolo Cassero"
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "sab",
+    "ora": "20.00",
+    "persone": [
+     "Bruno Pompa"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "sab",
+    "ora": "20.00",
+    "persone": [
+     "Bruno Pompa"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Bruno Pompa"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "gionni-paludi-show",
+  "titolo": "Gionni Paludi show",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "mer",
+    "ora": "22.00",
+    "persone": [
+     "Gionni Paludi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "mer",
+    "ora": "14.30",
+    "persone": [
+     "Gionni Paludi"
+    ],
+    "nota": "replica"
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "mer",
+    "ora": "20.05",
+    "persone": [
+     "Gionni Paludi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mar",
+    "ora": "22.00",
+    "persone": [
+     "Gionni Paludi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "sab",
+    "ora": "14.30",
+    "persone": [
+     "Gionni Paludi"
+    ],
+    "nota": "replica"
+   }
+  ],
+  "persone": [
+   "Gionni Paludi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "giungla-d-asfalto",
+  "titolo": "Giungla d'asfalto",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "dom",
+    "ora": "18.00",
+    "persone": [
+     "Giovanni Cattabriga"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "dom",
+    "ora": "18.00",
+    "persone": [
+     "Giovanni Cattabriga"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Giovanni Cattabriga"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "gr-locale",
+  "titolo": "GR locale",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun–ven",
+    "ora": "12.50",
+    "persone": [
+     "Marco Angelucci",
+     "Chiara Fumagalli",
+     "Fernando Pellerano",
+     "Silvestro Ramunno",
+     "Gabriele Rubbini",
+     "Anna Sbarrai",
+     "Paolo Soglia",
+     "Emilia Vitulano"
+    ],
+    "nota": "in collaborazione con Oasi Radio; edizione principale alle 18"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun–ven",
+    "ora": "12.50",
+    "persone": [
+     "Beatrice Di Pisa",
+     "Camilla Cuppini",
+     "Marco Angelucci",
+     "Chiara Fumagalli",
+     "Silvia Grossi",
+     "Piero Ingrosso",
+     "Fernando Pellerano",
+     "Silvestro Ramunno",
+     "Gabriele Rubbini",
+     "Sandra Salvato",
+     "Anna Sbarrai",
+     "Paolo Soglia",
+     "Emilia Vitulano"
+    ],
+    "nota": "in collaborazione con Oasi Radio"
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "persone": [
+     "Paolo Soglia",
+     "Fernando Pellerano",
+     "Marco Angelucci",
+     "Laura Cacciari",
+     "Beatrice Di Pisa",
+     "Silvestro Ramunno",
+     "Luca Sancini",
+     "Anna Sbarrai",
+     "Emilia Vitulano"
+    ],
+    "nota": "coordinatori Paolo Soglia e Fernando Pellerano; tre edizioni (13, 18, 20)"
+   }
+  ],
+  "persone": [
+   "Marco Angelucci",
+   "Chiara Fumagalli",
+   "Fernando Pellerano",
+   "Silvestro Ramunno",
+   "Gabriele Rubbini",
+   "Anna Sbarrai",
+   "Paolo Soglia",
+   "Emilia Vitulano",
+   "Beatrice Di Pisa",
+   "Camilla Cuppini",
+   "Silvia Grossi",
+   "Piero Ingrosso",
+   "Sandra Salvato",
+   "Laura Cacciari",
+   "Luca Sancini"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "il-grande-rogo",
+  "titolo": "Il grande rogo",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "dom",
+    "ora": "14.00",
+    "persone": [
+     "Alessandro Mancini"
+    ],
+    "nota": "musica classica"
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "dom",
+    "ora": "16.00",
+    "persone": [
+     "Alessandro Mancini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "dom",
+    "ora": "18.00",
+    "persone": [
+     "Leonardo Pugliese"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "dom",
+    "ora": "18.00",
+    "persone": [
+     "Leonardo Pugliese"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Alessandro Mancini",
+   "Leonardo Pugliese"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "grinding-halt",
+  "titolo": "Grinding halt",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "dom",
+    "ora": "15.00",
+    "persone": [
+     "Francesca Ognibene"
+    ],
+    "nota": "rock contemporaneo"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "dom",
+    "ora": "15.00",
+    "persone": [
+     "Francesca Ognibene"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Francesca Ognibene"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "intermedia",
+  "titolo": "Intermedia",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mer",
+    "ora": "13.00",
+    "persone": [],
+    "nota": "in collaborazione con l'Ong Cospe, dedicata ai rapporti tra nord e sud del mondo"
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mer",
+    "ora": "14.00",
+    "persone": [],
+    "nota": "fino al 6 novembre"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "international-dubbers",
+  "titolo": "International dubbers",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun",
+    "ora": "24.20",
+    "persone": [
+     "Alain",
+     "Dayle"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun",
+    "ora": "24.20",
+    "persone": [
+     "Alain",
+     "Dayle"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Alain",
+   "Dayle"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "intersezioni",
+  "titolo": "Intersezioni",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "sab",
+    "ora": "15.00",
+    "persone": [
+     "Pierantonio Pezzinga"
+    ],
+    "nota": "musica d'improvvisazione"
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "sab",
+    "ora": "18.00",
+    "persone": [
+     "Pierantonio Pezzinga"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Pierantonio Pezzinga"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "l-isola-del-tesoro",
+  "titolo": "L'isola del tesoro",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "sab",
+    "ora": "11.30",
+    "persone": [
+     "Donata Meneghelli",
+     "Lino Neri",
+     "Mirco Pieralisi",
+     "Sergio Rotino"
+    ],
+    "nota": "settimanale di libri"
+   }
+  ],
+  "persone": [
+   "Donata Meneghelli",
+   "Lino Neri",
+   "Mirco Pieralisi",
+   "Sergio Rotino"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "isole-nella-rete",
+  "titolo": "Isole nella rete",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mer",
+    "ora": "21.30",
+    "persone": [
+     "Simone Bedetti",
+     "Federico Mascagni"
+    ],
+    "nota": "il mondo di Internet"
+   }
+  ],
+  "persone": [
+   "Simone Bedetti",
+   "Federico Mascagni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "kaos",
+  "titolo": "Kaos",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "lun",
+    "ora": "22.30",
+    "persone": [
+     "Alberto Antonini"
+    ],
+    "nota": "percorsi musicali e letterari"
+   }
+  ],
+  "persone": [
+   "Alberto Antonini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "keep-the-beat",
+  "titolo": "Keep the beat",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mer",
+    "ora": "21.00",
+    "persone": [
+     "Gabriellina"
+    ],
+    "nota": "rap e raggamuffin"
+   }
+  ],
+  "persone": [
+   "Gabriellina"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "last-exit",
+  "titolo": "Last Exit",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "sab",
+    "ora": "14.00",
+    "persone": [
+     "Vincenzo Cacosso",
+     "Mauro Garagnani"
+    ],
+    "nota": "viaggi attorno al jazz"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "sab",
+    "ora": "14.00",
+    "persone": [
+     "Vincenzo Cacosso",
+     "Mauro Garagnani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "sab",
+    "ora": "14.00",
+    "persone": [
+     "Vincenzo Cacosso",
+     "Mauro Garagnani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "sab",
+    "ora": "15.00",
+    "persone": [
+     "Vincenzo Cacosso",
+     "Mauro Garagnani"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Vincenzo Cacosso",
+   "Mauro Garagnani"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "lavoro-e-dintorni",
+  "titolo": "Lavoro e dintorni",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun",
+    "ora": "11.30",
+    "persone": [],
+    "nota": "sindacale, quindicinale"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "librandovi",
+  "titolo": "Librandovi",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun",
+    "ora": "14.00",
+    "persone": [
+     "Lino Neri",
+     "Nicoletta Maldini"
+    ],
+    "nota": "trasmissione sulla lettura"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun",
+    "ora": "14.00",
+    "persone": [
+     "Lino Neri",
+     "Nicoletta Maldini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Lino Neri",
+   "Nicoletta Maldini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "linee-oblique",
+  "titolo": "Linee oblique",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "dom",
+    "ora": "16.30",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": "trasmissione rigorosamente indipendente"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "dom",
+    "ora": "16.30",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "22.00",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "dom",
+    "ora": "22.00",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea Albani"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "live",
+  "titolo": "Live",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "ven",
+    "ora": "22.30",
+    "persone": [
+     "Nevio Bencivenni"
+    ],
+    "nota": "bootleg e registrazioni dal vivo"
+   }
+  ],
+  "persone": [
+   "Nevio Bencivenni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "mac-guffin",
+  "titolo": "Mac Guffin",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "dom",
+    "ora": "20.00",
+    "persone": [
+     "Gianluca Galletti"
+    ],
+    "nota": "cinema"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "dom",
+    "ora": "20.00",
+    "persone": [
+     "Gianluca Galletti"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gianluca Galletti"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "le-mani-sulla-citta",
+  "titolo": "Le mani sulla città",
+  "uscite": [
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun",
+    "ora": "16.45",
+    "persone": [
+     "Michele Pompei",
+     "Federico Mascagni"
+    ],
+    "nota": "gioco a premi"
+   }
+  ],
+  "persone": [
+   "Michele Pompei",
+   "Federico Mascagni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "mc-guffin",
+  "titolo": "Mc Guffin",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "20.00",
+    "persone": [
+     "Gianluca Galletti"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "dom",
+    "ora": "20.00",
+    "persone": [
+     "Gianluca Galletti"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gianluca Galletti"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "meglio-la-salute",
+  "titolo": "Meglio la salute",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "gio",
+    "ora": "11.30",
+    "persone": [
+     "Marcella Brizzi"
+    ],
+    "nota": "curarsi e preservarsi lontano dalle farmacie"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "gio",
+    "ora": "11.30",
+    "persone": [
+     "Marcella Brizzi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Marcella Brizzi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "meno-e-meglio",
+  "titolo": "Meno è meglio",
+  "uscite": [
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "gio",
+    "ora": "11.00",
+    "persone": [
+     "Paola Savigni"
+    ],
+    "nota": "in collaborazione con Federconsumatori"
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mer",
+    "ora": "11.30",
+    "persone": [
+     "Paola Savigni"
+    ],
+    "nota": "settimanale per i consumatori"
+   }
+  ],
+  "persone": [
+   "Paola Savigni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "microfono-aperto",
+  "titolo": "Microfono aperto",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "lun–ven",
+    "ora": "17.00",
+    "persone": [
+     "Gregorio Dimonopoli"
+    ],
+    "nota": "inchieste e interviste in studio, a cura di Gregorio Dimonopoli"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "lun–ven",
+    "ora": "17.00",
+    "persone": [
+     "Gregorio Dimonopoli"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "lun–ven",
+    "ora": "17.00",
+    "persone": [
+     "Paolo Barnard",
+     "Giovanna Chioini",
+     "Giovanni Cocchi",
+     "Gregorio Dimonopoli",
+     "Khalid Harda",
+     "Giulia Gessi",
+     "Fernando Pellerano",
+     "Mirco Pieralisi",
+     "Michele Pompei",
+     "Amedeo Ricucci",
+     "Paolo Soglia",
+     "Cinzia Soldano",
+     "Enrichetta Susi",
+     "Paola Zappaterra"
+    ],
+    "nota": "quotidiano d'informazione"
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "lun–ven",
+    "ora": "17.30",
+    "persone": [
+     "Paolo Barnard",
+     "Luca Calzolari",
+     "Giovanna Chioini",
+     "Fernando Pellerano",
+     "Mirco Pieralisi",
+     "Michele Pompei",
+     "Amedeo Ricucci",
+     "Paolo Soglia",
+     "Roberto Patuelli"
+    ],
+    "nota": "quotidiano d'informazione"
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun–ven",
+    "ora": "17.45",
+    "persone": [
+     "Luca Calzolari",
+     "Giovanna Chioini",
+     "Fernando Pellerano",
+     "Mirco Pieralisi",
+     "Anna Sbarrai",
+     "Paolo Soglia"
+    ],
+    "nota": "quotidiano d'informazione"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun–ven",
+    "ora": "17.45",
+    "persone": [
+     "Luca Calzolari",
+     "Giovanna Chioini",
+     "Fernando Pellerano",
+     "Mirco Pieralisi",
+     "Anna Sbarrai",
+     "Paolo Soglia"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gregorio Dimonopoli",
+   "Paolo Barnard",
+   "Giovanna Chioini",
+   "Giovanni Cocchi",
+   "Khalid Harda",
+   "Giulia Gessi",
+   "Fernando Pellerano",
+   "Mirco Pieralisi",
+   "Michele Pompei",
+   "Amedeo Ricucci",
+   "Paolo Soglia",
+   "Cinzia Soldano",
+   "Enrichetta Susi",
+   "Paola Zappaterra",
+   "Luca Calzolari",
+   "Roberto Patuelli",
+   "Anna Sbarrai"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "microphone-fien",
+  "titolo": "Microphone fién",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "gio",
+    "ora": "20.05",
+    "persone": [
+     "Andrea",
+     "Gabri",
+     "Stefano"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea",
+   "Gabri",
+   "Stefano"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "microphone-fiends",
+  "titolo": "Microphone fiends",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "ven",
+    "ora": "21.00",
+    "persone": [
+     "Stefano",
+     "Gabriele",
+     "Andrea",
+     "Nevio Bencivenni"
+    ],
+    "nota": "conduzione notturna"
+   }
+  ],
+  "persone": [
+   "Stefano",
+   "Gabriele",
+   "Andrea",
+   "Nevio Bencivenni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "the-microphone-phiend",
+  "titolo": "The microphone phiend",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "ven",
+    "ora": "21.00",
+    "persone": [
+     "Stefano",
+     "Gabriele",
+     "Andrea",
+     "Walter Fasano"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Stefano",
+   "Gabriele",
+   "Andrea",
+   "Walter Fasano"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "miscellanea",
+  "titolo": "Miscellanea",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mar",
+    "ora": "22.30",
+    "persone": [
+     "Claudio Boccolari"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "gio",
+    "ora": "22.00",
+    "persone": [
+     "Claudio Boccolari"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Claudio Boccolari"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "missing-link",
+  "titolo": "Missing link",
+  "uscite": [
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "dom",
+    "ora": "20.05",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "dom",
+    "ora": "21.00",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": "informazione musicale sulla scena hard-core"
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "dom",
+    "ora": "20.05",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea Tarozzi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "il-mistero-del-vaso-cinese",
+  "titolo": "Il mistero del vaso cinese",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "dom",
+    "ora": "12.30",
+    "persone": [],
+    "nota": "radiogiallo; replica il lunedì alle 18.30"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "modica-qualita",
+  "titolo": "Modica qualità",
+  "uscite": [
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mer",
+    "ora": "11.30",
+    "persone": [
+     "Andrea Torreggiani"
+    ],
+    "nota": "ex «Suoni e rumori»"
+   }
+  ],
+  "persone": [
+   "Andrea Torreggiani"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "mondo-frido",
+  "titolo": "Mondo frido",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mar, ven",
+    "ora": "15.55",
+    "persone": [
+     "Giovanni Cattabriga",
+     "Giovanni Azzoni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mar",
+    "ora": "15.55",
+    "persone": [
+     "Giovanni Cattabriga",
+     "Giovanni Azzoni"
+    ],
+    "nota": "anche il venerdì alle 14.45"
+   }
+  ],
+  "persone": [
+   "Giovanni Cattabriga",
+   "Giovanni Azzoni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "mondo-groove",
+  "titolo": "Mondo groove",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "gio",
+    "ora": "22.00",
+    "persone": [
+     "Gabriele Gardini",
+     "Marco Ballotta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "gio",
+    "ora": "22.00",
+    "persone": [
+     "Gabriele Gardini",
+     "Marco Ballotta"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gabriele Gardini",
+   "Marco Ballotta"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "mondogroove",
+  "titolo": "Mondogroove",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "gio",
+    "ora": "22.00",
+    "persone": [
+     "Gabriele Gardini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gabriele Gardini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "musica-sottile",
+  "titolo": "Musica sottile",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "ven",
+    "ora": "20.05",
+    "persone": [
+     "Franco Nanni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "ven",
+    "ora": "20.05",
+    "persone": [
+     "Franco Nanni"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Franco Nanni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "nessun-dorma",
+  "titolo": "Nessun dorma",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "mar, gio",
+    "ora": "0.30",
+    "persone": [
+     "Alex Dandi",
+     "Dela"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mar",
+    "ora": "0.30",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": "notturno"
+   }
+  ],
+  "persone": [
+   "Alex Dandi",
+   "Dela",
+   "Augusto Bruni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "newport",
+  "titolo": "Newport",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "gio",
+    "ora": "11.30",
+    "persone": [
+     "Alberto Artese",
+     "Amedeo Bruni",
+     "Michele Pompei"
+    ],
+    "nota": "novità discografiche"
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "gio",
+    "ora": "11.00",
+    "persone": [
+     "Alberto Artese",
+     "Michele Pompei"
+    ],
+    "nota": "novità discografiche"
+   }
+  ],
+  "persone": [
+   "Alberto Artese",
+   "Amedeo Bruni",
+   "Michele Pompei"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "non-parlano-italiano",
+  "titolo": "Non parlano italiano",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "ven",
+    "ora": "11.30",
+    "persone": [
+     "Paolo Barnard"
+    ],
+    "nota": "notizie dall'estero che non trovano spazio nei giornali"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "ven",
+    "ora": "11.30",
+    "persone": [
+     "Paolo Barnard"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mar",
+    "ora": "11.30",
+    "persone": [
+     "Paolo Barnard"
+    ],
+    "nota": "inediti dal mondo"
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "ven",
+    "ora": "11.30",
+    "persone": [
+     "Giovanna Chioini"
+    ],
+    "nota": "in collaborazione con la redazione di «Internazionale»"
+   }
+  ],
+  "persone": [
+   "Paolo Barnard",
+   "Giovanna Chioini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "il-notturno-del-rock-shop",
+  "titolo": "Il notturno del Rock Shop",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "ven",
+    "ora": "0.30",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "ven",
+    "ora": "0.30",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Danilo Tomasetta"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "novita-discografiche-musica-dal-mondo-jazz",
+  "titolo": "Novità discografiche, musica dal mondo, jazz",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "ogni giorno",
+    "ora": "14.00",
+    "persone": [
+     "Mark Howeto",
+     "Titina Spaventa"
+    ],
+    "nota": "a rotazione con gli altri programmi delle 14"
+   }
+  ],
+  "persone": [
+   "Mark Howeto",
+   "Titina Spaventa"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "nowhereland",
+  "titolo": "Nowhereland",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "ven",
+    "ora": "18.30",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": "quindicinale"
+   }
+  ],
+  "persone": [
+   "Giancarlo Bettini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "oldies-but-goldies",
+  "titolo": "Oldies but goldies",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun",
+    "ora": "15.40",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": "dall'archivio musicale"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun",
+    "ora": "14.30",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": "anche alle 15.40"
+   }
+  ],
+  "persone": [
+   "Augusto Bruni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "l-ora-d-aria",
+  "titolo": "L'ora d'aria",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "mar",
+    "ora": "14.30",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mar",
+    "ora": "14.30",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mer",
+    "ora": "11.30",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mer",
+    "ora": "11.30",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Massimo Simonini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "l-orecchio-di-cemento",
+  "titolo": "L'orecchio di cemento",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mer",
+    "ora": "11.30",
+    "persone": [
+     "Basse Sfere"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "ven",
+    "ora": "11.30",
+    "persone": [
+     "Basse Sfere"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mar",
+    "ora": "11.30",
+    "persone": [
+     "Basse Sfere"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Basse Sfere"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "la-palla-al-piede",
+  "titolo": "La palla al piede",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "lun",
+    "ora": "11.30",
+    "persone": [
+     "Fernando Pellerano",
+     "Paolo Soglia",
+     "Luca Bottura",
+     "Giovanni Egidio"
+    ],
+    "nota": "settimanale sportivo"
+   }
+  ],
+  "persone": [
+   "Fernando Pellerano",
+   "Paolo Soglia",
+   "Luca Bottura",
+   "Giovanni Egidio"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "panasonica",
+  "titolo": "Panasonica",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun",
+    "ora": "14.45",
+    "persone": [
+     "Amedeo Bruni"
+    ],
+    "nota": "anche il mercoledì"
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun",
+    "ora": "14.45",
+    "persone": [
+     "Amedeo Bruni"
+    ],
+    "nota": "anche il mercoledì"
+   }
+  ],
+  "persone": [
+   "Amedeo Bruni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "plaza-de-toros",
+  "titolo": "Plaza de toros",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "lun",
+    "ora": "14.00",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "novità discografiche"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "sab",
+    "ora": "10.00",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "replica"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "lun",
+    "ora": "14.00",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "lun",
+    "ora": "14.00",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "mar",
+    "ora": "14.30",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "replica il sabato alle 10.40"
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "sab",
+    "ora": "10.40",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "gio",
+    "ora": "20.05",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "replica"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "sab",
+    "ora": "10.40",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "gio",
+    "ora": "20.05",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "replica"
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "gio",
+    "ora": "20.05",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "replica"
+   }
+  ],
+  "persone": [
+   "Danilo Tomasetta"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "la-plaza-de-toros",
+  "titolo": "La plaza de toros",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "sab",
+    "ora": "10.40",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "sab",
+    "ora": "10.40",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Danilo Tomasetta"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "propositivo",
+  "titolo": "Propositivo",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "dom",
+    "ora": "11.30",
+    "persone": [
+     "Valerio Cacciari"
+    ],
+    "nota": "testimonianze legate al mondo dell'AIDS"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "dom",
+    "ora": "11.30",
+    "persone": [
+     "Valerio Cacciari"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Valerio Cacciari"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "psycho-navigation",
+  "titolo": "Psycho navigation",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "ven",
+    "ora": "22.00",
+    "persone": [
+     "Gino Dal Soler"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "ven",
+    "ora": "22.00",
+    "persone": [
+     "Gino Dal Soler"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gino Dal Soler"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "psyco",
+  "titolo": "Psyco",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mar",
+    "ora": "20.00",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "mar",
+    "ora": "20.05",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea Albani"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "pulp-sound",
+  "titolo": "Pulp sound",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mer",
+    "ora": "22.00",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mer",
+    "ora": "22.00",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea Tarozzi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "pulpsound",
+  "titolo": "Pulpsound",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "ven",
+    "ora": "22.00",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea Tarozzi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "il-puttanoroscopo",
+  "titolo": "Il puttanoroscopo",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "ven",
+    "ora": "20.00",
+    "persone": [],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "ven",
+    "ora": "20.05",
+    "persone": [
+     "Cristian",
+     "Marzio",
+     "Davide"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Cristian",
+   "Marzio",
+   "Davide"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "quarto-d-ora-accademico",
+  "titolo": "Quarto d'ora accademico",
+  "uscite": [
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun, gio",
+    "ora": "10.45",
+    "persone": [
+     "Manuela Gadani",
+     "Sara Nanni",
+     "Francesca Sturaro",
+     "Marcella Volpe"
+    ],
+    "nota": "voci dalla giungla universitaria"
+   }
+  ],
+  "persone": [
+   "Manuela Gadani",
+   "Sara Nanni",
+   "Francesca Sturaro",
+   "Marcella Volpe"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "quinto-sbarramento",
+  "titolo": "Quinto sbarramento",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "lun",
+    "ora": "18.00",
+    "persone": [
+     "Paolo Klun",
+     "Lidia De Vido"
+    ],
+    "nota": "racconti e riflessioni da chi vive in carcere"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "lun",
+    "ora": "18.00",
+    "persone": [
+     "Paolo Klun",
+     "Lidia De Vido"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Paolo Klun",
+   "Lidia De Vido"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "radio-barbiere",
+  "titolo": "Radio barbiere",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "lun",
+    "ora": "21.00",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "lun",
+    "ora": "22.00",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun",
+    "ora": "22.00",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun",
+    "ora": "22.00",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun",
+    "ora": "22.00",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun",
+    "ora": "22.00",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Fulvio Tomasetta"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "radio-blissett",
+  "titolo": "Radio Blissett",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mer",
+    "ora": "23.00",
+    "persone": [
+     "Luther Blissett"
+    ],
+    "nota": "trasmissione psicogeografica; replica alle 0.30"
+   }
+  ],
+  "persone": [
+   "Luther Blissett"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "radio-caribena",
+  "titolo": "Radio caribeña",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mer",
+    "ora": "14.00",
+    "persone": [
+     "Jairo"
+    ],
+    "nota": "musica sudamericana"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mer",
+    "ora": "14.00",
+    "persone": [
+     "Jairo"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Jairo"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "radio-metropoli",
+  "titolo": "Radio Metropoli",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "mer",
+    "ora": "14.00",
+    "persone": [],
+    "nota": "cronache del disagio a Bologna, a cura della redazione di «Metropoli»"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "radio-oddities",
+  "titolo": "Radio oddities",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mer",
+    "ora": "20.05",
+    "persone": [
+     "Claudio Boccolari"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Claudio Boccolari"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "la-radio-sul-cuscino",
+  "titolo": "La radio sul cuscino",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun",
+    "ora": "0.20",
+    "persone": [
+     "Alberto Antonini"
+    ],
+    "nota": "notturno"
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun",
+    "ora": "0.20",
+    "persone": [
+     "Alberto Antonini"
+    ],
+    "nota": "notturno"
+   }
+  ],
+  "persone": [
+   "Alberto Antonini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "radioclash",
+  "titolo": "Radioclash",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "sab",
+    "ora": "17.00",
+    "persone": [
+     "Nuccio Sicali"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Nuccio Sicali"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "radiofonico-blues",
+  "titolo": "Radiofonico blues",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "gio",
+    "ora": "14.00",
+    "persone": [
+     "Steno"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "gio",
+    "ora": "14.30",
+    "persone": [
+     "Steno"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "gio",
+    "ora": "15.40",
+    "persone": [
+     "Steno"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun",
+    "ora": "15.55",
+    "persone": [
+     "Andrea Carrieri"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun",
+    "ora": "15.55",
+    "persone": [
+     "Andrea Carrieri"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Steno",
+   "Andrea Carrieri"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "radiofonico-blues-viveri-kappa",
+  "titolo": "Radiofonico blues / Viveri kappa",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "gio",
+    "ora": "15.40",
+    "persone": [
+     "Steno"
+    ],
+    "nota": "Vibrazioni Rock"
+   }
+  ],
+  "persone": [
+   "Steno"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "randagi",
+  "titolo": "Randagi",
+  "uscite": [
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mar",
+    "ora": "15.00",
+    "persone": [],
+    "nota": "rassegna radiofonica dedicata ai musicisti di strada"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "rassegna-stampa",
+  "titolo": "Rassegna stampa",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "lun",
+    "ora": "9.00",
+    "persone": [
+     "Pino Cacucci"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mar",
+    "ora": "9.00",
+    "persone": [
+     "E. Pucci"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mer",
+    "ora": "9.00",
+    "persone": [
+     "Valerio Monteventi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "gio",
+    "ora": "9.00",
+    "persone": [
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "ven",
+    "ora": "9.00",
+    "persone": [
+     "Luca Alessandrini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "sab",
+    "ora": "9.00",
+    "persone": [
+     "Tanino De Rosa",
+     "Secondino"
+    ],
+    "nota": "in griglia «Derosa Secondino»"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "lun",
+    "ora": "9.00",
+    "persone": [
+     "Pino Cacucci"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mar",
+    "ora": "9.00",
+    "persone": [
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mer",
+    "ora": "9.00",
+    "persone": [
+     "Marzio Amadori",
+     "Roberto Patuelli"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "gio",
+    "ora": "9.00",
+    "persone": [
+     "Valerio Monteventi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "ven",
+    "ora": "9.00",
+    "persone": [
+     "Luca Alessandrini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "sab",
+    "ora": "9.00",
+    "persone": [
+     "Tanino De Rosa",
+     "Secondino"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Pino Cacucci",
+   "E. Pucci",
+   "Valerio Monteventi",
+   "Paola Zappaterra",
+   "Luca Alessandrini",
+   "Tanino De Rosa",
+   "Secondino",
+   "Marzio Amadori",
+   "Roberto Patuelli"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "rassegna-stampa-di-network",
+  "titolo": "Rassegna stampa di network",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mer",
+    "ora": "8.00",
+    "persone": [
+     "Luca Bottura",
+     "Giovanni Rossi",
+     "Marco Sacchetti",
+     "Stefano Tassinari"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Luca Bottura",
+   "Giovanni Rossi",
+   "Marco Sacchetti",
+   "Stefano Tassinari"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "rassegna-stampa-rcdc",
+  "titolo": "Rassegna stampa RCdC",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "lun–sab",
+    "ora": "9.30",
+    "persone": [
+     "Luca Alessandrini",
+     "Marzio Amadori",
+     "Pino Cacucci",
+     "Tanino De Rosa",
+     "Angela Liberatore",
+     "Marco Lorenzoni",
+     "Remo Mazzacurati",
+     "Valerio Monteventi",
+     "Roberto Patuelli",
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "lun–dom",
+    "ora": "9.30",
+    "persone": [
+     "Marzio Amadori",
+     "Luca Bottura",
+     "Pino Cacucci",
+     "Lia Celi",
+     "Tanino De Rosa",
+     "Gregorio Dimonopoli",
+     "Remo Mazzacurati",
+     "Roberto Patuelli",
+     "Amedeo Ricucci",
+     "Alessandro Robecchi",
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun–sab",
+    "ora": "9.30",
+    "persone": [
+     "Luca Bottura",
+     "Pino Cacucci",
+     "Giovanna Chioini",
+     "Gianna Curti",
+     "Tanino De Rosa",
+     "Gregorio Dimonopoli",
+     "Remo Mazzacurati",
+     "Beppe Ramina",
+     "Giovanni Rossi",
+     "Stefano Tassinari",
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun–sab",
+    "ora": "9.30",
+    "persone": [
+     "Luca Bottura",
+     "Pino Cacucci",
+     "Giovanna Chioini",
+     "Gianna Curti",
+     "Tanino De Rosa",
+     "Gregorio Dimonopoli",
+     "Remo Mazzacurati",
+     "Beppe Ramina",
+     "Giovanni Rossi",
+     "Stefano Tassinari",
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun",
+    "ora": "9.30",
+    "persone": [
+     "Pino Cacucci"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mar",
+    "ora": "9.30",
+    "persone": [
+     "Luca Bottura",
+     "Alberto Pertile"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mer",
+    "ora": "9.30",
+    "persone": [
+     "Gualtiero De Marinis",
+     "Emilia Vitulano"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "gio",
+    "ora": "9.30",
+    "persone": [
+     "Beppe Ramina"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "ven",
+    "ora": "9.30",
+    "persone": [
+     "Gianna Curti"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "sab",
+    "ora": "9.30",
+    "persone": [
+     "Tanino De Rosa"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "10.40",
+    "persone": [
+     "Luca Alessandrini",
+     "Francesco Cammarota",
+     "Gregorio Dimonopoli",
+     "Remo Mazzacurati",
+     "Roberto Patuelli"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Luca Alessandrini",
+   "Marzio Amadori",
+   "Pino Cacucci",
+   "Tanino De Rosa",
+   "Angela Liberatore",
+   "Marco Lorenzoni",
+   "Remo Mazzacurati",
+   "Valerio Monteventi",
+   "Roberto Patuelli",
+   "Paola Zappaterra",
+   "Luca Bottura",
+   "Lia Celi",
+   "Gregorio Dimonopoli",
+   "Amedeo Ricucci",
+   "Alessandro Robecchi",
+   "Giovanna Chioini",
+   "Gianna Curti",
+   "Beppe Ramina",
+   "Giovanni Rossi",
+   "Stefano Tassinari",
+   "Alberto Pertile",
+   "Gualtiero De Marinis",
+   "Emilia Vitulano",
+   "Francesco Cammarota"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "rcdc-arte",
+  "titolo": "RCdC Arte",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mar",
+    "ora": "18.30",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mar",
+    "ora": "18.30",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mar",
+    "ora": "18.30",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "mar",
+    "ora": "14.00",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mar",
+    "ora": "14.00",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mar",
+    "ora": "15.40",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Giancarlo Bettini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "rcdc-cinema",
+  "titolo": "RCdC Cinema",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mer",
+    "ora": "18.30",
+    "persone": [
+     "Gualtiero De Marinis"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mer",
+    "ora": "18.30",
+    "persone": [
+     "Giacomo Manzoli",
+     "Davide Cepraga"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mer",
+    "ora": "18.30",
+    "persone": [
+     "Giacomo Manzoli",
+     "Davide Cepraga"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "ven",
+    "ora": "14.00",
+    "persone": [
+     "Giacomo Manzoli",
+     "Roy Menarini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "ven",
+    "ora": "14.00",
+    "persone": [
+     "Giacomo Manzoli",
+     "Roy Menarini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "gio",
+    "ora": "15.40",
+    "persone": [
+     "Giacomo Manzoli",
+     "Roy Menarini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gualtiero De Marinis",
+   "Giacomo Manzoli",
+   "Davide Cepraga",
+   "Roy Menarini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "rcdc-fumetti",
+  "titolo": "RCdC Fumetti",
+  "uscite": [
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mer",
+    "ora": "14.30",
+    "persone": [
+     "Andrea Plazzi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea Plazzi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "rcdc-informazione-internazionale",
+  "titolo": "RCdC informazione internazionale",
+  "uscite": [
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "ven",
+    "ora": "15.40",
+    "persone": [
+     "Giovanni Dognini",
+     "Miran de Almeida",
+     "Valeria Bertoncelli",
+     "Catherine Dickehage"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Giovanni Dognini",
+   "Miran de Almeida",
+   "Valeria Bertoncelli",
+   "Catherine Dickehage"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "rcdc-libri",
+  "titolo": "RCdC Libri",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "ven",
+    "ora": "18.30",
+    "persone": [
+     "Lino Neri",
+     "Sergio Rotino",
+     "Donata Meneghelli"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "ven",
+    "ora": "18.30",
+    "persone": [
+     "Lino Neri",
+     "Sergio Rotino",
+     "Donata Meneghelli"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun",
+    "ora": "15.40",
+    "persone": [
+     "Nicoletta Maldini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Lino Neri",
+   "Sergio Rotino",
+   "Donata Meneghelli",
+   "Nicoletta Maldini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "rcdc-teatro",
+  "titolo": "RCdC Teatro",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "gio",
+    "ora": "18.30",
+    "persone": [
+     "Paolo Billi",
+     "Massimo Marino"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "gio",
+    "ora": "18.30",
+    "persone": [
+     "Paolo Billi",
+     "Massimo Marino"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "gio",
+    "ora": "18.30",
+    "persone": [
+     "Paolo Billi",
+     "Nelsy Leidi",
+     "Massimo Marino"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Paolo Billi",
+   "Massimo Marino",
+   "Nelsy Leidi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "rime",
+  "titolo": "Rime",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "mer",
+    "ora": "14.30",
+    "persone": [
+     "Gregorio Dimonopoli"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gregorio Dimonopoli"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "roadrunner",
+  "titolo": "Roadrunner",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "ven",
+    "ora": "15.00",
+    "persone": [
+     "Giovanni Cassano"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Giovanni Cassano"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "sawt-al-mohagir",
+  "titolo": "Sawt al Mohagir",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "sab",
+    "ora": "16.00",
+    "persone": [
+     "Khalid Harda"
+    ],
+    "nota": "in lingua araba"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "sab",
+    "ora": "16.00",
+    "persone": [
+     "Khalid Harda"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Khalid Harda"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "sawt-el-mohagir",
+  "titolo": "Sawt el Mohagir",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "sab",
+    "ora": "16.00",
+    "persone": [
+     "Khalid Harda"
+    ],
+    "nota": "programma sull'immigrazione"
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "sab",
+    "ora": "16.30",
+    "persone": [
+     "Khalid Harda"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Khalid Harda"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "sin-fronteiras",
+  "titolo": "Sin fronteiras",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mer",
+    "ora": "14.00",
+    "persone": [
+     "Edgar"
+    ],
+    "nota": "musica sudamericana"
+   }
+  ],
+  "persone": [
+   "Edgar"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "skinhead-times",
+  "titolo": "Skinhead Times",
+  "uscite": [
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun",
+    "ora": "20.05",
+    "persone": [
+     "Riccardo",
+     "Papero"
+    ],
+    "nota": "replica il sabato alle 14.30"
+   }
+  ],
+  "persone": [
+   "Riccardo",
+   "Papero"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "sonica",
+  "titolo": "Sonica",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mer",
+    "ora": "15.00",
+    "persone": [
+     "Amedeo Bruni"
+    ],
+    "nota": "suoni e tendenze dagli USA, dall'hip hop al grunge"
+   }
+  ],
+  "persone": [
+   "Amedeo Bruni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "sordo-felice",
+  "titolo": "Sordo? Felice!",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mer",
+    "ora": "20.05",
+    "persone": [
+     "Lia Celi",
+     "Roberto Grassilli",
+     "Alessandro Robecchi"
+    ],
+    "nota": "direttamente dal «Cuore» di Bologna"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mer",
+    "ora": "20.05",
+    "persone": [
+     "Lia Celi",
+     "Roberto Grassilli",
+     "Alessandro Robecchi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Lia Celi",
+   "Roberto Grassilli",
+   "Alessandro Robecchi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "soul-food",
+  "titolo": "Soul food",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun–ven",
+    "ora": "13.45",
+    "persone": [],
+    "nota": "i concerti quotidiani"
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun–ven",
+    "ora": "13.45",
+    "persone": [],
+    "nota": "i concerti quotidiani"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "spazio-a-cura-del-centro-diritti-cgil",
+  "titolo": "Spazio a cura del Centro Diritti CGIL",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun",
+    "ora": "11.30",
+    "persone": [],
+    "nota": "quindicinale"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "spazio-aperto",
+  "titolo": "Spazio aperto",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "sab",
+    "ora": "11.30",
+    "persone": [
+     "Mirco Pieralisi",
+     "Piero Santi"
+    ],
+    "nota": "filo diretto con gli ascoltatori"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "sab",
+    "ora": "11.30",
+    "persone": [
+     "Mirco Pieralisi",
+     "Piero Santi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Mirco Pieralisi",
+   "Piero Santi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "spazio-libero",
+  "titolo": "Spazio libero",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "18.00",
+    "persone": [],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "dom",
+    "ora": "18.30",
+    "persone": [],
+    "nota": ""
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "spazio-servizi-arte",
+  "titolo": "Spazio servizi: arte",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mar",
+    "ora": "15.40",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Giancarlo Bettini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "spazio-servizi-cinema",
+  "titolo": "Spazio servizi: cinema",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "gio",
+    "ora": "15.40",
+    "persone": [
+     "Giacomo Manzoli",
+     "Roy Menarini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Giacomo Manzoli",
+   "Roy Menarini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "spazio-servizi-fumetti",
+  "titolo": "Spazio servizi: fumetti",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mer",
+    "ora": "15.40",
+    "persone": [
+     "Andrea Plazzi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea Plazzi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "spazio-servizi-fuori-orbita",
+  "titolo": "Spazio servizi: Fuori orbita",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "ven",
+    "ora": "15.40",
+    "persone": [
+     "Giovanni Dognini",
+     "Miran de Almeida",
+     "Catherine Dickehage"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Giovanni Dognini",
+   "Miran de Almeida",
+   "Catherine Dickehage"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "spazio-servizi-libri",
+  "titolo": "Spazio servizi: libri",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun",
+    "ora": "15.40",
+    "persone": [
+     "Lino Neri"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Lino Neri"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "speciale-monografie",
+  "titolo": "Speciale monografie",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "dom",
+    "ora": "16.00",
+    "persone": [
+     "Federico Mascagni"
+    ],
+    "nota": "anche alle 17.30"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "dom",
+    "ora": "16.00",
+    "persone": [
+     "Federico Mascagni"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Federico Mascagni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "speciale-universita",
+  "titolo": "Speciale università",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mer",
+    "ora": "18.00",
+    "persone": [],
+    "nota": ""
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "speed-reaction",
+  "titolo": "Speed reaction",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mar",
+    "ora": "14.00",
+    "persone": [
+     "Massimiliano Bonini",
+     "Giulio"
+    ],
+    "nota": "la scena indipendente inglese"
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "lun",
+    "ora": "14.30",
+    "persone": [
+     "Massimiliano Bonini",
+     "Stefano Rosanelli"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Massimiliano Bonini",
+   "Giulio",
+   "Stefano Rosanelli"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "speedreaction",
+  "titolo": "Speedreaction",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "mar",
+    "ora": "15.40",
+    "persone": [
+     "Massimiliano Bonini"
+    ],
+    "nota": "Vibrazioni Rock"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mar",
+    "ora": "15.40",
+    "persone": [
+     "Massimiliano Bonini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Massimiliano Bonini"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "stagediving",
+  "titolo": "Stagediving",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "mar",
+    "ora": "12.00",
+    "persone": [],
+    "nota": "informazioni su concerti e tour, a cura della redazione musicale; replica il mercoledì"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mar",
+    "ora": "12.00",
+    "persone": [],
+    "nota": "concerti e tour"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "stand-by",
+  "titolo": "Stand by",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "ven",
+    "ora": "15.55",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "ven",
+    "ora": "15.55",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Alex Dandi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "stella-polare",
+  "titolo": "Stella polare",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "ven",
+    "ora": "22.00",
+    "persone": [
+     "Gino Dal Soler",
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gino Dal Soler",
+   "Roberto Gerardi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "storia-del-cinema-a-bologna",
+  "titolo": "Storia del cinema a Bologna",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mar",
+    "ora": "12.00",
+    "persone": [],
+    "nota": "documentario radiofonico; replica il sabato"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "suoni-d-irlanda",
+  "titolo": "Suoni d'Irlanda",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mar",
+    "ora": "22.00",
+    "persone": [
+     "Monica Melissano"
+    ],
+    "nota": "dal 23 aprile «Aspettando Paludi», con Franco Simone e Mino Reitano"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mer",
+    "ora": "14.30",
+    "persone": [
+     "Monica Melissano"
+    ],
+    "nota": "replica"
+   }
+  ],
+  "persone": [
+   "Monica Melissano"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "suoni-e-rumori",
+  "titolo": "Suoni e rumori",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mar",
+    "ora": "11.30",
+    "persone": [
+     "Andrea Torreggiani"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea Torreggiani"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "suoni-sconnessi",
+  "titolo": "Suoni sconnessi",
+  "uscite": [
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "dom",
+    "ora": "18.00",
+    "persone": [],
+    "nota": "speciale Centofiori"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "supersonica",
+  "titolo": "Supersonica",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "mer",
+    "ora": "15.40",
+    "persone": [
+     "Amedeo Bruni"
+    ],
+    "nota": "Vibrazioni Rock"
+   }
+  ],
+  "persone": [
+   "Amedeo Bruni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "taffy-louise",
+  "titolo": "Taffy Louise",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "ven",
+    "ora": "22.00",
+    "persone": [
+     "Mauro Cheli"
+    ],
+    "nota": "notturno, dalle 22 in poi"
+   }
+  ],
+  "persone": [
+   "Mauro Cheli"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "tam-tam",
+  "titolo": "Tam tam",
+  "uscite": [
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mar",
+    "ora": "20.05",
+    "persone": [
+     "Mark Howeto"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Mark Howeto"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "il-tamburo-dello-sciamano",
+  "titolo": "Il tamburo dello sciamano",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "gio",
+    "ora": "21.00",
+    "persone": [
+     "Gino Dal Soler"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Gino Dal Soler"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "teenage-kicks",
+  "titolo": "Teenage kicks",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "mar",
+    "ora": "14.45",
+    "persone": [
+     "Massimiliano Bonini",
+     "Federico Ferrari"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "mar, gio",
+    "ora": "14.45",
+    "persone": [
+     "Massimiliano Bonini",
+     "Federico Ferrari"
+    ],
+    "nota": "il giovedì alle 15.55"
+   }
+  ],
+  "persone": [
+   "Massimiliano Bonini",
+   "Federico Ferrari"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "tempi-duri",
+  "titolo": "Tempi duri",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "gio",
+    "ora": "14.00",
+    "persone": [
+     "Isola Posse"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "mar",
+    "ora": "14.00",
+    "persone": [
+     "DJ Fabri"
+    ],
+    "nota": "14.00–15.00; dopo, lettura dei giornali con Paola Zappaterra"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "gio",
+    "ora": "14.00",
+    "persone": [
+     "DJ Fabri"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mar",
+    "ora": "21.00",
+    "persone": [
+     "DJ Fabri",
+     "DJ Locca"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Isola Posse",
+   "DJ Fabri",
+   "DJ Locca"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "tempo-al-tempo",
+  "titolo": "Tempo al tempo",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "15.00",
+    "persone": [],
+    "nota": "a cura della Banca del Tempo"
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "dom",
+    "ora": "15.00",
+    "persone": [],
+    "nota": "a cura della Banca del Tempo"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "tempo-reale",
+  "titolo": "Tempo reale",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "persone": [
+     "Cinzia Soldano"
+    ],
+    "nota": "gli appuntamenti del giorno; replica alle 19.10"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "persone": [
+     "Cinzia Soldano"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "persone": [
+     "Cinzia Soldano",
+     "Laura Cacciari"
+    ],
+    "nota": "rubrica delle opportunità"
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "persone": [
+     "Laura Cacciari",
+     "Michele Balduzzi"
+    ],
+    "nota": "rubrica delle opportunità"
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "persone": [
+     "Michele Balduzzi",
+     "Giovanna Chioini"
+    ],
+    "nota": "rubrica delle opportunità"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "persone": [
+     "Michele Balduzzi",
+     "Giovanna Chioini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun–ven",
+    "ora": "13.05",
+    "persone": [
+     "Laura Cacciari"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun–ven",
+    "ora": "13.10",
+    "persone": [],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Cinzia Soldano",
+   "Laura Cacciari",
+   "Michele Balduzzi",
+   "Giovanna Chioini"
+  ],
+  "note": [],
+  "tipo": "appuntamento fisso"
+ },
+ {
+  "id": "ti-amo-ti-odio",
+  "titolo": "Ti amo, ti odio",
+  "uscite": [
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "lun",
+    "ora": "11.30",
+    "persone": [
+     "Elsa Antonioni",
+     "Gabriella Cappelletti",
+     "Giulia Gessi"
+    ],
+    "nota": "in collaborazione con la Casa delle donne per non subire violenza"
+   }
+  ],
+  "persone": [
+   "Elsa Antonioni",
+   "Gabriella Cappelletti",
+   "Giulia Gessi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "time-zone",
+  "titolo": "Time zone",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "ven",
+    "ora": "20.05",
+    "persone": [
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "ven",
+    "ora": "20.05",
+    "persone": [
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Roberto Gerardi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "trancemission",
+  "titolo": "Trancemission",
+  "uscite": [
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "lun",
+    "ora": "20.05",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "lun",
+    "ora": "20.00",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "lun",
+    "ora": "20.05",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "lun",
+    "ora": "20.05",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "lun",
+    "ora": "20.05",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "lun",
+    "ora": "20.05",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Alberto Petrucciani"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "trash",
+  "titolo": "Trash",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "dom",
+    "ora": "20.05",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Andrea Tarozzi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "triskell",
+  "titolo": "Triskell",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mar",
+    "ora": "20.05",
+    "persone": [
+     "Maurizio Morini",
+     "Ignazio Macchiarella"
+    ],
+    "nota": "musica folk"
+   }
+  ],
+  "persone": [
+   "Maurizio Morini",
+   "Ignazio Macchiarella"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "tutti-in-blu-in-discoteca",
+  "titolo": "Tutti in blu in discoteca",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "sab",
+    "ora": "20.00",
+    "persone": [],
+    "nota": "selezione musicale"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "ultrasonica",
+  "titolo": "Ultrasonica",
+  "uscite": [
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "mer",
+    "ora": "15.40",
+    "persone": [
+     "Amedeo Bruni"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Amedeo Bruni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "umano-ovest",
+  "titolo": "Umano ovest",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "ven",
+    "ora": "14.00",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "ven",
+    "ora": "14.00",
+    "persone": [
+     "Titina Spaventa"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "ven",
+    "ora": "14.00",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "ven",
+    "ora": "14.30",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Massimo Simonini",
+   "Titina Spaventa"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "un-ora-di-jazz",
+  "titolo": "Un'ora di jazz",
+  "uscite": [
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "lun",
+    "ora": "15.00",
+    "persone": [
+     "Camilla Lenzi",
+     "Valentina Cencetti"
+    ],
+    "nota": "15.00–16.00"
+   }
+  ],
+  "persone": [
+   "Camilla Lenzi",
+   "Valentina Cencetti"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "unificazione-latina",
+  "titolo": "Unificazione latina",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "mar",
+    "ora": "14.00",
+    "persone": [
+     "Chiquino"
+    ],
+    "nota": "musica brasiliana"
+   }
+  ],
+  "persone": [
+   "Chiquino"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "l-uomo-nero",
+  "titolo": "L'uomo nero",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "mar",
+    "ora": "15.00",
+    "persone": [
+     "Piero Santi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Piero Santi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "le-uova-del-velociraptor",
+  "titolo": "Le uova del Velociraptor",
+  "uscite": [
+   {
+    "palinsesto": "1991-92",
+    "periodo": "Inverno 1991–92",
+    "giorni": "lun",
+    "ora": "16.00",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": "«studiate e covate dalla Fondazione Tomasetta»"
+   },
+   {
+    "palinsesto": "1992",
+    "periodo": "Primavera 1992",
+    "giorni": "lun",
+    "ora": "16.00",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Fulvio Tomasetta"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "van",
+  "titolo": "Van",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "sab",
+    "ora": "15.40",
+    "persone": [
+     "Giovanni Cattabriga",
+     "Giovanni Gandolfi"
+    ],
+    "nota": "Vibrazioni Rock"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "gio",
+    "ora": "15.40",
+    "persone": [
+     "Giovanni Gandolfi",
+     "Giovanni Azzoni"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "sab",
+    "ora": "15.40",
+    "persone": [
+     "Giovanni Gandolfi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "sab",
+    "ora": "15.40",
+    "persone": [
+     "Giovanni Gandolfi"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "sab",
+    "ora": "15.40",
+    "persone": [
+     "Giovanni Gandolfi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Giovanni Cattabriga",
+   "Giovanni Gandolfi",
+   "Giovanni Azzoni"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "ventennium",
+  "titolo": "Ventennium",
+  "uscite": [
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "lun",
+    "ora": "22.00",
+    "persone": [],
+    "nota": "programma per i vent'anni del '77, dal 10 marzo"
+   }
+  ],
+  "persone": [],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "venti-di-cooperazione",
+  "titolo": "Venti di cooperazione",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "ven",
+    "ora": "18.00",
+    "persone": [
+     "Giovanna Chioini",
+     "Amedeo Ricucci"
+    ],
+    "nota": "cooperazione internazionale"
+   }
+  ],
+  "persone": [
+   "Giovanna Chioini",
+   "Amedeo Ricucci"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "vibrazioni-rock",
+  "titolo": "Vibrazioni rock",
+  "uscite": [
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "sab",
+    "ora": "17.30",
+    "persone": [
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "sab",
+    "ora": "17.30",
+    "persone": [
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Sebastiano Sicali"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "vile-vinile",
+  "titolo": "Vile vinile",
+  "uscite": [
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "dom",
+    "ora": "17.00",
+    "persone": [
+     "Luca Bottura",
+     "Francesco Garbari"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "dom",
+    "ora": "17.00",
+    "persone": [
+     "Luca Bottura",
+     "Francesco Garbari"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Luca Bottura",
+   "Francesco Garbari"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "la-voce-del-sogno",
+  "titolo": "La voce del sogno",
+  "uscite": [
+   {
+    "palinsesto": "1993",
+    "periodo": "Inizio 1993",
+    "giorni": "sab",
+    "ora": "20.00",
+    "persone": [
+     "Alex Leati"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1995-96",
+    "periodo": "Stagione 1995–96",
+    "giorni": "gio",
+    "ora": "sera",
+    "persone": [
+     "Alex Leati"
+    ],
+    "nota": "dopo la conduzione musicale di Roberto Gerardi"
+   },
+   {
+    "palinsesto": "1996",
+    "periodo": "Primavera 1996",
+    "giorni": "gio",
+    "ora": "0.30",
+    "persone": [
+     "Alex Leati"
+    ],
+    "nota": "notturno"
+   },
+   {
+    "palinsesto": "1996-97",
+    "periodo": "Stagione 1996–97",
+    "giorni": "gio",
+    "ora": "0.30",
+    "persone": [
+     "Alex Leati"
+    ],
+    "nota": ""
+   },
+   {
+    "palinsesto": "1997",
+    "periodo": "Primavera 1997",
+    "giorni": "gio",
+    "ora": "0.30",
+    "persone": [
+     "Alex Leati"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Alex Leati"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "le-voci-del-sogno",
+  "titolo": "Le voci del sogno",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "sab",
+    "ora": "20.00",
+    "persone": [
+     "Alex Leati",
+     "Emanuele Pilia"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Alex Leati",
+   "Emanuele Pilia"
+  ],
+  "note": [],
+  "tipo": "programma"
+ },
+ {
+  "id": "le-voci-del-vento",
+  "titolo": "Le voci del vento",
+  "uscite": [
+   {
+    "palinsesto": "1994",
+    "periodo": "1994",
+    "giorni": "sab",
+    "ora": "14.00",
+    "persone": [
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   }
+  ],
+  "persone": [
+   "Roberto Gerardi"
+  ],
+  "note": [],
+  "tipo": "programma"
+ }
+]

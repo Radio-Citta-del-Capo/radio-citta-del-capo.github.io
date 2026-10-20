@@ -1,0 +1,586 @@
+[
+ {
+  "id": "1991-n0",
+  "numero": "n.0",
+  "periodo": "Inverno 1991–92",
+  "anno": 1991,
+  "descrizione": "Il numero zero, stampato dalla coop Bold Machine. Direttore responsabile Stefano Benni. Quarto compleanno della radio e nuova sede in via Mura di Porta San Felice 1.",
+  "pagine": 4,
+  "mb": 2.5,
+  "pdf": "pdf/1991-n0.pdf",
+  "copertina": "assets/copertine/1991-n0.jpg",
+  "articoli": [
+   {
+    "titolo": "Ce l'hai un'idea?",
+    "autore": "Stefano Benni",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Perché ancora la radio",
+    "autore": "Piero Scaramucci",
+    "pagina": 1,
+    "nota": "intervista"
+   },
+   {
+    "titolo": "Dentro la radio",
+    "autore": "Michele Pompei",
+    "pagina": 2,
+    "nota": ""
+   },
+   {
+    "titolo": "È ancora Kryptonight!",
+    "autore": "Amedeo Bruni",
+    "pagina": 3,
+    "nota": ""
+   },
+   {
+    "titolo": "Melodramma! Che passione...",
+    "autore": "Giancarlo Bettini",
+    "pagina": 3,
+    "nota": ""
+   }
+  ],
+  "colofone": ""
+ },
+ {
+  "id": "1992-n2",
+  "numero": "n.2",
+  "periodo": "Aprile–giugno 1992",
+  "anno": 1992,
+  "descrizione": "La grave crisi economica, l'appello «Radio Città del Capo deve vivere libera e indipendente» e le prove tecniche di Popolare Network.",
+  "pagine": 8,
+  "mb": 5.8,
+  "pdf": "pdf/1992-n2.pdf",
+  "copertina": "assets/copertine/1992-n2.jpg",
+  "articoli": [
+   {
+    "titolo": "Oltre la rappresentazione politica",
+    "autore": "Mirco Pieralisi",
+    "pagina": 2,
+    "nota": ""
+   },
+   {
+    "titolo": "Novità primaverili ed esperimenti in network",
+    "autore": "Michele Pompei",
+    "pagina": 3,
+    "nota": ""
+   },
+   {
+    "titolo": "Se 500 anni vi sembran pochi...",
+    "autore": "Pino Cacucci",
+    "pagina": 4,
+    "nota": ""
+   },
+   {
+    "titolo": "Dal... cuore di Bologna",
+    "autore": "Alessandro Robecchi",
+    "pagina": 4,
+    "nota": ""
+   },
+   {
+    "titolo": "Cinquecento cantautori...",
+    "autore": "Claudio Lolli",
+    "pagina": 5,
+    "nota": ""
+   },
+   {
+    "titolo": "Chi ha orecchie per intendere in-tenda...",
+    "autore": "Sergio Rotino",
+    "pagina": 5,
+    "nota": ""
+   },
+   {
+    "titolo": "Radio Barbagia",
+    "autore": "Marcello Fois",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "Libri via etere",
+    "autore": "Sergio Rotino",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "Patagonia",
+    "autore": "Luca Baldazzi, Gianluca Galletti",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "La radio del portoricano",
+    "autore": "Gilberto Centi",
+    "pagina": 7,
+    "nota": "racconto"
+   }
+  ],
+  "colofone": "Dir. responsabile Stefano Benni. Coordinamento redazionale Mirco Pieralisi e Michele Pompei. Hanno fatto questo numero: Michele Pompei, Mirco Pieralisi, Pino Cacucci, Marcello Fois, Sergio Rotino, Claudio Lolli, Gilberto Centi, Alessandro Robecchi, Luca Baldazzi, Gianluca Galletti. Illustrazioni di Michele Cavaliere, Roberto Menotti, Novello, Quino. Impaginazione: Daniele Gasparinetti. Ringraziamenti: Roberto Roveri (Ablet Comunicazioni), Sergio Rotino, Ag. Quipos, Ottavio Gibertini."
+ },
+ {
+  "id": "1993-n1",
+  "numero": "anno 2 n.1",
+  "periodo": "Gennaio–marzo 1993",
+  "anno": 1993,
+  "descrizione": "Popolare Network in onda dalle 6, 360 abbonati e la prima assemblea degli abbonati. «RCdC: ecco i finanziatori!»",
+  "pagine": 8,
+  "mb": 5.5,
+  "pdf": "pdf/1993-n1.pdf",
+  "copertina": "assets/copertine/1993-n1.jpg",
+  "articoli": [
+   {
+    "titolo": "Da Milano a Roma via etere",
+    "autore": "Piero Scaramucci",
+    "pagina": 1,
+    "nota": "direttore di Radio Popolare"
+   },
+   {
+    "titolo": "Incidenti di percorso",
+    "autore": "Alessandro Robecchi",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Per ascoltarla meglio",
+    "autore": "Michele Pompei",
+    "pagina": 2,
+    "nota": ""
+   },
+   {
+    "titolo": "La radio e il deserto",
+    "autore": "Mirco Pieralisi",
+    "pagina": 3,
+    "nota": ""
+   },
+   {
+    "titolo": "Cosa c'entriamo noi con la ex-Yugoslavia",
+    "autore": "Cinzia Soldano",
+    "pagina": 4,
+    "nota": ""
+   },
+   {
+    "titolo": "E intanto noi dormivamo",
+    "autore": "Paolo Barnard",
+    "pagina": 4,
+    "nota": ""
+   },
+   {
+    "titolo": "Giorgio Gaber e le \"posse italiane\"",
+    "autore": "Amedeo Bruni",
+    "pagina": 5,
+    "nota": ""
+   },
+   {
+    "titolo": "Un invito alla lettura",
+    "autore": "Lino Neri",
+    "pagina": 5,
+    "nota": ""
+   },
+   {
+    "titolo": "Parlare di cinema per vederlo meglio",
+    "autore": "Giacomo Manzoli",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "La palla al piede",
+    "autore": "Paolo Soglia, Fernando Pellerano",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "Non rubateci le parole, manigoldi!",
+    "autore": "Pino Cacucci",
+    "pagina": 7,
+    "nota": ""
+   }
+  ],
+  "colofone": "Dir. resp. Stefano Benni. Coordinamento redazionale Mirco Pieralisi. Hanno fatto questo numero: Paolo Barnard, Amedeo Bruni, Pino Cacucci, Giacomo Manzoli, Lino Neri, Fernando Pellerano, Michele Pompei, Alessandro Robecchi, Piero Scaramucci, Paolo Soglia, Cinzia Soldano. Illustrazioni di Francesca Ghermandi e Andrea Pazienza. Fotografie di Francesco De Grande. Stampa Avant Garde."
+ },
+ {
+  "id": "1993-n3-4",
+  "numero": "anno 2 n.3-4",
+  "periodo": "Luglio–dicembre 1993",
+  "anno": 1993,
+  "descrizione": "Sesto compleanno e 500 abbonati. Il questionario agli ascoltatori «Il domandone» e la rassegna Radio Città del Capo Rock al Teatro della Polvere.",
+  "pagine": 8,
+  "mb": 5.4,
+  "pdf": "pdf/1993-n3-4.pdf",
+  "copertina": "assets/copertine/1993-n3-4.jpg",
+  "articoli": [
+   {
+    "titolo": "Meglio tardi che Rai...",
+    "autore": "Paolo Soglia",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "E sai cosa perdi...",
+    "autore": "Cinzia Soldano",
+    "pagina": 3,
+    "nota": ""
+   },
+   {
+    "titolo": "That's all folks",
+    "autore": "Sebastiano Sicali",
+    "pagina": 3,
+    "nota": ""
+   },
+   {
+    "titolo": "Via etere gli itinerari della paura",
+    "autore": "Dhany Coraucci",
+    "pagina": 3,
+    "nota": ""
+   },
+   {
+    "titolo": "E se fossimo in Golpe dal 1944?",
+    "autore": "Fulvio Tomasetta",
+    "pagina": 4,
+    "nota": ""
+   },
+   {
+    "titolo": "Eppur si muove",
+    "autore": "DJ Feedback",
+    "pagina": 4,
+    "nota": "pseudonimo"
+   },
+   {
+    "titolo": "Voli di stracci",
+    "autore": "Pino Cacucci",
+    "pagina": 7,
+    "nota": ""
+   }
+  ],
+  "colofone": "Dir. resp. Stefano Benni. Coordinamento redazionale Mirco Pieralisi. Hanno fatto questo numero: Amedeo Bruni, Pino Cacucci, Luca Calzolari, Dhany Coraucci, Mirco Pieralisi, Michele Pompei, Fulvio Tomasetta, Sebastiano Sicali, Cinzia Soldano, Paolo Soglia. Illustrazioni di Francesca Ghermandi, Stefano Ricci."
+ },
+ {
+  "id": "1994-n1-2",
+  "numero": "anno 3 n.1-2",
+  "periodo": "1994",
+  "anno": 1994,
+  "descrizione": "Le risposte al «Domandone», il nuovo CdA di Not Available, il referendum sulla legge Mammì e il Festerendum al Link.",
+  "pagine": 8,
+  "mb": 6.4,
+  "pdf": "pdf/1994-n1-2.pdf",
+  "copertina": "assets/copertine/1994-n1-2.jpg",
+  "articoli": [
+   {
+    "titolo": "Su la testa",
+    "autore": "Mirco Pieralisi",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Il Referendum",
+    "autore": "Giovanna Chioini",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Sabbie mobili",
+    "autore": "Michele Pompei",
+    "pagina": 2,
+    "nota": ""
+   }
+  ],
+  "colofone": "Dir. resp. Stefano Benni. Progettazione grafica e videoimpaginazione Francesco Buttafava per Outline Studiografico. Hanno fatto questo numero: Luca Calzolari, Giovanna Chioini, Giovanni Cocchi, Mirco Pieralisi, Michele Pompei, Paolo Soglia. Fotografie: Massimo Sciacca. Illustrazioni: Michele Cavaliere, Francesca Ghermandi. Stampa Tipolito Negri."
+ },
+ {
+  "id": "1995-n3-4",
+  "numero": "anno 4 n.3-4",
+  "periodo": "1995",
+  "anno": 1995,
+  "descrizione": "La syndication con Oasi Radio e la nascita del GR locale. «Una nuova scommessa».",
+  "pagine": 8,
+  "mb": 5.0,
+  "pdf": "pdf/1995-n3-4.pdf",
+  "copertina": "assets/copertine/1995-n3-4.jpg",
+  "articoli": [
+   {
+    "titolo": "Una nuova scommessa",
+    "autore": "Paolo Soglia",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Dedicato a...",
+    "autore": "Mirco Pieralisi",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "\"Che aria tira?\"",
+    "autore": "Luca Mazzanti, Leonardo Pugliese",
+    "pagina": 5,
+    "nota": ""
+   },
+   {
+    "titolo": "Ma non finisce qui!",
+    "autore": "Laura Cacciari",
+    "pagina": 5,
+    "nota": ""
+   },
+   {
+    "titolo": "L'eterna illusione",
+    "autore": "Dhany Coraucci",
+    "pagina": 5,
+    "nota": ""
+   },
+   {
+    "titolo": "Isole nella rete",
+    "autore": "Simone Bedetti",
+    "pagina": 5,
+    "nota": "pseudonimo"
+   },
+   {
+    "titolo": "Il tempo degli abbonati",
+    "autore": "Bibi Bellini",
+    "pagina": 6,
+    "nota": ""
+   }
+  ],
+  "colofone": "Dir. resp. Stefano Benni. Illustrazioni di Massimo Semerano e Otto Gabos. Videoimpaginazione Francesco Buttafava. Stampa Tipolito Negri."
+ },
+ {
+  "id": "1996-n1-2",
+  "numero": "anno 5 n.1-2",
+  "periodo": "1996",
+  "anno": 1996,
+  "descrizione": "Reportage fotografico dentro la radio, la par condicio aggirata con il «Movimento per la libertà d'informazione», Radio Blissett.",
+  "pagine": 8,
+  "mb": 5.4,
+  "pdf": "pdf/1996-n1-2.pdf",
+  "copertina": "assets/copertine/1996-n1-2.jpg",
+  "articoli": [
+   {
+    "titolo": "Voi avete qualche idea?",
+    "autore": "Francesco De Grande",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Pesce d'aprile",
+    "autore": "Paolo Soglia",
+    "pagina": 4,
+    "nota": ""
+   },
+   {
+    "titolo": "Luther, la mucca pazza e gli altri",
+    "autore": "Luther Blissett",
+    "pagina": 6,
+    "nota": "pseudonimo collettivo"
+   },
+   {
+    "titolo": "Audio Lab",
+    "autore": "Bruno Pompa",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "Isole nella rete: un aggiornamento",
+    "autore": "Simone Bedetti",
+    "pagina": 7,
+    "nota": ""
+   },
+   {
+    "titolo": "Abbonàti in banca",
+    "autore": "Bibi Bellini",
+    "pagina": 7,
+    "nota": ""
+   },
+   {
+    "titolo": "L'arte della gastronomia",
+    "autore": "Stefania Vergnani",
+    "pagina": 7,
+    "nota": ""
+   }
+  ],
+  "colofone": "Dir. resp. Stefano Benni. Tiratura 3.500 copie. Videoimpaginazione \"Frisco\". Stampa Tipolito Negri."
+ },
+ {
+  "id": "1996-n5-6",
+  "numero": "anno 5 n.5-6",
+  "periodo": "Fine 1996",
+  "anno": 1996,
+  "descrizione": "«L'ha detto la radio!»: le notizie date per prime e riprese dai giornali. Lo stage di giornalismo radiofonico. All'interno la numerazione è «n.3/4 1996».",
+  "pagine": 8,
+  "mb": 5.4,
+  "pdf": "pdf/1996-n5-6.pdf",
+  "copertina": "assets/copertine/1996-n5-6.jpg",
+  "articoli": [
+   {
+    "titolo": "Siamo in affanno, ma possiamo riprenderci",
+    "autore": "Francesco De Grande",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Cosa succede in città?",
+    "autore": "Paolo Soglia",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "I buoni propositi per il nuovo anno",
+    "autore": "Michele Pompei",
+    "pagina": 2,
+    "nota": ""
+   },
+   {
+    "titolo": "Per qualche spot in più",
+    "autore": "Francesco De Grande",
+    "pagina": 3,
+    "nota": ""
+   },
+   {
+    "titolo": "Anche noi diamo stangate",
+    "autore": "Ivar",
+    "pagina": 3,
+    "nota": ""
+   },
+   {
+    "titolo": "Lo stage in radio",
+    "autore": "Fernando Pellerano",
+    "pagina": 4,
+    "nota": ""
+   },
+   {
+    "titolo": "Fumo di China",
+    "autore": "Andrea Plazzi",
+    "pagina": 4,
+    "nota": ""
+   },
+   {
+    "titolo": "Una banca molto speciale",
+    "autore": "Lucio Lanza",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "The sabato del villaggio theory",
+    "autore": "Federico Mascagni",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "Giocare ad abbonarsi",
+    "autore": "Simone Bedetti",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "Le lettere di Laura & Beatrice",
+    "autore": "Daniela Ruffini",
+    "pagina": 8,
+    "nota": ""
+   }
+  ],
+  "colofone": "n.3/4 1996): Dir. resp. Stefano Benni. Redattori: Bibì Bellini, Michele Pompei, Paolo Soglia. Collaboratori: Sergio Zanchetta, Lorenzo Stanzani, Roberto Sgallari. Fotografie: Stefano Tarozzi. Illustrazioni: Marco Scalia, Vauro. Pubblicità: Patrizia Burnacci, Francesco De Grande. Progetto grafico: Claudio Malaguti & C. Tiratura 3.500 copie."
+ },
+ {
+  "id": "1997-n1-2",
+  "numero": "anno 6 n.1-2",
+  "periodo": "1997",
+  "anno": 1997,
+  "descrizione": "Dieci anni di radio, la concessione e le frequenze. «Ma è sempre la stessa musica?»",
+  "pagine": 8,
+  "mb": 5.6,
+  "pdf": "pdf/1997-n1-2.pdf",
+  "copertina": "assets/copertine/1997-n1-2.jpg",
+  "articoli": [
+   {
+    "titolo": "\"E il bello è che è gratis!\"",
+    "autore": "Federico Mascagni",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Ma è sempre la stessa musica?",
+    "autore": "Monica Melissano",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Chi è il capo qui? Cosa? Una radio?",
+    "autore": "Francesco De Grande",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Sotto a chi ritocca",
+    "autore": "Bibi Bellini",
+    "pagina": 4,
+    "nota": ""
+   },
+   {
+    "titolo": "Di cotte e di crude sale in cattedra",
+    "autore": "Laura Cacciari",
+    "pagina": 4,
+    "nota": ""
+   },
+   {
+    "titolo": "Diario di bordo",
+    "autore": "Paolo Soglia",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "Segnalazioni",
+    "autore": "Alex Dandi",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "Scemo chi ascolta",
+    "autore": "Monica Melissano",
+    "pagina": 6,
+    "nota": ""
+   },
+   {
+    "titolo": "Come si cambia",
+    "autore": "Silvestro Ramunno",
+    "pagina": 7,
+    "nota": ""
+   },
+   {
+    "titolo": "Centofiori 97, la riscossa",
+    "autore": "Alex Dandi",
+    "pagina": 7,
+    "nota": ""
+   }
+  ],
+  "colofone": "Dir. resp. Stefano Benni. Redattori: Federico Mascagni, Silvestro Ramunno, Monica Melissano, Alex Dandi. Collaboratori: Bibì Bellini, Paolo Soglia, Francesco De Grande, Laura Cacciari. Fotografie: Max Cenni. Illustrazioni: Francesca Ghermandi, Accardi, Vanna Vinci, Menotti, Davide Toffolo, Davide Celli, Laura Cacciari. Pubblicità: Patrizia Burnacci, Francesco De Grande. Progetto grafico: Maso."
+ },
+ {
+  "id": "1999-n1-2",
+  "numero": "anno 8 n.1-2",
+  "periodo": "1999",
+  "anno": 1999,
+  "descrizione": "Operazione «Berretta Rossa»: dopo nove anni la radio cambia sede. Glocal radio e la sottoscrizione per la nuova sede.",
+  "pagine": 2,
+  "mb": 1.3,
+  "pdf": "pdf/1999-n1-2.pdf",
+  "copertina": "assets/copertine/1999-n1-2.jpg",
+  "articoli": [
+   {
+    "titolo": "Operazione \"Berretta Rossa\"",
+    "autore": "Paolo Soglia",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Glocal Radio",
+    "autore": "Giovanni Dognini",
+    "pagina": 1,
+    "nota": ""
+   },
+   {
+    "titolo": "Radio Città del Capo: la riconoscete subito",
+    "autore": "Mirco Pieralisi",
+    "pagina": 2,
+    "nota": ""
+   }
+  ],
+  "colofone": ""
+ }
+]

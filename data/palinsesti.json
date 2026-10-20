@@ -1,0 +1,4429 @@
+[
+ {
+  "id": "1991-92",
+  "titolo": "Inverno 1991–92",
+  "numero": "1991-n0",
+  "numero_label": "n.0",
+  "pagina": 2,
+  "fonte": "Novantaseietre n.0, p. 2 (griglia) e articolo «Dentro la radio» di Michele Pompei, pp. 2–3",
+  "intro": "Il primo palinsesto pubblicato dal giornale. Dalle 7.30 a mezzanotte, con il notiziario di Radio Popolare di Milano, la rassegna stampa del mattino e le conduzioni musicali; il pomeriggio e la sera sono affidati a programmi a cura di singoli conduttori.",
+  "voci": [
+   {
+    "giorni": "lun",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "Pino Cacucci"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "E. Pucci"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "Valerio Monteventi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "Luca Alessandrini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "Tanino De Rosa",
+     "Secondino"
+    ],
+    "nota": "in griglia «Derosa Secondino»"
+   },
+   {
+    "giorni": "lun",
+    "ora": "11.30",
+    "titolo": "Ciclo di trasmissioni d'informazione",
+    "programma": "ciclo-di-trasmissioni-d-informazione",
+    "persone": [],
+    "nota": "la prima serie è dedicata al referendum"
+   },
+   {
+    "giorni": "mar",
+    "ora": "11.30",
+    "titolo": "Suoni e rumori",
+    "programma": "suoni-e-rumori",
+    "persone": [
+     "Andrea Torreggiani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "11.30",
+    "titolo": "Cul de sac",
+    "programma": "cul-de-sac",
+    "persone": [
+     "Andrea Modelli"
+    ],
+    "nota": "«catene criminali» per le strade dei bolognesi"
+   },
+   {
+    "giorni": "gio",
+    "ora": "11.30",
+    "titolo": "Meglio la salute",
+    "programma": "meglio-la-salute",
+    "persone": [
+     "Marcella Brizzi"
+    ],
+    "nota": "curarsi e preservarsi lontano dalle farmacie"
+   },
+   {
+    "giorni": "ven",
+    "ora": "11.30",
+    "titolo": "Non parlano italiano",
+    "programma": "non-parlano-italiano",
+    "persone": [
+     "Paolo Barnard"
+    ],
+    "nota": "notizie dall'estero che non trovano spazio nei giornali"
+   },
+   {
+    "giorni": "sab",
+    "ora": "11.30",
+    "titolo": "Le cose che…",
+    "programma": "le-cose-che",
+    "persone": [
+     "Mirco Pieralisi",
+     "Gabriella Mattioli"
+    ],
+    "nota": "settimanale d'informazione"
+   },
+   {
+    "giorni": "dom",
+    "ora": "11.30",
+    "titolo": "Propositivo",
+    "programma": "propositivo",
+    "persone": [
+     "Valerio Cacciari"
+    ],
+    "nota": "testimonianze legate al mondo dell'AIDS"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "titolo": "Tempo reale",
+    "programma": "tempo-reale",
+    "persone": [
+     "Cinzia Soldano"
+    ],
+    "nota": "gli appuntamenti del giorno; replica alle 19.10"
+   },
+   {
+    "giorni": "lun",
+    "ora": "14.00",
+    "titolo": "Plaza de toros",
+    "programma": "plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "novità discografiche"
+   },
+   {
+    "giorni": "mar",
+    "ora": "14.00",
+    "titolo": "Unificazione latina",
+    "programma": "unificazione-latina",
+    "persone": [
+     "Chiquino"
+    ],
+    "nota": "musica brasiliana"
+   },
+   {
+    "giorni": "mer",
+    "ora": "14.00",
+    "titolo": "Radio caribeña",
+    "programma": "radio-caribena",
+    "persone": [
+     "Jairo"
+    ],
+    "nota": "musica sudamericana"
+   },
+   {
+    "giorni": "gio",
+    "ora": "14.00",
+    "titolo": "Tempi duri",
+    "programma": "tempi-duri",
+    "persone": [
+     "Isola Posse"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "14.00",
+    "titolo": "Umano ovest",
+    "programma": "umano-ovest",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "14.00",
+    "titolo": "Last Exit",
+    "programma": "last-exit",
+    "persone": [
+     "Vincenzo Cacosso",
+     "Mauro Garagnani"
+    ],
+    "nota": "viaggi attorno al jazz"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "15.00",
+    "titolo": "Conduzioni pomeridiane",
+    "programma": "conduzioni-pomeridiane",
+    "persone": [
+     "Maurizio Liguori",
+     "Piero Santi",
+     "Amedeo Bruni",
+     "Augusto Ruggeri",
+     "Giovanni Cassano"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "16.00",
+    "titolo": "Le uova del Velociraptor",
+    "programma": "le-uova-del-velociraptor",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": "«studiate e covate dalla Fondazione Tomasetta»"
+   },
+   {
+    "giorni": "sab",
+    "ora": "16.00",
+    "titolo": "Sawt al Mohagir",
+    "programma": "sawt-al-mohagir",
+    "persone": [
+     "Khalid Harda"
+    ],
+    "nota": "in lingua araba"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "17.00",
+    "titolo": "Microfono aperto",
+    "programma": "microfono-aperto",
+    "persone": [
+     "Gregorio Dimonopoli"
+    ],
+    "nota": "inchieste e interviste in studio, a cura di Gregorio Dimonopoli"
+   },
+   {
+    "giorni": "lun",
+    "ora": "18.00",
+    "titolo": "Quinto sbarramento",
+    "programma": "quinto-sbarramento",
+    "persone": [
+     "Paolo Klun",
+     "Lidia De Vido"
+    ],
+    "nota": "racconti e riflessioni da chi vive in carcere"
+   },
+   {
+    "giorni": "mer",
+    "ora": "18.00",
+    "titolo": "Speciale università",
+    "programma": "speciale-universita",
+    "persone": [],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "18.30",
+    "titolo": "RCdC Arte",
+    "programma": "rcdc-arte",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "18.30",
+    "titolo": "RCdC Cinema",
+    "programma": "rcdc-cinema",
+    "persone": [
+     "Gualtiero De Marinis"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "18.30",
+    "titolo": "RCdC Teatro",
+    "programma": "rcdc-teatro",
+    "persone": [
+     "Paolo Billi",
+     "Massimo Marino"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "18.30",
+    "titolo": "RCdC Libri",
+    "programma": "rcdc-libri",
+    "persone": [
+     "Lino Neri",
+     "Sergio Rotino",
+     "Donata Meneghelli"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "20.05",
+    "titolo": "Triskell",
+    "programma": "triskell",
+    "persone": [
+     "Maurizio Morini",
+     "Ignazio Macchiarella"
+    ],
+    "nota": "musica folk"
+   },
+   {
+    "giorni": "mer",
+    "ora": "20.05",
+    "titolo": "Sordo? Felice!",
+    "programma": "sordo-felice",
+    "persone": [
+     "Lia Celi",
+     "Roberto Grassilli",
+     "Alessandro Robecchi"
+    ],
+    "nota": "direttamente dal «Cuore» di Bologna"
+   },
+   {
+    "giorni": "gio",
+    "ora": "20.05",
+    "titolo": "Blue Regard",
+    "programma": "blue-regard",
+    "persone": [
+     "Marco Tartarini",
+     "Vladimiro Pellicciardi"
+    ],
+    "nota": "altre strade del jazz"
+   },
+   {
+    "giorni": "ven",
+    "ora": "20.05",
+    "titolo": "Musica sottile",
+    "programma": "musica-sottile",
+    "persone": [
+     "Franco Nanni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "20.05",
+    "titolo": "Trash",
+    "programma": "trash",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "21.00",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Claudio Boccolari",
+     "George Koulermos"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "21.00",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Augusto Ruggeri",
+     "Alberto Artese"
+    ],
+    "nota": "più «live-acts»"
+   },
+   {
+    "giorni": "mer",
+    "ora": "21.00",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Maurizio Liguori",
+     "Alberto Antonini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "21.00",
+    "titolo": "La croce del Sud",
+    "programma": "la-croce-del-sud",
+    "persone": [
+     "Gino Dal Soler",
+     "Augusto Bruni",
+     "Roberto Gerardi",
+     "Sergio Rotino"
+    ],
+    "nota": "conduzione notturna"
+   },
+   {
+    "giorni": "ven",
+    "ora": "21.00",
+    "titolo": "Microphone fiends",
+    "programma": "microphone-fiends",
+    "persone": [
+     "Stefano",
+     "Gabriele",
+     "Andrea",
+     "Nevio Bencivenni"
+    ],
+    "nota": "conduzione notturna"
+   },
+   {
+    "giorni": "sab",
+    "ora": "21.00",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Alessandro Leati",
+     "Daniele Pilia"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "21.00",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Alessandro Mancini",
+     "Luca Baldazzi",
+     "Gianluca Galletti"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "17.30",
+    "titolo": "Conduzione pomeridiana",
+    "programma": "conduzione-pomeridiana",
+    "persone": [
+     "Pierantonio Pezzinga",
+     "Andrea Albani"
+    ],
+    "nota": "17.30–19.30"
+   },
+   {
+    "giorni": "dom",
+    "ora": "15.00",
+    "titolo": "Conduzione pomeridiana",
+    "programma": "conduzione-pomeridiana",
+    "persone": [
+     "Sebastiano Sicali",
+     "Cristian Adamo",
+     "Davide Bandiera",
+     "Giovanni Cattabriga",
+     "Paolo Simoni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ogni giorno",
+    "ora": "14.00",
+    "titolo": "Novità discografiche, musica dal mondo, jazz",
+    "programma": "novita-discografiche-musica-dal-mondo-jazz",
+    "persone": [
+     "Mark Howeto",
+     "Titina Spaventa"
+    ],
+    "nota": "a rotazione con gli altri programmi delle 14"
+   }
+  ]
+ },
+ {
+  "id": "1992",
+  "titolo": "Primavera 1992",
+  "numero": "1992-n2",
+  "numero_label": "n.2",
+  "pagina": 3,
+  "fonte": "Novantaseietre n.2, p. 3 (griglia) e articolo «Novità primaverili ed esperimenti in network» di Michele Pompei",
+  "intro": "Il palinsesto della primavera della grande crisi e dell'avvio di Popolare Network: da metà maggio i programmi partono alle 6 in ponte radio con Radio Popolare di Milano. Nascono le conduzioni musicali del mattino.",
+  "voci": [
+   {
+    "giorni": "lun–ven",
+    "ora": "8.00",
+    "titolo": "Conduzione musicale del mattino",
+    "programma": "conduzione-musicale-del-mattino",
+    "persone": [
+     "Michele Pompei",
+     "Gregorio Dimonopoli"
+    ],
+    "nota": "a giorni alterni, fino alle 13.15"
+   },
+   {
+    "giorni": "lun",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "Pino Cacucci"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "Marzio Amadori",
+     "Roberto Patuelli"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "Valerio Monteventi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "Luca Alessandrini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "9.00",
+    "titolo": "Rassegna stampa",
+    "programma": "rassegna-stampa",
+    "persone": [
+     "Tanino De Rosa",
+     "Secondino"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "10.00",
+    "titolo": "Plaza de toros",
+    "programma": "plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "replica"
+   },
+   {
+    "giorni": "dom",
+    "ora": "10.35",
+    "titolo": "Conduzione musicale",
+    "programma": "conduzione-musicale",
+    "persone": [
+     "Valerio Cacciari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "11.00",
+    "titolo": "Meno è meglio",
+    "programma": "meno-e-meglio",
+    "persone": [
+     "Paola Savigni"
+    ],
+    "nota": "in collaborazione con Federconsumatori"
+   },
+   {
+    "giorni": "lun",
+    "ora": "11.30",
+    "titolo": "Ti amo, ti odio",
+    "programma": "ti-amo-ti-odio",
+    "persone": [
+     "Elsa Antonioni",
+     "Gabriella Cappelletti",
+     "Giulia Gessi"
+    ],
+    "nota": "in collaborazione con la Casa delle donne per non subire violenza"
+   },
+   {
+    "giorni": "mar",
+    "ora": "11.30",
+    "titolo": "Cul de sac",
+    "programma": "cul-de-sac",
+    "persone": [
+     "Andrea Modelli"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "11.30",
+    "titolo": "Modica qualità",
+    "programma": "modica-qualita",
+    "persone": [
+     "Andrea Torreggiani"
+    ],
+    "nota": "ex «Suoni e rumori»"
+   },
+   {
+    "giorni": "gio",
+    "ora": "11.30",
+    "titolo": "Meglio la salute",
+    "programma": "meglio-la-salute",
+    "persone": [
+     "Marcella Brizzi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "11.30",
+    "titolo": "Non parlano italiano",
+    "programma": "non-parlano-italiano",
+    "persone": [
+     "Paolo Barnard"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "11.30",
+    "titolo": "Le cose che…",
+    "programma": "le-cose-che",
+    "persone": [
+     "Mirco Pieralisi",
+     "Giovanni Cocchi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "11.30",
+    "titolo": "Propositivo",
+    "programma": "propositivo",
+    "persone": [
+     "Valerio Cacciari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "titolo": "Tempo reale",
+    "programma": "tempo-reale",
+    "persone": [
+     "Cinzia Soldano"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "14.00",
+    "titolo": "Plaza de toros",
+    "programma": "plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "14.00",
+    "titolo": "Tempi duri",
+    "programma": "tempi-duri",
+    "persone": [
+     "DJ Fabri"
+    ],
+    "nota": "14.00–15.00; dopo, lettura dei giornali con Paola Zappaterra"
+   },
+   {
+    "giorni": "gio",
+    "ora": "14.00",
+    "titolo": "Tempi duri",
+    "programma": "tempi-duri",
+    "persone": [
+     "DJ Fabri"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "14.00",
+    "titolo": "Radio caribeña",
+    "programma": "radio-caribena",
+    "persone": [
+     "Jairo"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "14.00",
+    "titolo": "Umano ovest",
+    "programma": "umano-ovest",
+    "persone": [
+     "Titina Spaventa"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "14.00",
+    "titolo": "Last Exit",
+    "programma": "last-exit",
+    "persone": [
+     "Vincenzo Cacosso",
+     "Mauro Garagnani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "15.00",
+    "titolo": "Un'ora di jazz",
+    "programma": "un-ora-di-jazz",
+    "persone": [
+     "Camilla Lenzi",
+     "Valentina Cencetti"
+    ],
+    "nota": "15.00–16.00"
+   },
+   {
+    "giorni": "mar–gio",
+    "ora": "15.00",
+    "titolo": "Conduzioni pomeridiane",
+    "programma": "conduzioni-pomeridiane",
+    "persone": [
+     "Piero Santi",
+     "Amedeo Bruni",
+     "Giovanni Cassano"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "16.00",
+    "titolo": "Le uova del Velociraptor",
+    "programma": "le-uova-del-velociraptor",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "16.00",
+    "titolo": "Sawt al Mohagir",
+    "programma": "sawt-al-mohagir",
+    "persone": [
+     "Khalid Harda"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "14.00",
+    "titolo": "Conduzione pomeridiana",
+    "programma": "conduzione-pomeridiana",
+    "persone": [
+     "Nuccio Sicali",
+     "Cristian Adamo",
+     "Davide Bandiera",
+     "Giovanni Cattabriga",
+     "Paolo Simoni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "15.00",
+    "titolo": "Conduzione pomeridiana",
+    "programma": "conduzione-pomeridiana",
+    "persone": [
+     "Fulvio Tomasetta",
+     "Pierantonio Pezzinga",
+     "Andrea Albani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "17.00",
+    "titolo": "Microfono aperto",
+    "programma": "microfono-aperto",
+    "persone": [
+     "Gregorio Dimonopoli"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "18.00",
+    "titolo": "Quinto sbarramento",
+    "programma": "quinto-sbarramento",
+    "persone": [
+     "Paolo Klun",
+     "Lidia De Vido"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "18.00",
+    "titolo": "Ancora in movimento",
+    "programma": "ancora-in-movimento",
+    "persone": [
+     "G. Cesari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "18.30",
+    "titolo": "RCdC Arte",
+    "programma": "rcdc-arte",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "18.30",
+    "titolo": "RCdC Cinema",
+    "programma": "rcdc-cinema",
+    "persone": [
+     "Giacomo Manzoli",
+     "Davide Cepraga"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "18.30",
+    "titolo": "RCdC Teatro",
+    "programma": "rcdc-teatro",
+    "persone": [
+     "Paolo Billi",
+     "Massimo Marino"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "18.30",
+    "titolo": "RCdC Libri",
+    "programma": "rcdc-libri",
+    "persone": [
+     "Lino Neri",
+     "Sergio Rotino",
+     "Donata Meneghelli"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "20.05",
+    "titolo": "Trancemission",
+    "programma": "trancemission",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "20.05",
+    "titolo": "Tam tam",
+    "programma": "tam-tam",
+    "persone": [
+     "Mark Howeto"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "20.05",
+    "titolo": "Sordo? Felice!",
+    "programma": "sordo-felice",
+    "persone": [
+     "Lia Celi",
+     "Roberto Grassilli",
+     "Alessandro Robecchi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "20.05",
+    "titolo": "Blue Regard",
+    "programma": "blue-regard",
+    "persone": [
+     "Marco Tartarini",
+     "Vladimiro Pellicciardi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "20.05",
+    "titolo": "Musica sottile",
+    "programma": "musica-sottile",
+    "persone": [
+     "Franco Nanni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "20.05",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Alessandro Leati",
+     "Daniele Pilia"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "20.05",
+    "titolo": "Missing link",
+    "programma": "missing-link",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "21.00",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Claudio Boccolari",
+     "Alberto Antonini"
+    ],
+    "nota": "Antonini con il suo circo musicale e letterario, 22.30–24.30"
+   },
+   {
+    "giorni": "mar",
+    "ora": "21.00",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Amedeo Bruni",
+     "Alberto Artese"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "21.00",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Maurizio Morini",
+     "Mary Del Barba"
+    ],
+    "nota": "«i dischi di Mary del Barba»"
+   },
+   {
+    "giorni": "gio",
+    "ora": "21.00",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Gino Dal Soler",
+     "Augusto Bruni",
+     "Roberto Gerardi",
+     "Sergio Rotino"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "21.00",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Stefano",
+     "Gabriele",
+     "Andrea",
+     "Nevio Bencivenni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "21.00",
+    "titolo": "Conduzione notturna",
+    "programma": "conduzione-notturna",
+    "persone": [
+     "Alessandro Mancini",
+     "Gianluca Galletti",
+     "Luca Baldazzi"
+    ],
+    "nota": ""
+   }
+  ]
+ },
+ {
+  "id": "1993",
+  "titolo": "Inizio 1993",
+  "numero": "1993-n1",
+  "numero_label": "anno 2 n.1",
+  "pagina": 2,
+  "fonte": "Novantaseietre anno 2 n.1, p. 2 (griglia e articolo «Per ascoltarla meglio» di Michele Pompei) e p. 4 (box «Trasmissioni di informazione»)",
+  "intro": "Popolare Network è in onda dalle 6. È il primo palinsesto con un'ampia offerta musicale serale divisa per generi, e con le trasmissioni d'informazione raccolte in un riquadro a parte.",
+  "voci": [
+   {
+    "giorni": "lun–ven",
+    "ora": "8.35",
+    "titolo": "Conduzione musicale del mattino",
+    "programma": "conduzione-musicale-del-mattino",
+    "persone": [
+     "Michele Pompei",
+     "Gregorio Dimonopoli"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–sab",
+    "ora": "9.30",
+    "titolo": "Rassegna stampa RCdC",
+    "programma": "rassegna-stampa-rcdc",
+    "persone": [
+     "Luca Alessandrini",
+     "Marzio Amadori",
+     "Pino Cacucci",
+     "Tanino De Rosa",
+     "Angela Liberatore",
+     "Marco Lorenzoni",
+     "Remo Mazzacurati",
+     "Valerio Monteventi",
+     "Roberto Patuelli",
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "11.30",
+    "titolo": "La palla al piede",
+    "programma": "la-palla-al-piede",
+    "persone": [
+     "Fernando Pellerano",
+     "Paolo Soglia",
+     "Luca Bottura",
+     "Giovanni Egidio"
+    ],
+    "nota": "settimanale sportivo"
+   },
+   {
+    "giorni": "mar",
+    "ora": "11.30",
+    "titolo": "Non parlano italiano",
+    "programma": "non-parlano-italiano",
+    "persone": [
+     "Paolo Barnard"
+    ],
+    "nota": "inediti dal mondo"
+   },
+   {
+    "giorni": "mer",
+    "ora": "11.30",
+    "titolo": "Meno è meglio",
+    "programma": "meno-e-meglio",
+    "persone": [
+     "Paola Savigni"
+    ],
+    "nota": "settimanale per i consumatori"
+   },
+   {
+    "giorni": "gio",
+    "ora": "11.30",
+    "titolo": "Newport",
+    "programma": "newport",
+    "persone": [
+     "Alberto Artese",
+     "Amedeo Bruni",
+     "Michele Pompei"
+    ],
+    "nota": "novità discografiche"
+   },
+   {
+    "giorni": "sab",
+    "ora": "11.30",
+    "titolo": "L'isola del tesoro",
+    "programma": "l-isola-del-tesoro",
+    "persone": [
+     "Donata Meneghelli",
+     "Lino Neri",
+     "Mirco Pieralisi",
+     "Sergio Rotino"
+    ],
+    "nota": "settimanale di libri"
+   },
+   {
+    "giorni": "dom",
+    "ora": "12.30",
+    "titolo": "Il mistero del vaso cinese",
+    "programma": "il-mistero-del-vaso-cinese",
+    "persone": [],
+    "nota": "radiogiallo; replica il lunedì alle 18.30"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "titolo": "Tempo reale",
+    "programma": "tempo-reale",
+    "persone": [
+     "Cinzia Soldano",
+     "Laura Cacciari"
+    ],
+    "nota": "rubrica delle opportunità"
+   },
+   {
+    "giorni": "lun",
+    "ora": "14.00",
+    "titolo": "Plaza de toros",
+    "programma": "plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "14.00",
+    "titolo": "Speed reaction",
+    "programma": "speed-reaction",
+    "persone": [
+     "Massimiliano Bonini",
+     "Giulio"
+    ],
+    "nota": "la scena indipendente inglese"
+   },
+   {
+    "giorni": "mer",
+    "ora": "14.00",
+    "titolo": "Sin fronteiras",
+    "programma": "sin-fronteiras",
+    "persone": [
+     "Edgar"
+    ],
+    "nota": "musica sudamericana"
+   },
+   {
+    "giorni": "gio",
+    "ora": "14.00",
+    "titolo": "Radiofonico blues",
+    "programma": "radiofonico-blues",
+    "persone": [
+     "Steno"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "14.00",
+    "titolo": "Umano ovest",
+    "programma": "umano-ovest",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "14.00",
+    "titolo": "Last Exit",
+    "programma": "last-exit",
+    "persone": [
+     "Vincenzo Cacosso",
+     "Mauro Garagnani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "14.00",
+    "titolo": "Il grande rogo",
+    "programma": "il-grande-rogo",
+    "persone": [
+     "Alessandro Mancini"
+    ],
+    "nota": "musica classica"
+   },
+   {
+    "giorni": "lun",
+    "ora": "15.00",
+    "titolo": "Dear Prudence",
+    "programma": "dear-prudence",
+    "persone": [
+     "Valentina Cencetti"
+    ],
+    "nota": "rock, musica etnica e jazz"
+   },
+   {
+    "giorni": "mar",
+    "ora": "15.00",
+    "titolo": "L'uomo nero",
+    "programma": "l-uomo-nero",
+    "persone": [
+     "Piero Santi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "15.00",
+    "titolo": "Sonica",
+    "programma": "sonica",
+    "persone": [
+     "Amedeo Bruni"
+    ],
+    "nota": "suoni e tendenze dagli USA, dall'hip hop al grunge"
+   },
+   {
+    "giorni": "gio",
+    "ora": "15.00",
+    "titolo": "Downtown",
+    "programma": "downtown",
+    "persone": [],
+    "nota": "jazz"
+   },
+   {
+    "giorni": "ven",
+    "ora": "15.00",
+    "titolo": "Roadrunner",
+    "programma": "roadrunner",
+    "persone": [
+     "Giovanni Cassano"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "15.00",
+    "titolo": "Intersezioni",
+    "programma": "intersezioni",
+    "persone": [
+     "Pierantonio Pezzinga"
+    ],
+    "nota": "musica d'improvvisazione"
+   },
+   {
+    "giorni": "sab",
+    "ora": "16.00",
+    "titolo": "Sawt el Mohagir",
+    "programma": "sawt-el-mohagir",
+    "persone": [
+     "Khalid Harda"
+    ],
+    "nota": "programma sull'immigrazione"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "17.00",
+    "titolo": "Microfono aperto",
+    "programma": "microfono-aperto",
+    "persone": [
+     "Paolo Barnard",
+     "Giovanna Chioini",
+     "Giovanni Cocchi",
+     "Gregorio Dimonopoli",
+     "Khalid Harda",
+     "Giulia Gessi",
+     "Fernando Pellerano",
+     "Mirco Pieralisi",
+     "Michele Pompei",
+     "Amedeo Ricucci",
+     "Paolo Soglia",
+     "Cinzia Soldano",
+     "Enrichetta Susi",
+     "Paola Zappaterra"
+    ],
+    "nota": "quotidiano d'informazione"
+   },
+   {
+    "giorni": "sab",
+    "ora": "17.00",
+    "titolo": "Radioclash",
+    "programma": "radioclash",
+    "persone": [
+     "Nuccio Sicali"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "18.00",
+    "titolo": "Venti di cooperazione",
+    "programma": "venti-di-cooperazione",
+    "persone": [
+     "Giovanna Chioini",
+     "Amedeo Ricucci"
+    ],
+    "nota": "cooperazione internazionale"
+   },
+   {
+    "giorni": "mar",
+    "ora": "18.30",
+    "titolo": "RCdC Arte",
+    "programma": "rcdc-arte",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "18.30",
+    "titolo": "RCdC Cinema",
+    "programma": "rcdc-cinema",
+    "persone": [
+     "Giacomo Manzoli",
+     "Davide Cepraga"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "18.30",
+    "titolo": "RCdC Teatro",
+    "programma": "rcdc-teatro",
+    "persone": [
+     "Paolo Billi",
+     "Nelsy Leidi",
+     "Massimo Marino"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "18.30",
+    "titolo": "Nowhereland",
+    "programma": "nowhereland",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": "quindicinale"
+   },
+   {
+    "giorni": "dom",
+    "ora": "18.00",
+    "titolo": "Giungla d'asfalto",
+    "programma": "giungla-d-asfalto",
+    "persone": [
+     "Giovanni Cattabriga"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "20.00",
+    "titolo": "Trancemission",
+    "programma": "trancemission",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "20.00",
+    "titolo": "Psyco",
+    "programma": "psyco",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "20.00",
+    "titolo": "Il puttanoroscopo",
+    "programma": "il-puttanoroscopo",
+    "persone": [],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "20.00",
+    "titolo": "La voce del sogno",
+    "programma": "la-voce-del-sogno",
+    "persone": [
+     "Alex Leati"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "21.00",
+    "titolo": "Radio barbiere",
+    "programma": "radio-barbiere",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "21.00",
+    "titolo": "Tempi duri",
+    "programma": "tempi-duri",
+    "persone": [
+     "DJ Fabri",
+     "DJ Locca"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "21.00",
+    "titolo": "Keep the beat",
+    "programma": "keep-the-beat",
+    "persone": [
+     "Gabriellina"
+    ],
+    "nota": "rap e raggamuffin"
+   },
+   {
+    "giorni": "gio",
+    "ora": "21.00",
+    "titolo": "Il tamburo dello sciamano",
+    "programma": "il-tamburo-dello-sciamano",
+    "persone": [
+     "Gino Dal Soler"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "21.00",
+    "titolo": "The microphone phiend",
+    "programma": "the-microphone-phiend",
+    "persone": [
+     "Stefano",
+     "Gabriele",
+     "Andrea",
+     "Walter Fasano"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "21.00",
+    "titolo": "Missing link",
+    "programma": "missing-link",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": "informazione musicale sulla scena hard-core"
+   },
+   {
+    "giorni": "lun",
+    "ora": "22.30",
+    "titolo": "Kaos",
+    "programma": "kaos",
+    "persone": [
+     "Alberto Antonini"
+    ],
+    "nota": "percorsi musicali e letterari"
+   },
+   {
+    "giorni": "mar",
+    "ora": "22.30",
+    "titolo": "Miscellanea",
+    "programma": "miscellanea",
+    "persone": [
+     "Claudio Boccolari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "22.30",
+    "titolo": "Border radio",
+    "programma": "border-radio",
+    "persone": [
+     "Hermoso Solinas",
+     "Giovanni Cassano"
+    ],
+    "nota": "musica nordamericana"
+   },
+   {
+    "giorni": "gio",
+    "ora": "22.30",
+    "titolo": "La croce del Sud",
+    "programma": "la-croce-del-sud",
+    "persone": [
+     "Augusto Bruni",
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "22.30",
+    "titolo": "Live",
+    "programma": "live",
+    "persone": [
+     "Nevio Bencivenni"
+    ],
+    "nota": "bootleg e registrazioni dal vivo"
+   },
+   {
+    "giorni": "dom",
+    "ora": "22.30",
+    "titolo": "Il castello di Wyvis",
+    "programma": "il-castello-di-wyvis",
+    "persone": [
+     "Michele Balduzzi"
+    ],
+    "nota": ""
+   }
+  ]
+ },
+ {
+  "id": "1994",
+  "titolo": "1994",
+  "numero": "1994-n1-2",
+  "numero_label": "anno 3 n.1-2",
+  "pagina": 2,
+  "fonte": "Novantaseietre anno 3 n.1-2, p. 2 (griglia con note) e p. 6 (box «Trasmissioni d'informazione»)",
+  "intro": "Il palinsesto della primavera 1994, con la rassegna stampa di network, Canapè (il rotocalco culturale del primo pomeriggio) e le conduzioni musicali affidate a una squadra fissa.",
+  "voci": [
+   {
+    "giorni": "lun–ven",
+    "ora": "9.00",
+    "titolo": "Conduzione musicale del mattino",
+    "programma": "conduzione-musicale-del-mattino",
+    "persone": [
+     "Michele Pompei",
+     "Piero Santi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–dom",
+    "ora": "9.30",
+    "titolo": "Rassegna stampa RCdC",
+    "programma": "rassegna-stampa-rcdc",
+    "persone": [
+     "Marzio Amadori",
+     "Luca Bottura",
+     "Pino Cacucci",
+     "Lia Celi",
+     "Tanino De Rosa",
+     "Gregorio Dimonopoli",
+     "Remo Mazzacurati",
+     "Roberto Patuelli",
+     "Amedeo Ricucci",
+     "Alessandro Robecchi",
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "11.00",
+    "titolo": "Newport",
+    "programma": "newport",
+    "persone": [
+     "Alberto Artese",
+     "Michele Pompei"
+    ],
+    "nota": "novità discografiche"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "titolo": "Tempo reale",
+    "programma": "tempo-reale",
+    "persone": [
+     "Laura Cacciari",
+     "Michele Balduzzi"
+    ],
+    "nota": "rubrica delle opportunità"
+   },
+   {
+    "giorni": "lun",
+    "ora": "13.45",
+    "titolo": "Brivido nero",
+    "programma": "brivido-nero",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": "viaggio nel mistero e nella paura"
+   },
+   {
+    "giorni": "mar–ven",
+    "ora": "13.45",
+    "titolo": "Canapè",
+    "programma": "canape",
+    "persone": [
+     "Michele Balduzzi",
+     "Laura Cacciari",
+     "Michela Turra",
+     "Cinzia Soldano",
+     "Giancarlo Bettini",
+     "Paolo Billi",
+     "Davide Cepraga",
+     "Nelsy Leidi",
+     "Giacomo Manzoli",
+     "Massimo Marino",
+     "Lino Neri",
+     "Sergio Rotino",
+     "Eva Savini"
+    ],
+    "nota": "rotocalco culturale: arte, libri, cinema, teatro"
+   },
+   {
+    "giorni": "lun",
+    "ora": "14.30",
+    "titolo": "Speed reaction",
+    "programma": "speed-reaction",
+    "persone": [
+     "Massimiliano Bonini",
+     "Stefano Rosanelli"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "14.30",
+    "titolo": "Plaza de toros",
+    "programma": "plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "replica il sabato alle 10.40"
+   },
+   {
+    "giorni": "mer",
+    "ora": "14.30",
+    "titolo": "Rime",
+    "programma": "rime",
+    "persone": [
+     "Gregorio Dimonopoli"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "14.30",
+    "titolo": "Radiofonico blues",
+    "programma": "radiofonico-blues",
+    "persone": [
+     "Steno"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "14.30",
+    "titolo": "Umano ovest",
+    "programma": "umano-ovest",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "17.30",
+    "titolo": "Microfono aperto",
+    "programma": "microfono-aperto",
+    "persone": [
+     "Paolo Barnard",
+     "Luca Calzolari",
+     "Giovanna Chioini",
+     "Fernando Pellerano",
+     "Mirco Pieralisi",
+     "Michele Pompei",
+     "Amedeo Ricucci",
+     "Paolo Soglia",
+     "Roberto Patuelli"
+    ],
+    "nota": "quotidiano d'informazione"
+   },
+   {
+    "giorni": "lun",
+    "ora": "20.05",
+    "titolo": "Trancemission",
+    "programma": "trancemission",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "20.05",
+    "titolo": "Psyco",
+    "programma": "psyco",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "20.05",
+    "titolo": "Che ci frega del jazz",
+    "programma": "che-ci-frega-del-jazz",
+    "persone": [
+     "Gianni Gherardi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "20.05",
+    "titolo": "Microphone fién",
+    "programma": "microphone-fien",
+    "persone": [
+     "Andrea",
+     "Gabri",
+     "Stefano"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "20.05",
+    "titolo": "Il puttanoroscopo",
+    "programma": "il-puttanoroscopo",
+    "persone": [
+     "Cristian",
+     "Marzio",
+     "Davide"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "21.00",
+    "titolo": "Boyz in the hood",
+    "programma": "boyz-in-the-hood",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "22.00",
+    "titolo": "Radio barbiere",
+    "programma": "radio-barbiere",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "22.00",
+    "titolo": "Artisti… sul filo del rasoio",
+    "programma": "artisti-sul-filo-del-rasoio",
+    "persone": [
+     "Steno"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "22.00",
+    "titolo": "Gionni Paludi show",
+    "programma": "gionni-paludi-show",
+    "persone": [
+     "Gionni Paludi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "22.00",
+    "titolo": "Miscellanea",
+    "programma": "miscellanea",
+    "persone": [
+     "Claudio Boccolari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "22.00",
+    "titolo": "Stella polare",
+    "programma": "stella-polare",
+    "persone": [
+     "Gino Dal Soler",
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar, gio",
+    "ora": "0.30",
+    "titolo": "Nessun dorma",
+    "programma": "nessun-dorma",
+    "persone": [
+     "Alex Dandi",
+     "Dela"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "14.00",
+    "titolo": "Le voci del vento",
+    "programma": "le-voci-del-vento",
+    "persone": [
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "15.00",
+    "titolo": "Last Exit",
+    "programma": "last-exit",
+    "persone": [
+     "Vincenzo Cacosso",
+     "Mauro Garagnani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "16.30",
+    "titolo": "Sawt el Mohagir",
+    "programma": "sawt-el-mohagir",
+    "persone": [
+     "Khalid Harda"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "18.00",
+    "titolo": "Intersezioni",
+    "programma": "intersezioni",
+    "persone": [
+     "Pierantonio Pezzinga"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "20.00",
+    "titolo": "Le voci del sogno",
+    "programma": "le-voci-del-sogno",
+    "persone": [
+     "Alex Leati",
+     "Emanuele Pilia"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "16.00",
+    "titolo": "Il grande rogo",
+    "programma": "il-grande-rogo",
+    "persone": [
+     "Alessandro Mancini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "18.00",
+    "titolo": "Giungla d'asfalto",
+    "programma": "giungla-d-asfalto",
+    "persone": [
+     "Giovanni Cattabriga"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "20.05",
+    "titolo": "Missing link",
+    "programma": "missing-link",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "22.00",
+    "titolo": "Achtung banditi",
+    "programma": "achtung-banditi",
+    "persone": [
+     "Alex Dandi",
+     "Simona Igor"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–dom",
+    "ora": "pomeriggio e sera",
+    "titolo": "Conduzioni pomeridiane e serali",
+    "programma": "conduzioni-pomeridiane-e-serali",
+    "persone": [
+     "Alberto Antonini",
+     "Alberto Artese",
+     "Michele Balduzzi",
+     "Nevio Bencivenni",
+     "Amedeo Bruni",
+     "Alex Dandi",
+     "Gianluca Galletti",
+     "Michele Pompei",
+     "Piero Santi",
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   }
+  ]
+ },
+ {
+  "id": "1995-96",
+  "titolo": "Stagione 1995–96",
+  "numero": "1995-n3-4",
+  "numero_label": "anno 4 n.3-4",
+  "pagina": 2,
+  "fonte": "Novantaseietre anno 4 n.3-4, p. 2 (griglia), p. 3 (box «L'informazione da RCdC») e p. 4 («Dentro la musica dai 96.3»)",
+  "intro": "La stagione della syndication con Oasi Radio (94.7 e 91.1 MHz) e della nascita del GR locale, prodotto con la redazione di Oasi. Ogni giornata è divisa in mattina, pomeriggio e sera, con le conduzioni in studio affidate a Michele Pompei e Piero Santi.",
+  "voci": [
+   {
+    "giorni": "lun–sab",
+    "ora": "7.00",
+    "titolo": "Conduzione musicale e regia in studio (mattina)",
+    "programma": "conduzione-musicale-e-regia-in-studio-mattina",
+    "persone": [
+     "Michele Pompei",
+     "Piero Santi"
+    ],
+    "nota": "7–11 e 11–14.30, a giorni alterni"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "17.30",
+    "titolo": "Conduzione musicale e regia in studio (pomeriggio)",
+    "programma": "conduzione-musicale-e-regia-in-studio-pomeriggio",
+    "persone": [
+     "Michele Pompei"
+    ],
+    "nota": "17.30–20"
+   },
+   {
+    "giorni": "dom",
+    "ora": "10.00",
+    "titolo": "Conduzioni musicali periodiche",
+    "programma": "conduzioni-musicali-periodiche",
+    "persone": [
+     "Marzio Amadori",
+     "Alberto Antonini",
+     "Augusto Bruni",
+     "Michele Balduzzi",
+     "Sebastiano Sicali"
+    ],
+    "nota": "10–13.30"
+   },
+   {
+    "giorni": "lun–sab",
+    "ora": "9.30",
+    "titolo": "Rassegna stampa RCdC",
+    "programma": "rassegna-stampa-rcdc",
+    "persone": [
+     "Luca Bottura",
+     "Pino Cacucci",
+     "Giovanna Chioini",
+     "Gianna Curti",
+     "Tanino De Rosa",
+     "Gregorio Dimonopoli",
+     "Remo Mazzacurati",
+     "Beppe Ramina",
+     "Giovanni Rossi",
+     "Stefano Tassinari",
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "12.50",
+    "titolo": "GR locale",
+    "programma": "gr-locale",
+    "persone": [
+     "Marco Angelucci",
+     "Chiara Fumagalli",
+     "Fernando Pellerano",
+     "Silvestro Ramunno",
+     "Gabriele Rubbini",
+     "Anna Sbarrai",
+     "Paolo Soglia",
+     "Emilia Vitulano"
+    ],
+    "nota": "in collaborazione con Oasi Radio; edizione principale alle 18"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "titolo": "Tempo reale",
+    "programma": "tempo-reale",
+    "persone": [
+     "Michele Balduzzi",
+     "Giovanna Chioini"
+    ],
+    "nota": "rubrica delle opportunità"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "17.45",
+    "titolo": "Microfono aperto",
+    "programma": "microfono-aperto",
+    "persone": [
+     "Luca Calzolari",
+     "Giovanna Chioini",
+     "Fernando Pellerano",
+     "Mirco Pieralisi",
+     "Anna Sbarrai",
+     "Paolo Soglia"
+    ],
+    "nota": "quotidiano d'informazione"
+   },
+   {
+    "giorni": "lun",
+    "ora": "11.30",
+    "titolo": "Spazio a cura del Centro Diritti CGIL",
+    "programma": "spazio-a-cura-del-centro-diritti-cgil",
+    "persone": [],
+    "nota": "quindicinale"
+   },
+   {
+    "giorni": "lun",
+    "ora": "14.00",
+    "titolo": "Librandovi",
+    "programma": "librandovi",
+    "persone": [
+     "Lino Neri",
+     "Nicoletta Maldini"
+    ],
+    "nota": "trasmissione sulla lettura"
+   },
+   {
+    "giorni": "lun",
+    "ora": "14.30",
+    "titolo": "Borderline",
+    "programma": "borderline",
+    "persone": [
+     "Augusto Bruni",
+     "Giampiero Burza"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "15.40",
+    "titolo": "Oldies but goldies",
+    "programma": "oldies-but-goldies",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": "dall'archivio musicale"
+   },
+   {
+    "giorni": "lun",
+    "ora": "17.00",
+    "titolo": "Fino alla fine del mondo",
+    "programma": "fino-alla-fine-del-mondo",
+    "persone": [
+     "Antonella",
+     "Maddalena"
+    ],
+    "nota": "rubrica di viaggi"
+   },
+   {
+    "giorni": "lun",
+    "ora": "24.20",
+    "titolo": "International dubbers",
+    "programma": "international-dubbers",
+    "persone": [
+     "Alain",
+     "Dayle"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "12.00",
+    "titolo": "Stagediving",
+    "programma": "stagediving",
+    "persone": [],
+    "nota": "informazioni su concerti e tour, a cura della redazione musicale; replica il mercoledì"
+   },
+   {
+    "giorni": "mar, gio",
+    "ora": "13.20",
+    "titolo": "Che aria tira",
+    "programma": "che-aria-tira",
+    "persone": [
+     "Leonardo Pugliese",
+     "Luca Mazzanti"
+    ],
+    "nota": "opera e belcanto"
+   },
+   {
+    "giorni": "mar",
+    "ora": "14.00",
+    "titolo": "RCdC Arte",
+    "programma": "rcdc-arte",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "14.30",
+    "titolo": "L'ora d'aria",
+    "programma": "l-ora-d-aria",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "15.40",
+    "titolo": "Speedreaction",
+    "programma": "speedreaction",
+    "persone": [
+     "Massimiliano Bonini"
+    ],
+    "nota": "Vibrazioni Rock"
+   },
+   {
+    "giorni": "mar",
+    "ora": "20.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Giangiacomo Rosiello"
+    ],
+    "nota": "20–24"
+   },
+   {
+    "giorni": "mer",
+    "ora": "14.00",
+    "titolo": "Radio Metropoli",
+    "programma": "radio-metropoli",
+    "persone": [],
+    "nota": "cronache del disagio a Bologna, a cura della redazione di «Metropoli»"
+   },
+   {
+    "giorni": "mer",
+    "ora": "14.30",
+    "titolo": "Gionni Paludi show",
+    "programma": "gionni-paludi-show",
+    "persone": [
+     "Gionni Paludi"
+    ],
+    "nota": "replica"
+   },
+   {
+    "giorni": "mer",
+    "ora": "15.40",
+    "titolo": "Supersonica",
+    "programma": "supersonica",
+    "persone": [
+     "Amedeo Bruni"
+    ],
+    "nota": "Vibrazioni Rock"
+   },
+   {
+    "giorni": "mer",
+    "ora": "20.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Simone Bedetti",
+     "Federico Mascagni"
+    ],
+    "nota": "20–23"
+   },
+   {
+    "giorni": "gio",
+    "ora": "14.00",
+    "titolo": "Fumo di china",
+    "programma": "fumo-di-china",
+    "persone": [
+     "Andrea Plazzi"
+    ],
+    "nota": "il mondo dei fumetti"
+   },
+   {
+    "giorni": "gio",
+    "ora": "14.30",
+    "titolo": "L'eterna illusione",
+    "programma": "l-eterna-illusione",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": "musica e cinema"
+   },
+   {
+    "giorni": "gio",
+    "ora": "15.40",
+    "titolo": "Radiofonico blues / Viveri kappa",
+    "programma": "radiofonico-blues-viveri-kappa",
+    "persone": [
+     "Steno"
+    ],
+    "nota": "Vibrazioni Rock"
+   },
+   {
+    "giorni": "gio",
+    "ora": "sera",
+    "titolo": "La voce del sogno",
+    "programma": "la-voce-del-sogno",
+    "persone": [
+     "Alex Leati"
+    ],
+    "nota": "dopo la conduzione musicale di Roberto Gerardi"
+   },
+   {
+    "giorni": "gio",
+    "ora": "sera",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "11.30",
+    "titolo": "Non parlano italiano",
+    "programma": "non-parlano-italiano",
+    "persone": [
+     "Giovanna Chioini"
+    ],
+    "nota": "in collaborazione con la redazione di «Internazionale»"
+   },
+   {
+    "giorni": "ven",
+    "ora": "14.00",
+    "titolo": "RCdC Cinema",
+    "programma": "rcdc-cinema",
+    "persone": [
+     "Giacomo Manzoli",
+     "Roy Menarini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "14.30",
+    "titolo": "Alto voltaggio",
+    "programma": "alto-voltaggio",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": "anche alle 15.40, Vibrazioni Rock"
+   },
+   {
+    "giorni": "sab",
+    "ora": "10.40",
+    "titolo": "Plaza de toros",
+    "programma": "plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "11.30",
+    "titolo": "Spazio aperto",
+    "programma": "spazio-aperto",
+    "persone": [
+     "Mirco Pieralisi",
+     "Piero Santi"
+    ],
+    "nota": "filo diretto con gli ascoltatori"
+   },
+   {
+    "giorni": "sab",
+    "ora": "14.30",
+    "titolo": "Etnicaos",
+    "programma": "etnicaos",
+    "persone": [
+     "Pierpaolo Pederzini"
+    ],
+    "nota": "musica etnica e new age"
+   },
+   {
+    "giorni": "sab",
+    "ora": "15.40",
+    "titolo": "Van",
+    "programma": "van",
+    "persone": [
+     "Giovanni Cattabriga",
+     "Giovanni Gandolfi"
+    ],
+    "nota": "Vibrazioni Rock"
+   },
+   {
+    "giorni": "sab",
+    "ora": "17.30",
+    "titolo": "Vibrazioni rock",
+    "programma": "vibrazioni-rock",
+    "persone": [
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "20.00",
+    "titolo": "Flavour of the label",
+    "programma": "flavour-of-the-label",
+    "persone": [
+     "Giovanni Cattabriga",
+     "Giovanni Gandolfi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "21.30",
+    "titolo": "Gay Pride Night",
+    "programma": "gay-pride-night",
+    "persone": [
+     "Bruno Pompa"
+    ],
+    "nota": "rubrica del circolo Cassero"
+   },
+   {
+    "giorni": "dom",
+    "ora": "13.30",
+    "titolo": "Di cotte e di crude",
+    "programma": "di-cotte-e-di-crude",
+    "persone": [
+     "Laura Cacciari",
+     "Francesco Garbari",
+     "Stefania Vergnani"
+    ],
+    "nota": "rubrica gastronomica"
+   },
+   {
+    "giorni": "dom",
+    "ora": "14.30",
+    "titolo": "Conduzione musicale",
+    "programma": "conduzione-musicale",
+    "persone": [
+     "Federico Mascagni"
+    ],
+    "nota": "14.30–19.30"
+   },
+   {
+    "giorni": "dom",
+    "ora": "15.00",
+    "titolo": "Grinding halt",
+    "programma": "grinding-halt",
+    "persone": [
+     "Francesca Ognibene"
+    ],
+    "nota": "rock contemporaneo"
+   },
+   {
+    "giorni": "dom",
+    "ora": "16.00",
+    "titolo": "Speciale monografie",
+    "programma": "speciale-monografie",
+    "persone": [
+     "Federico Mascagni"
+    ],
+    "nota": "anche alle 17.30"
+   },
+   {
+    "giorni": "dom",
+    "ora": "16.30",
+    "titolo": "Linee oblique",
+    "programma": "linee-oblique",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": "trasmissione rigorosamente indipendente"
+   },
+   {
+    "giorni": "dom",
+    "ora": "18.00",
+    "titolo": "Il grande rogo",
+    "programma": "il-grande-rogo",
+    "persone": [
+     "Leonardo Pugliese"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Gianni Tavoletti"
+    ],
+    "nota": "21–24"
+   },
+   {
+    "giorni": "lun",
+    "ora": "20.05",
+    "titolo": "Trancemission",
+    "programma": "trancemission",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "22.00",
+    "titolo": "Radio barbiere",
+    "programma": "radio-barbiere",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "22.00",
+    "titolo": "Achtung banditi",
+    "programma": "achtung-banditi",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": "musica italiana indipendente"
+   },
+   {
+    "giorni": "mer",
+    "ora": "20.05",
+    "titolo": "Gionni Paludi show",
+    "programma": "gionni-paludi-show",
+    "persone": [
+     "Gionni Paludi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "20.00",
+    "titolo": "Mac Guffin",
+    "programma": "mac-guffin",
+    "persone": [
+     "Gianluca Galletti"
+    ],
+    "nota": "cinema"
+   }
+  ]
+ },
+ {
+  "id": "1996",
+  "titolo": "Primavera 1996",
+  "numero": "1996-n1-2",
+  "numero_label": "anno 5 n.1-2",
+  "pagina": 2,
+  "fonte": "Novantaseietre anno 5 n.1-2, p. 2 (griglia), p. 3 («Le novità in palinsesto») e p. 6 (box «L'informazione da RCdC»)",
+  "intro": "Il palinsesto della primavera 1996: arrivano Radio Blissett, Audio Lab, Fuori orbita e Isole nella rete, la trasmissione dedicata a Internet.",
+  "voci": [
+   {
+    "giorni": "lun–sab",
+    "ora": "7.00",
+    "titolo": "Conduzione musicale e regia in studio (mattina)",
+    "programma": "conduzione-musicale-e-regia-in-studio-mattina",
+    "persone": [
+     "Michele Pompei",
+     "Piero Santi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "17.30",
+    "titolo": "Conduzione musicale e regia in studio (pomeriggio)",
+    "programma": "conduzione-musicale-e-regia-in-studio-pomeriggio",
+    "persone": [
+     "Michele Pompei"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "10.00",
+    "titolo": "Conduzioni musicali periodiche",
+    "programma": "conduzioni-musicali-periodiche",
+    "persone": [
+     "Marzio Amadori",
+     "Alberto Antonini",
+     "Augusto Bruni",
+     "Michele Balduzzi",
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–sab",
+    "ora": "9.30",
+    "titolo": "Rassegna stampa RCdC",
+    "programma": "rassegna-stampa-rcdc",
+    "persone": [
+     "Luca Bottura",
+     "Pino Cacucci",
+     "Giovanna Chioini",
+     "Gianna Curti",
+     "Tanino De Rosa",
+     "Gregorio Dimonopoli",
+     "Remo Mazzacurati",
+     "Beppe Ramina",
+     "Giovanni Rossi",
+     "Stefano Tassinari",
+     "Paola Zappaterra"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "12.50",
+    "titolo": "GR locale",
+    "programma": "gr-locale",
+    "persone": [
+     "Beatrice Di Pisa",
+     "Camilla Cuppini",
+     "Marco Angelucci",
+     "Chiara Fumagalli",
+     "Silvia Grossi",
+     "Piero Ingrosso",
+     "Fernando Pellerano",
+     "Silvestro Ramunno",
+     "Gabriele Rubbini",
+     "Sandra Salvato",
+     "Anna Sbarrai",
+     "Paolo Soglia",
+     "Emilia Vitulano"
+    ],
+    "nota": "in collaborazione con Oasi Radio"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "titolo": "Tempo reale",
+    "programma": "tempo-reale",
+    "persone": [
+     "Michele Balduzzi",
+     "Giovanna Chioini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "17.45",
+    "titolo": "Microfono aperto",
+    "programma": "microfono-aperto",
+    "persone": [
+     "Luca Calzolari",
+     "Giovanna Chioini",
+     "Fernando Pellerano",
+     "Mirco Pieralisi",
+     "Anna Sbarrai",
+     "Paolo Soglia"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "14.00",
+    "titolo": "Librandovi",
+    "programma": "librandovi",
+    "persone": [
+     "Lino Neri",
+     "Nicoletta Maldini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "14.30",
+    "titolo": "Oldies but goldies",
+    "programma": "oldies-but-goldies",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": "anche alle 15.40"
+   },
+   {
+    "giorni": "lun",
+    "ora": "17.00",
+    "titolo": "Fino alla fine del mondo",
+    "programma": "fino-alla-fine-del-mondo",
+    "persone": [
+     "Antonella",
+     "Maddalena"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "20.05",
+    "titolo": "Trancemission",
+    "programma": "trancemission",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "22.00",
+    "titolo": "Radio barbiere",
+    "programma": "radio-barbiere",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "24.20",
+    "titolo": "International dubbers",
+    "programma": "international-dubbers",
+    "persone": [
+     "Alain",
+     "Dayle"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "12.00",
+    "titolo": "Stagediving",
+    "programma": "stagediving",
+    "persone": [],
+    "nota": "concerti e tour"
+   },
+   {
+    "giorni": "mar, gio",
+    "ora": "13.20",
+    "titolo": "Che aria tira",
+    "programma": "che-aria-tira",
+    "persone": [
+     "Leonardo Pugliese",
+     "Luca Mazzanti"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "14.00",
+    "titolo": "RCdC Arte",
+    "programma": "rcdc-arte",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "14.30",
+    "titolo": "L'ora d'aria",
+    "programma": "l-ora-d-aria",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "15.40",
+    "titolo": "Speedreaction",
+    "programma": "speedreaction",
+    "persone": [
+     "Massimiliano Bonini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "20.00",
+    "titolo": "Di cotte e di crude",
+    "programma": "di-cotte-e-di-crude",
+    "persone": [
+     "Laura Cacciari",
+     "Francesco Garbari",
+     "Stefania Vergnani"
+    ],
+    "nota": "replica"
+   },
+   {
+    "giorni": "mar",
+    "ora": "22.00",
+    "titolo": "Suoni d'Irlanda",
+    "programma": "suoni-d-irlanda",
+    "persone": [
+     "Monica Melissano"
+    ],
+    "nota": "dal 23 aprile «Aspettando Paludi», con Franco Simone e Mino Reitano"
+   },
+   {
+    "giorni": "mar",
+    "ora": "0.30",
+    "titolo": "Nessun dorma",
+    "programma": "nessun-dorma",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": "notturno"
+   },
+   {
+    "giorni": "mer",
+    "ora": "11.30",
+    "titolo": "L'orecchio di cemento",
+    "programma": "l-orecchio-di-cemento",
+    "persone": [
+     "Basse Sfere"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "13.00",
+    "titolo": "Intermedia",
+    "programma": "intermedia",
+    "persone": [],
+    "nota": "in collaborazione con l'Ong Cospe, dedicata ai rapporti tra nord e sud del mondo"
+   },
+   {
+    "giorni": "mer",
+    "ora": "14.30",
+    "titolo": "Suoni d'Irlanda",
+    "programma": "suoni-d-irlanda",
+    "persone": [
+     "Monica Melissano"
+    ],
+    "nota": "replica"
+   },
+   {
+    "giorni": "mer",
+    "ora": "15.40",
+    "titolo": "Ultrasonica",
+    "programma": "ultrasonica",
+    "persone": [
+     "Amedeo Bruni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "20.05",
+    "titolo": "Radio oddities",
+    "programma": "radio-oddities",
+    "persone": [
+     "Claudio Boccolari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "21.30",
+    "titolo": "Isole nella rete",
+    "programma": "isole-nella-rete",
+    "persone": [
+     "Simone Bedetti",
+     "Federico Mascagni"
+    ],
+    "nota": "il mondo di Internet"
+   },
+   {
+    "giorni": "mer",
+    "ora": "23.00",
+    "titolo": "Radio Blissett",
+    "programma": "radio-blissett",
+    "persone": [
+     "Luther Blissett"
+    ],
+    "nota": "trasmissione psicogeografica; replica alle 0.30"
+   },
+   {
+    "giorni": "gio",
+    "ora": "14.00",
+    "titolo": "Fumo di china",
+    "programma": "fumo-di-china",
+    "persone": [
+     "Andrea Plazzi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "14.30",
+    "titolo": "L'eterna illusione",
+    "programma": "l-eterna-illusione",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "15.40",
+    "titolo": "Van",
+    "programma": "van",
+    "persone": [
+     "Giovanni Gandolfi",
+     "Giovanni Azzoni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "20.05",
+    "titolo": "Plaza de toros",
+    "programma": "plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "replica"
+   },
+   {
+    "giorni": "gio",
+    "ora": "22.00",
+    "titolo": "Mondogroove",
+    "programma": "mondogroove",
+    "persone": [
+     "Gabriele Gardini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "0.30",
+    "titolo": "La voce del sogno",
+    "programma": "la-voce-del-sogno",
+    "persone": [
+     "Alex Leati"
+    ],
+    "nota": "notturno"
+   },
+   {
+    "giorni": "gio",
+    "ora": "sera",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Roberto Gerardi",
+     "Gino Dal Soler"
+    ],
+    "nota": "20–24"
+   },
+   {
+    "giorni": "ven",
+    "ora": "11.30",
+    "titolo": "Fuori orbita",
+    "programma": "fuori-orbita",
+    "persone": [
+     "Giovanna Chioini",
+     "Giovanni Dognini",
+     "Francesco Strazzari"
+    ],
+    "nota": "uno sguardo nel mondo"
+   },
+   {
+    "giorni": "ven",
+    "ora": "14.00",
+    "titolo": "RCdC Cinema",
+    "programma": "rcdc-cinema",
+    "persone": [
+     "Giacomo Manzoli",
+     "Roy Menarini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "14.30",
+    "titolo": "Alto voltaggio",
+    "programma": "alto-voltaggio",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "20.05",
+    "titolo": "L'eterna illusione",
+    "programma": "l-eterna-illusione",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": "replica"
+   },
+   {
+    "giorni": "ven",
+    "ora": "20.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Nevio Bencivenni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "22.00",
+    "titolo": "Pulpsound",
+    "programma": "pulpsound",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "22.00",
+    "titolo": "Taffy Louise",
+    "programma": "taffy-louise",
+    "persone": [
+     "Mauro Cheli"
+    ],
+    "nota": "notturno, dalle 22 in poi"
+   },
+   {
+    "giorni": "sab",
+    "ora": "10.40",
+    "titolo": "Plaza de toros",
+    "programma": "plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "11.30",
+    "titolo": "Spazio aperto",
+    "programma": "spazio-aperto",
+    "persone": [
+     "Mirco Pieralisi",
+     "Piero Santi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "14.30",
+    "titolo": "Etnicaos",
+    "programma": "etnicaos",
+    "persone": [
+     "Pierpaolo Pederzini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "15.40",
+    "titolo": "Van",
+    "programma": "van",
+    "persone": [
+     "Giovanni Gandolfi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "17.30",
+    "titolo": "Vibrazioni rock",
+    "programma": "vibrazioni-rock",
+    "persone": [
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "20.00",
+    "titolo": "Tutti in blu in discoteca",
+    "programma": "tutti-in-blu-in-discoteca",
+    "persone": [],
+    "nota": "selezione musicale"
+   },
+   {
+    "giorni": "sab",
+    "ora": "21.30",
+    "titolo": "Audio Lab",
+    "programma": "audio-lab",
+    "persone": [
+     "Bruno Pompa"
+    ],
+    "nota": "rubrica del circolo Cassero, ex Gay Pride Night"
+   },
+   {
+    "giorni": "dom",
+    "ora": "13.30",
+    "titolo": "Di cotte e di crude",
+    "programma": "di-cotte-e-di-crude",
+    "persone": [
+     "Laura Cacciari",
+     "Francesco Garbari",
+     "Stefania Vergnani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "14.30",
+    "titolo": "Conduzione musicale",
+    "programma": "conduzione-musicale",
+    "persone": [
+     "Federico Mascagni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "15.00",
+    "titolo": "Grinding halt",
+    "programma": "grinding-halt",
+    "persone": [
+     "Francesca Ognibene"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "16.00",
+    "titolo": "Speciale monografie",
+    "programma": "speciale-monografie",
+    "persone": [
+     "Federico Mascagni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "16.30",
+    "titolo": "Linee oblique",
+    "programma": "linee-oblique",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "18.00",
+    "titolo": "Il grande rogo",
+    "programma": "il-grande-rogo",
+    "persone": [
+     "Leonardo Pugliese"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "20.00",
+    "titolo": "Mac Guffin",
+    "programma": "mac-guffin",
+    "persone": [
+     "Gianluca Galletti"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Gianni Tavoletti"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "22.00",
+    "titolo": "Achtung banditi",
+    "programma": "achtung-banditi",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "15.40",
+    "titolo": "Radiofonico blues",
+    "programma": "radiofonico-blues",
+    "persone": [
+     "Steno"
+    ],
+    "nota": ""
+   }
+  ]
+ },
+ {
+  "id": "1996-97",
+  "titolo": "Stagione 1996–97",
+  "numero": "1996-n5-6",
+  "numero_label": "anno 5 n.5-6",
+  "pagina": 2,
+  "fonte": "Novantaseietre anno 5 n.5-6 (all'interno n.3/4 1996), p. 2 (griglia e articolo «I buoni propositi per il nuovo anno» di Michele Pompei) e p. 5 (box «L'informazione quotidiana»)",
+  "intro": "Tra le 13.45 e le 18 il pomeriggio si fa «più ricco e più snello»: rubriche musicali più brevi alternate a spazi di servizio su arte, libri, cinema e fumetti. Il GR locale passa a tre edizioni.",
+  "voci": [
+   {
+    "giorni": "lun–ven",
+    "ora": "7.00",
+    "titolo": "Conduzione musicale e regia in studio",
+    "programma": "conduzione-musicale-e-regia-in-studio",
+    "persone": [
+     "Michele Pompei",
+     "Piero Santi",
+     "Federico Mascagni"
+    ],
+    "nota": "Pompei e Santi al mattino, Mascagni 17.30–20"
+   },
+   {
+    "giorni": "dom",
+    "ora": "10.00",
+    "titolo": "Conduzione musicale",
+    "programma": "conduzione-musicale",
+    "persone": [
+     "DJ di RCdC"
+    ],
+    "nota": "10–13.30"
+   },
+   {
+    "giorni": "lun",
+    "ora": "9.30",
+    "titolo": "Rassegna stampa RCdC",
+    "programma": "rassegna-stampa-rcdc",
+    "persone": [
+     "Pino Cacucci"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "9.30",
+    "titolo": "Rassegna stampa RCdC",
+    "programma": "rassegna-stampa-rcdc",
+    "persone": [
+     "Luca Bottura",
+     "Alberto Pertile"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "9.30",
+    "titolo": "Rassegna stampa RCdC",
+    "programma": "rassegna-stampa-rcdc",
+    "persone": [
+     "Gualtiero De Marinis",
+     "Emilia Vitulano"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "9.30",
+    "titolo": "Rassegna stampa RCdC",
+    "programma": "rassegna-stampa-rcdc",
+    "persone": [
+     "Beppe Ramina"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "9.30",
+    "titolo": "Rassegna stampa RCdC",
+    "programma": "rassegna-stampa-rcdc",
+    "persone": [
+     "Gianna Curti"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "9.30",
+    "titolo": "Rassegna stampa RCdC",
+    "programma": "rassegna-stampa-rcdc",
+    "persone": [
+     "Tanino De Rosa"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "10.40",
+    "titolo": "Rassegna stampa RCdC",
+    "programma": "rassegna-stampa-rcdc",
+    "persone": [
+     "Luca Alessandrini",
+     "Francesco Cammarota",
+     "Gregorio Dimonopoli",
+     "Remo Mazzacurati",
+     "Roberto Patuelli"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "8.00",
+    "titolo": "Rassegna stampa di network",
+    "programma": "rassegna-stampa-di-network",
+    "persone": [
+     "Luca Bottura",
+     "Giovanni Rossi",
+     "Marco Sacchetti",
+     "Stefano Tassinari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "13.00",
+    "titolo": "GR locale",
+    "programma": "gr-locale",
+    "persone": [
+     "Paolo Soglia",
+     "Fernando Pellerano",
+     "Marco Angelucci",
+     "Laura Cacciari",
+     "Beatrice Di Pisa",
+     "Silvestro Ramunno",
+     "Luca Sancini",
+     "Anna Sbarrai",
+     "Emilia Vitulano"
+    ],
+    "nota": "coordinatori Paolo Soglia e Fernando Pellerano; tre edizioni (13, 18, 20)"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "13.05",
+    "titolo": "Tempo reale",
+    "programma": "tempo-reale",
+    "persone": [
+     "Laura Cacciari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "13.45",
+    "titolo": "Soul food",
+    "programma": "soul-food",
+    "persone": [],
+    "nota": "i concerti quotidiani"
+   },
+   {
+    "giorni": "lun",
+    "ora": "11.30",
+    "titolo": "Lavoro e dintorni",
+    "programma": "lavoro-e-dintorni",
+    "persone": [],
+    "nota": "sindacale, quindicinale"
+   },
+   {
+    "giorni": "lun",
+    "ora": "14.45",
+    "titolo": "Panasonica",
+    "programma": "panasonica",
+    "persone": [
+     "Amedeo Bruni"
+    ],
+    "nota": "anche il mercoledì"
+   },
+   {
+    "giorni": "lun",
+    "ora": "15.40",
+    "titolo": "Spazio servizi: libri",
+    "programma": "spazio-servizi-libri",
+    "persone": [
+     "Lino Neri"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "15.55",
+    "titolo": "Radiofonico blues",
+    "programma": "radiofonico-blues",
+    "persone": [
+     "Andrea Carrieri"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "16.40",
+    "titolo": "Battaglia navale",
+    "programma": "battaglia-navale",
+    "persone": [],
+    "nota": "gioco a premi per gli abbonati"
+   },
+   {
+    "giorni": "lun",
+    "ora": "20.05",
+    "titolo": "Trancemission",
+    "programma": "trancemission",
+    "persone": [
+     "Alberto Petrucciani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Alberto Antonini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "22.00",
+    "titolo": "Radio barbiere",
+    "programma": "radio-barbiere",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "0.20",
+    "titolo": "La radio sul cuscino",
+    "programma": "la-radio-sul-cuscino",
+    "persone": [
+     "Alberto Antonini"
+    ],
+    "nota": "notturno"
+   },
+   {
+    "giorni": "mar, gio",
+    "ora": "11.30",
+    "titolo": "Che aria tira",
+    "programma": "che-aria-tira",
+    "persone": [
+     "Leonardo Pugliese"
+    ],
+    "nota": "musicale/lirica"
+   },
+   {
+    "giorni": "mar",
+    "ora": "12.00",
+    "titolo": "Storia del cinema a Bologna",
+    "programma": "storia-del-cinema-a-bologna",
+    "persone": [],
+    "nota": "documentario radiofonico; replica il sabato"
+   },
+   {
+    "giorni": "mar",
+    "ora": "14.45",
+    "titolo": "Teenage kicks",
+    "programma": "teenage-kicks",
+    "persone": [
+     "Massimiliano Bonini",
+     "Federico Ferrari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "15.40",
+    "titolo": "Spazio servizi: arte",
+    "programma": "spazio-servizi-arte",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar, ven",
+    "ora": "15.55",
+    "titolo": "Mondo frido",
+    "programma": "mondo-frido",
+    "persone": [
+     "Giovanni Cattabriga",
+     "Giovanni Azzoni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar–ven",
+    "ora": "16.55",
+    "titolo": "After tea",
+    "programma": "after-tea",
+    "persone": [
+     "Moreno Mari",
+     "Federico Minghini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "20.05",
+    "titolo": "Comma 22",
+    "programma": "comma-22",
+    "persone": [
+     "Claudio Boccolari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "22.00",
+    "titolo": "Gionni Paludi show",
+    "programma": "gionni-paludi-show",
+    "persone": [
+     "Gionni Paludi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "11.30",
+    "titolo": "L'ora d'aria",
+    "programma": "l-ora-d-aria",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "14.00",
+    "titolo": "Intermedia",
+    "programma": "intermedia",
+    "persone": [],
+    "nota": "fino al 6 novembre"
+   },
+   {
+    "giorni": "mer",
+    "ora": "14.45",
+    "titolo": "Basse frequenze",
+    "programma": "basse-frequenze",
+    "persone": [
+     "Monica Melissano"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "15.40",
+    "titolo": "Spazio servizi: fumetti",
+    "programma": "spazio-servizi-fumetti",
+    "persone": [
+     "Andrea Plazzi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "20.05",
+    "titolo": "Contaminazioni jazz",
+    "programma": "contaminazioni-jazz",
+    "persone": [
+     "Giovanni Barbanti",
+     "Luca Settepani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Giangiacomo Rosiello"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "22.00",
+    "titolo": "Pulp sound",
+    "programma": "pulp-sound",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "14.45",
+    "titolo": "L'eterna illusione",
+    "programma": "l-eterna-illusione",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "15.40",
+    "titolo": "Spazio servizi: cinema",
+    "programma": "spazio-servizi-cinema",
+    "persone": [
+     "Giacomo Manzoli",
+     "Roy Menarini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "20.05",
+    "titolo": "Plaza de toros",
+    "programma": "plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "replica"
+   },
+   {
+    "giorni": "gio",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "22.00",
+    "titolo": "Mondo groove",
+    "programma": "mondo-groove",
+    "persone": [
+     "Gabriele Gardini",
+     "Marco Ballotta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "0.30",
+    "titolo": "La voce del sogno",
+    "programma": "la-voce-del-sogno",
+    "persone": [
+     "Alex Leati"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "11.30",
+    "titolo": "L'orecchio di cemento",
+    "programma": "l-orecchio-di-cemento",
+    "persone": [
+     "Basse Sfere"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "15.40",
+    "titolo": "Spazio servizi: Fuori orbita",
+    "programma": "spazio-servizi-fuori-orbita",
+    "persone": [
+     "Giovanni Dognini",
+     "Miran de Almeida",
+     "Catherine Dickehage"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "15.55",
+    "titolo": "Stand by",
+    "programma": "stand-by",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "20.05",
+    "titolo": "Time zone",
+    "programma": "time-zone",
+    "persone": [
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Nevio Bencivenni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "22.00",
+    "titolo": "Psycho navigation",
+    "programma": "psycho-navigation",
+    "persone": [
+     "Gino Dal Soler"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "0.30",
+    "titolo": "Il notturno del Rock Shop",
+    "programma": "il-notturno-del-rock-shop",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "10.40",
+    "titolo": "La plaza de toros",
+    "programma": "la-plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "14.30",
+    "titolo": "Gionni Paludi show",
+    "programma": "gionni-paludi-show",
+    "persone": [
+     "Gionni Paludi"
+    ],
+    "nota": "replica"
+   },
+   {
+    "giorni": "sab",
+    "ora": "15.40",
+    "titolo": "Van",
+    "programma": "van",
+    "persone": [
+     "Giovanni Gandolfi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "17.30",
+    "titolo": "Etnicaos",
+    "programma": "etnicaos",
+    "persone": [
+     "Pierpaolo Pederzini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "20.00",
+    "titolo": "Gay Pride Night",
+    "programma": "gay-pride-night",
+    "persone": [
+     "Bruno Pompa"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "13.30",
+    "titolo": "Di cotte e di crude",
+    "programma": "di-cotte-e-di-crude",
+    "persone": [
+     "Laura Cacciari",
+     "Francesco Garbari",
+     "Stefania Vergnani"
+    ],
+    "nota": "amenità gastronomiche"
+   },
+   {
+    "giorni": "dom",
+    "ora": "14.30",
+    "titolo": "Apertura pomeriggio",
+    "programma": "apertura-pomeriggio",
+    "persone": [
+     "Federico Mascagni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "14.45",
+    "titolo": "Corrispondente X",
+    "programma": "corrispondente-x",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "15.00",
+    "titolo": "Tempo al tempo",
+    "programma": "tempo-al-tempo",
+    "persone": [],
+    "nota": "a cura della Banca del Tempo"
+   },
+   {
+    "giorni": "dom",
+    "ora": "16.00",
+    "titolo": "Le classiche monografie",
+    "programma": "le-classiche-monografie",
+    "persone": [],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "17.00",
+    "titolo": "Vile vinile",
+    "programma": "vile-vinile",
+    "persone": [
+     "Luca Bottura",
+     "Francesco Garbari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "18.00",
+    "titolo": "Spazio libero",
+    "programma": "spazio-libero",
+    "persone": [],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "20.00",
+    "titolo": "Mc Guffin",
+    "programma": "mc-guffin",
+    "persone": [
+     "Gianluca Galletti"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Gianni Tavoletti"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "22.00",
+    "titolo": "Linee oblique",
+    "programma": "linee-oblique",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": ""
+   }
+  ]
+ },
+ {
+  "id": "1997",
+  "titolo": "Primavera 1997",
+  "numero": "1997-n1-2",
+  "numero_label": "anno 6 n.1-2",
+  "pagina": 2,
+  "fonte": "Novantaseietre anno 6 n.1-2, p. II (griglia «I programmi di Radio Città del Capo») e p. III («Presentazione palinsesto»)",
+  "intro": "L'ultimo palinsesto completo pubblicato nei numeri disponibili. Novità: Ventennium per i vent'anni del '77, Skinhead Times, Quarto d'ora accademico, Le mani sulla città.",
+  "voci": [
+   {
+    "giorni": "lun–ven",
+    "ora": "7.00",
+    "titolo": "Conduzione musicale e regia in studio",
+    "programma": "conduzione-musicale-e-regia-in-studio",
+    "persone": [
+     "Michele Pompei",
+     "Federico Mascagni",
+     "Piero Santi"
+    ],
+    "nota": "7–13.45 e 14.30–20, a turni"
+   },
+   {
+    "giorni": "sab",
+    "ora": "8.30",
+    "titolo": "Conduzione musicale e regia in studio",
+    "programma": "conduzione-musicale-e-regia-in-studio",
+    "persone": [
+     "Piero Santi"
+    ],
+    "nota": "8.30–14.30"
+   },
+   {
+    "giorni": "dom",
+    "ora": "10.00",
+    "titolo": "Conduzione musicale e regia in studio",
+    "programma": "conduzione-musicale-e-regia-in-studio",
+    "persone": [
+     "DJ di RCdC",
+     "Federico Mascagni"
+    ],
+    "nota": "DJ di RCdC 10–13.30, Mascagni 14.30–20"
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "13.10",
+    "titolo": "Tempo reale",
+    "programma": "tempo-reale",
+    "persone": [],
+    "nota": ""
+   },
+   {
+    "giorni": "lun–ven",
+    "ora": "13.45",
+    "titolo": "Soul food",
+    "programma": "soul-food",
+    "persone": [],
+    "nota": "i concerti quotidiani"
+   },
+   {
+    "giorni": "lun, gio",
+    "ora": "10.45",
+    "titolo": "Quarto d'ora accademico",
+    "programma": "quarto-d-ora-accademico",
+    "persone": [
+     "Manuela Gadani",
+     "Sara Nanni",
+     "Francesca Sturaro",
+     "Marcella Volpe"
+    ],
+    "nota": "voci dalla giungla universitaria"
+   },
+   {
+    "giorni": "lun, ven",
+    "ora": "12.00",
+    "titolo": "Che aria tira",
+    "programma": "che-aria-tira",
+    "persone": [
+     "Leonardo Pugliese"
+    ],
+    "nota": "musicale/lirica"
+   },
+   {
+    "giorni": "lun",
+    "ora": "14.45",
+    "titolo": "Panasonica",
+    "programma": "panasonica",
+    "persone": [
+     "Amedeo Bruni"
+    ],
+    "nota": "anche il mercoledì"
+   },
+   {
+    "giorni": "lun",
+    "ora": "15.40",
+    "titolo": "RCdC Libri",
+    "programma": "rcdc-libri",
+    "persone": [
+     "Nicoletta Maldini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "15.55",
+    "titolo": "Radiofonico blues",
+    "programma": "radiofonico-blues",
+    "persone": [
+     "Andrea Carrieri"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "16.45",
+    "titolo": "Le mani sulla città",
+    "programma": "le-mani-sulla-citta",
+    "persone": [
+     "Michele Pompei",
+     "Federico Mascagni"
+    ],
+    "nota": "gioco a premi"
+   },
+   {
+    "giorni": "lun",
+    "ora": "20.05",
+    "titolo": "Skinhead Times",
+    "programma": "skinhead-times",
+    "persone": [
+     "Riccardo",
+     "Papero"
+    ],
+    "nota": "replica il sabato alle 14.30"
+   },
+   {
+    "giorni": "lun",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Alberto Antonini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "22.00",
+    "titolo": "Radio barbiere",
+    "programma": "radio-barbiere",
+    "persone": [
+     "Fulvio Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "0.20",
+    "titolo": "La radio sul cuscino",
+    "programma": "la-radio-sul-cuscino",
+    "persone": [
+     "Alberto Antonini"
+    ],
+    "nota": "notturno"
+   },
+   {
+    "giorni": "mar",
+    "ora": "11.30",
+    "titolo": "L'orecchio di cemento",
+    "programma": "l-orecchio-di-cemento",
+    "persone": [
+     "Basse Sfere"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar, gio",
+    "ora": "14.45",
+    "titolo": "Teenage kicks",
+    "programma": "teenage-kicks",
+    "persone": [
+     "Massimiliano Bonini",
+     "Federico Ferrari"
+    ],
+    "nota": "il giovedì alle 15.55"
+   },
+   {
+    "giorni": "mar",
+    "ora": "15.40",
+    "titolo": "RCdC Arte",
+    "programma": "rcdc-arte",
+    "persone": [
+     "Giancarlo Bettini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "15.55",
+    "titolo": "Mondo frido",
+    "programma": "mondo-frido",
+    "persone": [
+     "Giovanni Cattabriga",
+     "Giovanni Azzoni"
+    ],
+    "nota": "anche il venerdì alle 14.45"
+   },
+   {
+    "giorni": "mar–ven",
+    "ora": "17.00",
+    "titolo": "After tea",
+    "programma": "after-tea",
+    "persone": [
+     "Moreno Mari",
+     "Federico Minghini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "20.05",
+    "titolo": "Comma 22",
+    "programma": "comma-22",
+    "persone": [
+     "Claudio Boccolari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Sebastiano Sicali"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mar",
+    "ora": "0.20",
+    "titolo": "L'era del cinghiale bianco",
+    "programma": "l-era-del-cinghiale-bianco",
+    "persone": [
+     "Simone Bedetti"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "11.30",
+    "titolo": "L'ora d'aria",
+    "programma": "l-ora-d-aria",
+    "persone": [
+     "Massimo Simonini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "14.30",
+    "titolo": "RCdC Fumetti",
+    "programma": "rcdc-fumetti",
+    "persone": [
+     "Andrea Plazzi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "14.45",
+    "titolo": "Basse frequenze",
+    "programma": "basse-frequenze",
+    "persone": [
+     "Monica Melissano"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "20.05",
+    "titolo": "Contaminazioni jazz",
+    "programma": "contaminazioni-jazz",
+    "persone": [
+     "Giovanni Barbanti",
+     "Luca Settepani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Giangiacomo Rosiello"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "mer",
+    "ora": "22.00",
+    "titolo": "Pulp sound",
+    "programma": "pulp-sound",
+    "persone": [
+     "Andrea Tarozzi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "14.45",
+    "titolo": "L'eterna illusione",
+    "programma": "l-eterna-illusione",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "15.40",
+    "titolo": "RCdC Cinema",
+    "programma": "rcdc-cinema",
+    "persone": [
+     "Giacomo Manzoli",
+     "Roy Menarini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "20.05",
+    "titolo": "Plaza de toros",
+    "programma": "plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": "replica"
+   },
+   {
+    "giorni": "gio",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Augusto Bruni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "22.00",
+    "titolo": "Mondo groove",
+    "programma": "mondo-groove",
+    "persone": [
+     "Gabriele Gardini",
+     "Marco Ballotta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "gio",
+    "ora": "0.30",
+    "titolo": "La voce del sogno",
+    "programma": "la-voce-del-sogno",
+    "persone": [
+     "Alex Leati"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "15.40",
+    "titolo": "RCdC informazione internazionale",
+    "programma": "rcdc-informazione-internazionale",
+    "persone": [
+     "Giovanni Dognini",
+     "Miran de Almeida",
+     "Valeria Bertoncelli",
+     "Catherine Dickehage"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "15.55",
+    "titolo": "Stand by",
+    "programma": "stand-by",
+    "persone": [
+     "Alex Dandi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "20.05",
+    "titolo": "Time zone",
+    "programma": "time-zone",
+    "persone": [
+     "Roberto Gerardi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Nevio Bencivenni"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "22.00",
+    "titolo": "Psycho navigation",
+    "programma": "psycho-navigation",
+    "persone": [
+     "Gino Dal Soler"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "ven",
+    "ora": "0.30",
+    "titolo": "Il notturno del Rock Shop",
+    "programma": "il-notturno-del-rock-shop",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "10.40",
+    "titolo": "La plaza de toros",
+    "programma": "la-plaza-de-toros",
+    "persone": [
+     "Danilo Tomasetta"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "11.40",
+    "titolo": "Fuori moda",
+    "programma": "fuori-moda",
+    "persone": [
+     "Massimo Antonucci"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "15.40",
+    "titolo": "Van",
+    "programma": "van",
+    "persone": [
+     "Giovanni Gandolfi"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "17.30",
+    "titolo": "Etnicaos",
+    "programma": "etnicaos",
+    "persone": [
+     "Pierpaolo Pederzini"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "sab",
+    "ora": "20.00",
+    "titolo": "Gay Pride Night",
+    "programma": "gay-pride-night",
+    "persone": [
+     "Bruno Pompa"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "13.30",
+    "titolo": "Di cotte e di crude",
+    "programma": "di-cotte-e-di-crude",
+    "persone": [
+     "Laura Cacciari",
+     "Francesco Garbari",
+     "Stefania Vergnani"
+    ],
+    "nota": "amenità gastronomiche"
+   },
+   {
+    "giorni": "dom",
+    "ora": "14.45",
+    "titolo": "Corrispondente X",
+    "programma": "corrispondente-x",
+    "persone": [
+     "Dhany Coraucci"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "15.00",
+    "titolo": "Tempo al tempo",
+    "programma": "tempo-al-tempo",
+    "persone": [],
+    "nota": "a cura della Banca del Tempo"
+   },
+   {
+    "giorni": "dom",
+    "ora": "16.00",
+    "titolo": "Le classiche monografie",
+    "programma": "le-classiche-monografie",
+    "persone": [],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "17.00",
+    "titolo": "Vile vinile",
+    "programma": "vile-vinile",
+    "persone": [
+     "Luca Bottura",
+     "Francesco Garbari"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "18.00",
+    "titolo": "Suoni sconnessi",
+    "programma": "suoni-sconnessi",
+    "persone": [],
+    "nota": "speciale Centofiori"
+   },
+   {
+    "giorni": "dom",
+    "ora": "18.30",
+    "titolo": "Spazio libero",
+    "programma": "spazio-libero",
+    "persone": [],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "20.00",
+    "titolo": "Mc Guffin",
+    "programma": "mc-guffin",
+    "persone": [
+     "Gianluca Galletti"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "21.00",
+    "titolo": "Conduzione musicale serale",
+    "programma": "conduzione-musicale-serale",
+    "persone": [
+     "Gianni Tavoletti"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "dom",
+    "ora": "22.00",
+    "titolo": "Linee oblique",
+    "programma": "linee-oblique",
+    "persone": [
+     "Andrea Albani"
+    ],
+    "nota": ""
+   },
+   {
+    "giorni": "lun",
+    "ora": "22.00",
+    "titolo": "Ventennium",
+    "programma": "ventennium",
+    "persone": [],
+    "nota": "programma per i vent'anni del '77, dal 10 marzo"
+   },
+   {
+    "giorni": "mar",
+    "ora": "15.00",
+    "titolo": "Randagi",
+    "programma": "randagi",
+    "persone": [],
+    "nota": "rassegna radiofonica dedicata ai musicisti di strada"
+   }
+  ]
+ }
+]
